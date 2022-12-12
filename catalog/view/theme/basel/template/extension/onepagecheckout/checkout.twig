@@ -1,0 +1,307 @@
+{{ header }}
+<link href="catalog/view/javascript/onepagecheckout/css/base.css" rel="stylesheet">
+<link href="catalog/view/javascript/onepagecheckout/css/style.css" rel="stylesheet">
+
+<div class="container" id="onepagecheckout">
+
+
+   <ul class="breadcrumb">
+    {% for breadcrumb in breadcrumbs %}
+    <li><a href="{{ breadcrumb.href }}">{{ breadcrumb.text }}</a></li>
+    {% endfor %}
+  </ul>
+  {% if error_warning %}
+  <div class="alert alert-danger"><i class="fa fa-exclamation-circle"></i> {{ error_warning }}
+    <button type="extutton" class="close" data-dismiss="alert">&times;</button>
+  </div>
+ {% endif %}  
+  <div class="row">
+{{ column_left }}
+    {% if column_left and column_right %}
+    {% set class = 'col-sm-6' %}
+    {% elseif column_left or column_right %}
+    {% set class = 'col-sm-9' %}
+    {% else %}
+    {% set class = 'col-sm-12' %}
+    {% endif %}
+    <div id="content" class="{{ class }}">
+		{{ content_top }}
+		<h1 id="page-title">{{ heading_title }}</h1>  
+		
+		{% if header_description %}
+		<div class="margintb">{{header_description}}</div>
+		{% endif %}
+		
+		<div class="row account_option">
+			<div class="{{class1}}">
+				
+			<h4>{{ text_personal_details }}</h4>
+				{% if not logged %}
+				<div class="tab-holder" {% if (tabwidth == '100%') %} style="display:none"{% endif %}>
+				<!-- Register , Guest , Login Buttons -->
+
+				{% if register_status %}
+				<label class="{% if account_open == 'register' %} tab active {% else %} tab {% endif %} button-account-type ">
+				<input type="radio" name="account_type" value="register" {% if account_open == 'register' %} checked="checked" {% endif %} /> {{register_tab}}
+						</label>
+						{% endif %}
+						{% if guest_status %}
+						<label class="{% if account_open == 'guest' %} tab active {% else %} tab {% endif %} button-account-type">
+						<input type="radio" name="account_type" value="guest" {% if account_open == 'guest' %} checked="checked" {% endif %} /> {{guest_tab}}
+						</label>
+						{% endif %}
+						{% if enable_login %}
+						<label class="{% if account_open == 'login' %}tab  active {% else %} tab {% endif %} button-account-type">
+						<input type="radio" name="account_type" value="login" {% if account_open == 'login' %} checked="checked" {% endif %} /> {{login_tab}}
+						</label>
+						{% endif %}
+					 </div>
+				{% endif %}
+				<div class="account-content content-register-guest">
+				{% if not logged %}
+				<!-- Details -->
+				<div class="personal-details-content content-personal-details marginbottom">{{personal_details}}</div>
+				{% else %}
+				<div class="payment-details-content content-payment-details marginbottom">{{payment_details}}</div>
+				{% endif %}
+				{% if shipping %}
+				<div class="delivery-details-content content-delivery-details">{{delivery_details}}</div>
+				{% endif %}
+				</div>
+				{% if not logged %}
+					<div class="account-content content-login">{{login}}</div>
+				{% endif %}
+			</div>
+			<div class="{{class2}}">
+			<div class="totals-slip">
+				
+				<div class="extrow">
+					<!-- Shipping -->
+					{% if shipping %}
+					<div class="extsm-12">
+						<div class="full-payment-method format_load">
+							<div class="content-delivery-method">
+								<div class="extpanel extpanel-default">
+										<h4 class="extpanel-title">{{text_shipping_method}}</h4>
+									
+									<div class="extpanel-body delivery-method-content ext-delivery-method"></div>
+								</div>
+							</div>
+						</div>
+					</div>
+					{% endif %}
+					
+					<!-- Payment Methods -->
+					<div class="extsm-12">
+						<div class="full-payment-method format_load">
+							<div class="content-payment-method">
+								<div class="extpanel extpanel-default">
+								<h4 class="extpanel-title">{{text_payment_methods}}</h4>
+
+									<div class="extpanel-body payment-method-content ext-payment-method"></div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<!--CART START-->
+				{% if shopping_cart_status %}
+				<div class="extrow full-cart format_load">
+					<div class="extsm-12">
+						<div class="content-shopping-cart">
+							<div class="extpanel extpanel-default">
+									<h4 class="extpanel-title">{{text_shopping_cart}}{% if weight %}({{ weight }}){% endif %}
+									</h4>
+								
+								<div class="extpanel-body">
+									<div class="shopping-cart-content ext-carts min-hght"></div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				{% endif %}
+				<!--CART END-->
+
+
+				<div class="confirm-order-content content-confirm-order extpanel clearfix"></div>
+			</div>
+		</div>
+		</div>
+		{% if bottom_description %} <div class="margintb">{{bottom_description}}</div> {% endif %}
+		{{content_bottom}}
+	</div>
+    {{column_right}}
+</div>
+{% if not logged %}
+<script type="text/javascript"><!--
+// Account Type Trigger
+$(document).delegate('#onepagecheckout .button-account-type', 'click', function(){
+	$('#onepagecheckout .button-account-type').removeClass('active');	
+	$(this).addClass('active');	
+});
+
+$(document).delegate('#onepagecheckout .button-account-type', 'change', function(){
+	setTimeout(function() {
+		
+		var account_type = ($('#onepagecheckout input[name=\'account_type\']:checked').val()) ? $('#onepagecheckout input[name=\'account_type\']:checked').val() : '';
+		if(account_type == 'login') {
+			$('#onepagecheckout .account-content').addClass('hide');
+			$('#onepagecheckout .content-login').removeClass('hide');	
+		}else{
+			$('#onepagecheckout .account-content').addClass('hide');
+			$('#onepagecheckout .content-register-guest').removeClass('hide');	
+			if(account_type == 'register') {
+				$('#onepagecheckout .register_fields').removeClass('hide');	
+			}else{
+				$('#onepagecheckout .register_fields').addClass('hide');	
+			}
+		}
+		LoadCart();
+		LoadConfirmation(account_type);
+	}, 300);
+});
+// Account Type Trigger
+$('#onepagecheckout .active.button-account-type').trigger('change');
+
+//--></script>
+{% endif %}
+{% if not shipping %}
+<script type="text/javascript"><!--
+LoadCartWithoutloader();
+//--></script>
+{% endif %}
+<script type="text/javascript"><!--
+{% if not logged %}
+function changeShippingAddress(){
+	var shipping_address = $('#onepagecheckout input[name=\'personal_details[shipping_address]\']:checked').val();
+	if(shipping_address) {
+		$('#onepagecheckout .delivery-details-content').addClass('hide');
+	}else{
+		$('#onepagecheckout .delivery-details-content').removeClass('hide');
+	}
+}
+	
+$('#onepagecheckout input[name=\'personal_details[shipping_address]\']').click(function(){
+	changeShippingAddress();
+});
+
+$(document).ready(function(){
+	changeShippingAddress();
+});
+{% endif %}
+//--></script>
+<script type="text/javascript"><!--
+$(document).delegate('#onepagecheckout #button-register, #onepagecheckout #button-guest, #onepagecheckout #button-loggedorder', 'click', function(){
+	var button_type = $(this).attr('rel');
+	$.ajax({
+		url: 'index.php?route=extension/onepagecheckout/validate/validateForm',
+		type: 'post',
+		dataType: 'json',
+		data: $('#onepagecheckout input[type=\'text\'],#onepagecheckout input[type=\'password\'], #onepagecheckout input[type=\'hidden\'], #onepagecheckout input[type=\'radio\']:checked, #onepagecheckout input[type=\'checkbox\']:checked, #onepagecheckout select, #onepagecheckout textarea'),
+		beforeSend: function() {
+			$('#onepagecheckout #button-'+ button_type).button('loading');
+		},
+		complete: function() {
+			$('#onepagecheckout #button-'+ button_type).button('reset');
+		},
+		success: function(json) {
+			$('.alert, .text-danger').remove();
+      $('.form-group').removeClass('has-error');
+			if(json['error']){
+				//// Register Or Guest Checkout - Personal Details (Validate)
+				if(json['error']['personal_details']){
+					for (i in json['error']['personal_details']){
+						var element = $('#onepagecheckout .personal-details-content #input-payment-' + i.replace('_', '-'));
+						if ($(element).parent().hasClass('input-group')) {
+							$(element).parent().after('<div class="text-danger">' + json['error']['personal_details'][i] + '</div>');
+						} else {
+							{% if error_field_layout %}
+							$(element).after('<div class="text-danger">' + json['error']['personal_details'][i] + '</div>');
+							{% endif %}
+							$(element).parent().addClass('has-error');
+//$('html, body').animate({scrollTop:0},'slow');
+						}
+					}
+				}
+				// Delivery Address (Validate)
+				if(json['error']['delivery_details']){
+					for (i in json['error']['delivery_details']){
+						var element = $('#onepagecheckout .delivery-details-content #input-shipping-' + i.replace('_', '-'));
+						if ($(element).parent().hasClass('input-group')) {
+							$(element).parent().after('<div class="text-danger">' + json['error']['delivery_details'][i] + '</div>');
+						} else {
+							{% if error_field_layout %}
+							$(element).after('<div class="text-danger">' + json['error']['delivery_details'][i] + '</div>');
+							{% endif %}
+							$(element).parent().addClass('has-error');
+//$('html, body').animate({scrollTop:0},'slow');
+						}
+					}
+				}
+				
+				// Payment Address (Validate)
+				if(json['error']['payment_details']){
+					for (i in json['error']['payment_details']){
+						var element = $('#onepagecheckout .payment-details-content #input-payment-' + i.replace('_', '-'));
+						if ($(element).parent().hasClass('input-group')) {
+							$(element).parent().after('<div class="text-danger">' + json['error']['payment_details'][i] + '</div>');
+						} else {
+							{% if error_field_layout %}
+							$(element).after('<div class="text-danger">' + json['error']['payment_details'][i] + '</div>');
+							{% endif %}
+							$(element).parent().addClass('has-error');
+//$('html, body').animate({scrollTop:0},'slow');
+						}
+					}
+				}
+				
+				if(json['error']['warning']){
+					$('.account_option').before('<div class="alert alert-danger"> <i class="fa fa-exclamation-circle"></i> ' + json['error']['warning'] + '<button type="extutton" class="close" data-dismiss="alert">&times;</button></div>');
+				}
+				
+				
+				
+				if(json['error']['payment_method']){
+					$('.payment-method-content').before('<div class="alert alert-danger"> <i class="fa fa-exclamation-circle"></i> ' + json['error']['payment_method']['warning'] + '<button type="extutton" class="close" data-dismiss="alert">&times;</button></div>');
+				}
+				
+				if(json['error']['shipping_method']){
+					$('.delivery-method-content').before('<div class="alert alert-danger"><i class="fa fa-exclamation-circle"></i> ' + json['error']['shipping_method']['warning'] + '<button type="extutton" class="close" data-dismiss="alert">&times;</button></div>');
+				}
+				
+				if(json['error']['comment']){
+					$('textarea[name="comment"]').before('<div class="alert alert-danger"><i class="fa fa-exclamation-circle"></i> '+ json['error']['comment'] +'<button type="extutton" class="close" data-dismiss="alert">&times;</button></div>');
+				}
+			}
+			
+			if(json['redirect']){
+				  location = 'index.php?route=extension/onepagecheckout/checkout';
+			}
+			
+			if(json['success']=='register'){
+				LoadConfirmation('confirm');
+			}
+			
+			if(json['success']=='Guest'){
+				LoadConfirmation('confirm');
+			}
+			
+			if(json['success']=='confirm'){
+				LoadConfirmation('confirm');
+			}
+		}
+	});
+});
+//--></script>
+<script type="text/javascript"><!--
+$(document).ready(function() {
+	{% if logged %}
+	LoadCart();
+	var account_type = ($('#onepagecheckout input[name=\'account_type\']:checked').val()) ? $('#onepagecheckout input[name=\'account_type\']:checked').val() : '';
+	LoadConfirmation(account_type);
+	{% endif %}
+});
+//--></script>
+</div>
+{{footer}}

@@ -1,0 +1,51 @@
+{% if error_warning %}
+<div class="extalert balert-danger"><i class="fa fa-exclamation-circle"></i> {{error_warning}}</div>
+{% endif %}
+{% if shipping_methods %}
+		{% for shipping_method in shipping_methods %}
+
+		{% if not shipping_method.error %}
+		{% for quote in shipping_method.quote %}
+		<div class="radio">
+			<label>
+				{% if quote.code == code or not code %}
+				{% set code = quote.code %}
+				<input type="radio" name="shipping_method" value="{{ quote.code }}" checked="checked" />
+				 {% else %}
+				<input type="radio" name="shipping_method" value="{{ quote.code }}" />
+				{% endif %}
+				
+				{{ quote.title }}
+				
+			</label>
+		 <span class="amount">{{ quote.text }}</span>
+		</div>
+		{% endfor %}
+		{% else %}
+		<div class="alert alert-danger">{{ shipping_method.error }}</div>
+		{% endif %}
+{% endfor %}
+{% endif %}
+<script type="text/javascript">
+$('.delivery-method-content input[name=\'shipping_method\'], .delivery-method-content input[name=\'shipping_method\']').on('change', function(){
+	$.ajax({
+		url: 'index.php?route=extension/onepagecheckout/shipping_method/saveshipping',
+		type:'post',
+		data:$('.delivery-method-content input[type="radio"]:checked'),
+		dataType: 'json',
+		success: function(json){
+			$('.alert, .text-danger').remove();
+			if(json['error']){
+				$('.delivery-method-content').before('<div class="alert alert-danger">' + json['error']['warning'] + '<button type="button" class="close" data-dismiss="alert">&times;</button></div>');
+			}
+			if(json['success']){
+				LoadCart();
+			}
+		}
+	})
+});
+
+$(document).ready(function(){
+$('.delivery-method-content input[name=\'shipping_method\']:checked, .delivery-method-content select[name=\'shipping_method\']').trigger('change');
+});
+</script>

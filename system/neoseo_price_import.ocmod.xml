@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<modification>
+	<name>NeoSeo Price Import</name>
+	<version>34</version>
+	<code>neoseo-price-import</code>
+	<author>NeoSeo</author>
+	<link>https://neoseo.com.ua/neoseo-price-import</link>
+
+	<file path="admin/controller/common/column_left.php">
+		<operation>
+			<search><![CDATA[if ($this->user->hasPermission('access', 'catalog/filter')) {]]></search>
+			<add position="before"><![CDATA[			/* NeoSeo Price Import - begin */
+			if( $this->user->hasPermission('access','tool/neoseo_price_import')) {
+				if( $this->config->get("neoseo_price_import_status") ) {
+					$this->language->load("tool/neoseo_price_import");
+					$catalog[] = array(
+						'name'	   => $this->language->get('text_price_import'),
+						'href'     => $this->url->link('tool/neoseo_price_import', 'token=' . $this->session->data['token'], true),
+						'children' => array()
+					);
+				}
+			}
+			/* NeoSeo Price Import - end */]]></add>
+		</operation>
+	</file>
+
+</modification>

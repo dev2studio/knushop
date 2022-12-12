@@ -1,0 +1,302 @@
+{% if not redirect %}
+{% if error_warning %}
+<div class="alert alert-danger"><i class="fa fa-exclamation-circle"></i> {{ error_warning }}
+</div>
+{% endif %}
+<div class="extcover">
+<div class="exttable-responsive">
+	<table class="exttable table table-bordered margin-b0">
+		<thead>
+			<tr>
+				{% set colspan = 0 %}
+				{% if show_product_name %}
+				<td class="text-left">{{column_name}}</td>
+				{% set colspan = colspan + 1 %}
+				{% endif %}
+				{% if show_product_model %}
+				<td class="text-left hidden-xs hidden-sm">{{column_model}}</td>
+				{% set colspan = colspan + 1 %}
+				{% endif %}
+				{% if show_product_quantity %}
+				<td class="text-left">{{column_quantity}}</td>
+				{% set colspan = colspan + 1 %}
+				{% endif %}
+				{% if show_product_unit %}
+				<td class="text-right hidden-xs hidden-sm">{{column_price}}</td>
+				{% set colspan = colspan + 1 %}
+				{% endif %}
+				{% if show_product_total_price %}
+				<td class="text-right">{{column_total}}</td>
+				{% set colspan = colspan + 1 %}
+				{% endif %}
+			</tr>
+		</thead>
+		<tbody>
+			{% for product in products %}
+			<tr>
+
+				<td class="text-left">
+                <div class="table">
+				{% if show_product_image %}
+				{% if product.thumb %}
+				<div class="table-cell v-top">
+					<a href="{{product.href}}"><img src="{{product.thumb}}" alt="{{product.name}}" title="{{product.name}}" style="max-width:none;" class="hidden-xs hidden-sm" /></a>
+					{% endif %}
+				</div>
+				{% endif %}
+				{% if show_product_name %}
+				<div class="table-cell">
+<a href="{{product.href}}">{{product.name}}</a>
+					{% if not product.stock %}
+					<span class="text-danger">***</span>
+					{% endif %}
+					{% if product.option %}
+					{% for option in product.option %}
+					<br />
+					<small>{{option.name}}: {{option.value}}</small>
+					{% endfor %}
+					{% endif %}
+					{% if product.reward %}
+					<br />
+					<small>{{product.reward}}</small>
+					{% endif %}
+					{% if product.recurring %}
+					<br />
+					<span class="label label-info">{{text_recurring_item}}</span> <small>{{product.recurring}}</small>
+					{% endif %}
+					<br />
+                    <a onclick="removeOnepageCart('{{ product.cart_id }}');" class="cart-remove">{{ button_remove }}</a>
+                    </div>
+				{% endif %}
+				</div>
+                </td>
+				{% if show_product_model %}
+				<td class="text-left hidden-xs hidden-sm">{{product.model}}</td>
+				{% endif %}
+				{% if show_product_quantity %}
+				<td class="text-left">
+					<?php if ($qty_update_permission) { ?>
+					<div class="qty-block">
+                    <a class="extbtn-block minus" onclick="downOnepageCart('{{ product.cart_id }}');">-</a>
+                    <input type="text" name="quantity[{{product.cart_id}}]" value="{{product.quantity}}" size="1" rel="{{product.cart_id}}" class="formcontrol quantitybox" />
+                    <a class="extbtn-block plus" onclick="upOnepageCart('{{ product.cart_id }}');">+</a>
+					</div>
+					<?php } else{ ?>
+					<?php echo $product['quantity']; ?>
+					<?php } ?>
+				</td>
+				{% endif %}
+				
+				{% if show_product_unit %}
+				<td class="text-right hidden-xs hidden-sm">{{product.price}}</td>
+				{% endif %}
+				{% if show_product_total_price %}
+				<td class="text-right">{{product.total}}</td>
+				{% endif %}
+			</tr>
+			{% endfor %}
+			</tbody>
+            </table>
+			
+			{% if vouchers %}
+			<table class="exttable table table-bordered  margin-b0">
+			<tbody>
+			{% for voucher in vouchers %}
+			<tr>
+				<td class="text-left">{{voucher.description}}
+				<br />
+				<a onclick="removeOnepageCartVoucher('{{ voucher.key }}');" class="cart-remove"><small>{{ button_remove }}</small></a>
+				</td>
+				
+				</td>
+				<td class="text-right">{{voucher.amount}}</td>
+
+			</tr>
+			{% endfor %}
+			</tbody>
+            </table>
+			{% endif %}
+			<div class="table-holder">
+            <table class="table table-bordered total-list margin-b0">
+            <tbody>
+			{% for total in totals %}
+			<tr>
+				<td><strong>{{total.title}}:</strong></td>
+				<td class="text-right">{{total.text}}</td>
+			</tr>
+			{% endfor %}
+		</tbody>
+	</table>
+	
+</div>
+		
+		{% if (coupon_module) or (voucher_module) or (reward_module) %}
+		<div class="promo-fields">
+		<div id="voucher-coupon-reward-error"></div>
+		{{coupon_module}}
+		{{voucher_module}}
+		{{reward_module}}
+		</div>
+		{% endif %}
+</div>
+<script type="text/javascript"><!--
+$('#onepagecheckout .quantitybox').keypress(function(event) {
+	var keycode = (event.keyCode ? event.keyCode : event.which);
+	if(keycode == '13'){
+		var key = $(this).attr('rel');
+		var quantity = $('#onepagecheckout input[name=\'quantity['+ key +']\']').val();
+		updatecart(key,quantity);
+	}
+});
+
+$('#onepagecheckout .quantitybox').blur(function(){
+	var key = $(this).attr('rel');
+	var quantity = $('#onepagecheckout input[name=\'quantity['+ key +']\']').val();
+	updatecart(key,quantity);
+});
+
+$('#onepagecheckout .quantityboxmb').blur(function(){
+	var key = $(this).attr('rel');
+	var quantity = $('#onepagecheckout input[name=\'quantitymb['+ key +']\']').val();
+	updatecart(key,quantity);
+});
+
+function upOnepageCart(key){
+	$('.tooltip').remove();
+	var quantity = parseInt($('#onepagecheckout input[name=\'quantity['+ key +']\']').val())+1;
+	updatecart(key,quantity);
+}
+
+function downOnepageCart(key){
+	$('.tooltip').remove();
+	var quantity = parseInt($('#onepagecheckout input[name=\'quantity['+ key +']\']').val())-1;
+	if(quantity ==0){
+		removeOnepageCart(key);
+	}else{
+		updatecart(key,quantity);
+	}
+}
+
+function updatecart(key,quantity){
+	
+	$.ajax({
+		url: 'index.php?route=extension/onepagecheckout/cart/edit',
+		type: 'post',
+		data: 'key=' + key + '&quantity=' + quantity,
+		dataType: 'json',
+beforeSend: function(){
+			$('#onepagecheckout .content-shopping-cart').addClass('loading');
+		},
+		success: function(json){
+			// Need to set timeout otherwise it wont update the total
+			setTimeout(function (){
+				$('#onepagecheckout .content-shopping-cart').removeClass('loading');
+				$('#cart > button').html('<span id="cart-total"><i class="fa fa-shopping-cart"></i> ' + json['total'] + '</span>');
+			}, 400);
+			
+			{% if shipping %}
+			LoadShippingMethod();
+			{% else %}
+			LoadCartWithoutloader();
+			{% endif %}
+			setTimeout(function(){
+				{% if logged %}
+				LoadPaymentMethod(true);
+				{% else %}
+				LoadPaymentMethod(false);
+				{% endif %}
+				var account_type = ($('#onepagecheckout input[name=\'account_type\']:checked').val()) ? $('#onepagecheckout input[name=\'account_type\']:checked').val() : '';
+				LoadConfirmation(account_type);
+				$('#cart-content').load('index.php?route=common/cart/info #cart-content > *');
+				$('.cart-total-items').html( json['total_items'] );
+				$('.cart-total-amount').html( json['total_amount'] );
+			},400);
+		}
+	});
+}
+
+function removeOnepageCart(key){
+	if (confirm("{{alert_message}}") == true) {
+	$.ajax({
+		url: 'index.php?route=extension/basel/basel_features/remove_from_cart',
+		type: 'post',
+		data: 'key=' + key,
+		dataType: 'json',
+		beforeSend: function() {
+			$('#onepagecheckout .content-shopping-cart').addClass('loading');
+		},
+
+		success: function(json) {
+			// Need to set timeout otherwise it wont update the total
+			setTimeout(function () {
+				$('#onepagecheckout .content-shopping-cart').removeClass('loading');
+				$('#cart > button').html('<span id="cart-total"><i class="fa fa-shopping-cart"></i> ' + json['total'] + '</span>');
+			}, 400);
+			{% if shipping %}
+			LoadShippingMethod();
+			{% else %}
+			LoadCartWithoutloader();
+			{% endif %}
+			setTimeout(function(){
+				{% if logged %}
+				LoadPaymentMethod(true);
+				{% else %}
+				LoadPaymentMethod(false);
+				{% endif %}
+				var account_type = ($('#onepagecheckout input[name=\'account_type\']:checked').val()) ? $('#onepagecheckout input[name=\'account_type\']:checked').val() : '';
+				LoadConfirmation(account_type);
+$('#cart-content').load('index.php?route=common/cart/info #cart-content > *');
+				$('.cart-total-items').html( json['total_items'] );
+				$('.cart-total-amount').html( json['total_amount'] );
+			},500);
+		}
+	});
+  }
+}
+
+function removeOnepageCartVoucher(key){
+	if (confirm("{{alert_message}}") == true) {
+
+		$.ajax({
+			url: 'index.php?route=extension/basel/basel_features/remove_from_cart',
+			type: 'post',
+			data: 'key=' + key,
+			dataType: 'json',
+			beforeSend: function() {
+				$('#onepagecheckout .content-shopping-cart').addClass('loading');
+			},
+			success: function(json) {
+			// Need to set timeout otherwise it wont update the total
+			setTimeout(function (){
+				$('#onepagecheckout .content-shopping-cart').removeClass('loading');
+				$('#cart > button').html('<span id="cart-total"><i class="fa fa-shopping-cart"></i> ' + json['total'] + '</span>');
+			}, 400);
+				{% if shipping %}
+					LoadShippingMethod();
+				{% else %}
+					LoadCartWithoutloader();
+				{% endif %}
+				setTimeout(function(){
+					{% if logged %}
+					LoadPaymentMethod(true);
+					{% else %}
+					LoadPaymentMethod(false);
+					{% endif %}
+					var account_type = ($('#onepagecheckout input[name=\'account_type\']:checked').val()) ? $('#onepagecheckout input[name=\'account_type\']:checked').val() : '';
+					LoadConfirmation(account_type);
+$('#cart-content').load('index.php?route=common/cart/info #cart-content > *');
+				$('.cart-total-items').html( json['total_items'] );
+				$('.cart-total-amount').html( json['total_amount'] );
+			},500);
+			}
+		});
+	}
+}			
+var account_type = ($('#onepagecheckout input[name=\'account_type\']:checked').val()) ? $('#onepagecheckout input[name=\'account_type\']:checked').val() : '';
+LoadConfirmation(account_type);	
+//--></script>
+{% else %}
+<script type="text/javascript"><!--
+location = '{{redirect}}';
+//--></script>
+{% endif %}

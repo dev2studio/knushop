@@ -1,0 +1,1399 @@
+2019-10-20 21:06:27 - Get Sample product feed
+2019-10-20 21:06:27 - Complete - Get Sample product feed
+2019-10-20 21:10:47 - Updating FAE settings - facebook_pixel_id,facebook_pixel_use_pii
+2019-10-20 21:10:47 - Complete - Updating FAE settings
+2019-10-20 21:10:47 - Updating FAE settings - facebook_catalog_id
+2019-10-20 21:10:47 - Complete - Updating FAE settings
+2019-10-20 21:10:47 - Updating FAE settings - facebook_dia_setting_id
+2019-10-20 21:10:47 - Complete - Updating FAE settings
+2019-10-20 21:10:47 - Clear all Facebook products
+2019-10-20 21:10:47 - Complete - Clear all Facebook products
+2019-10-20 21:10:48 - Updating FAE settings - facebook_page_id,facebook_page_token
+2019-10-20 21:10:48 - Complete - Updating FAE settings
+2019-10-20 21:10:48 - Sync all products using feed
+2019-10-20 21:10:48 - Generating product feed file
+2019-10-20 21:10:48 - Generating product feed file header
+2019-10-20 21:10:48 - Generating product feed file for batch 0
+2019-10-20 21:10:48 - Generating product feed file for batch 1
+2019-10-20 21:10:48 - Sync all products using feed, feed file generated
+2019-10-20 21:10:48 - Sync all products using feed, facebook feed created
+2019-10-20 21:10:53 - Sync all products using feed, facebook upload created
+2019-10-20 21:10:53 - Complete - Sync all products using feed
+2019-10-20 21:11:54 - Get Sample product feed
+2019-10-20 21:11:54 - Complete - Get Sample product feed
+2019-10-20 21:12:56 - Get Sample product feed
+2019-10-20 21:12:56 - Complete - Get Sample product feed
+2019-10-20 21:15:16 - Get Sample product feed
+2019-10-20 21:15:16 - Complete - Get Sample product feed
+2019-10-20 21:16:32 - Deleting FAE settings
+2019-10-20 21:16:32 - Complete - Deleting FAE settings
+2019-10-20 21:16:32 - Clear all Facebook products
+2019-10-20 21:16:32 - Complete - Clear all Facebook products
+2019-10-20 21:17:30 - Updating FAE settings - facebook_catalog_id
+2019-10-20 21:17:30 - Complete - Updating FAE settings
+2019-10-20 21:17:30 - Updating FAE settings - facebook_dia_setting_id
+2019-10-20 21:17:30 - Complete - Updating FAE settings
+2019-10-20 21:17:30 - Updating FAE settings - facebook_pixel_id,facebook_pixel_use_pii
+2019-10-20 21:17:30 - Complete - Updating FAE settings
+2019-10-20 21:17:30 - Clear all Facebook products
+2019-10-20 21:17:30 - Complete - Clear all Facebook products
+2019-10-20 21:17:31 - Updating FAE settings - facebook_page_id,facebook_page_token
+2019-10-20 21:17:31 - Complete - Updating FAE settings
+2019-10-20 21:17:31 - Failure - facebook feed not created, get initial product sync status
+2019-10-20 21:17:31 - {"success":true}
+2019-10-20 22:12:08 - Failure - facebook feed not created, dashboard module
+2019-10-20 22:12:08 - {"success":true}
+2019-10-20 22:12:25 - Failure - facebook feed not created, dashboard module
+2019-10-20 22:12:25 - {"success":true}
+2019-10-20 22:12:42 - Get Sample product feed
+2019-10-20 22:12:42 - Complete - Get Sample product feed
+2019-10-20 22:12:43 - Failure - facebook feed not created, get initial product sync status
+2019-10-20 22:12:43 - {"success":true}
+2019-10-20 22:44:40 - Update products for availability change - 84,88,107
+2019-10-20 22:44:41 - Failure - facebook feed not created, update products for availability change
+2019-10-20 22:44:41 - {"success":true}
+2019-10-21 10:54:59 - Failure - facebook feed not created, dashboard module
+2019-10-21 10:54:59 - {"success":true}
+2019-10-21 10:55:11 - Failure - facebook feed not created, access product module
+2019-10-21 10:55:12 - {"success":true}
+2019-10-21 10:55:17 - Failure - facebook feed not created, access product module
+2019-10-21 10:55:18 - {"success":true}
+2019-10-21 10:55:19 - Failure - facebook feed not created, access product module
+2019-10-21 10:55:19 - {"success":true}
+2019-10-21 10:55:24 - Failure - facebook feed not created, access product module
+2019-10-21 10:55:24 - {"success":true}
+2019-10-21 10:56:55 - Failure - facebook feed not created, access product module
+2019-10-21 10:56:55 - {"success":true}
+2019-10-21 11:22:49 - Failure - facebook feed not created, dashboard module
+2019-10-21 11:22:49 - {"success":true}
+2019-10-21 11:23:06 - Get Sample product feed
+2019-10-21 11:23:06 - Complete - Get Sample product feed
+2019-10-21 11:23:08 - Failure - facebook feed not created, get initial product sync status
+2019-10-21 11:23:08 - {"success":true}
+2019-10-22 8:38:29 - Failure - facebook feed not created, dashboard module
+2019-10-22 8:38:29 - {"success":true}
+2019-10-22 8:38:34 - Failure - facebook feed not created, access product module
+2019-10-22 8:38:34 - {"success":true}
+2019-10-22 8:38:39 - Failure - facebook feed not created, access product module
+2019-10-22 8:38:40 - {"success":true}
+2019-10-22 8:38:47 - Failure - facebook feed not created, access product module
+2019-10-22 8:38:47 - {"success":true}
+2019-10-22 8:38:54 - Get Sample product feed
+2019-10-22 8:38:54 - Complete - Get Sample product feed
+2019-10-22 8:38:55 - Failure - facebook feed not created, get initial product sync status
+2019-10-22 8:38:56 - {"success":true}
+2019-10-22 19:07:33 - Update products for availability change - 73
+2019-10-22 19:07:34 - Failure - facebook feed not created, update products for availability change
+2019-10-22 19:07:34 - {"success":true}
+2019-10-23 9:06:29 - Update products for availability change - 97,99
+2019-10-23 9:06:29 - Failure - facebook feed not created, update products for availability change
+2019-10-23 9:06:30 - {"success":true}
+2019-10-23 21:29:54 - Update products for availability change - 101,107
+2019-10-23 21:29:54 - Failure - facebook feed not created, update products for availability change
+2019-10-23 21:29:55 - {"success":true}
+2019-11-01 15:15:43 - Update products for availability change - 97
+2019-11-01 15:15:43 - Failure - facebook feed not created, update products for availability change
+2019-11-01 15:15:44 - {"success":true}
+2019-11-07 17:08:21 - Update products for availability change - 84
+2019-11-07 17:08:21 - Failure - facebook feed not created, update products for availability change
+2019-11-07 17:08:22 - {"success":true}
+2019-11-08 12:34:42 - Update products for availability change - 68,73,121
+2019-11-08 12:34:43 - Failure - facebook feed not created, update products for availability change
+2019-11-08 12:34:43 - {"success":true}
+2019-11-10 18:19:47 - Failure - facebook feed not created, dashboard module
+2019-11-10 18:19:47 - {"success":true}
+2019-11-10 18:28:19 - Failure - facebook feed not created, dashboard module
+2019-11-10 18:28:20 - {"success":true}
+2019-11-10 18:29:02 - Failure - facebook feed not created, access product module
+2019-11-10 18:29:02 - {"success":true}
+2019-11-10 18:29:13 - Failure - facebook feed not created, access product module
+2019-11-10 18:29:14 - {"success":true}
+2019-11-10 18:29:46 - Failure - facebook feed not created, access product module
+2019-11-10 18:29:47 - {"success":true}
+2019-11-10 18:29:53 - Failure - facebook feed not created, access product module
+2019-11-10 18:29:54 - {"success":true}
+2019-11-10 18:30:53 - Get Sample product feed
+2019-11-10 18:30:53 - Complete - Get Sample product feed
+2019-11-10 18:30:54 - Failure - facebook feed not created, get initial product sync status
+2019-11-10 18:30:54 - {"success":true}
+2019-11-10 22:07:09 - Failure - facebook feed not created, dashboard module
+2019-11-10 22:07:09 - {"success":true}
+2019-11-10 22:08:41 - Failure - facebook feed not created, dashboard module
+2019-11-10 22:08:41 - {"success":true}
+2019-11-10 22:37:47 - Failure - facebook feed not created, dashboard module
+2019-11-10 22:37:47 - {"success":true}
+2019-11-10 22:38:46 - Failure - facebook feed not created, dashboard module
+2019-11-10 22:38:46 - {"success":true}
+2019-11-10 22:40:13 - Failure - facebook feed not created, dashboard module
+2019-11-10 22:40:14 - {"success":true}
+2019-11-10 22:40:18 - Get Sample product feed
+2019-11-10 22:40:18 - Complete - Get Sample product feed
+2019-11-10 22:40:19 - Failure - facebook feed not created, get initial product sync status
+2019-11-10 22:40:20 - {"success":true}
+2019-11-10 22:40:25 - Failure - facebook feed not created, dashboard module
+2019-11-10 22:40:26 - {"success":true}
+2019-11-10 22:40:43 - Failure - facebook feed not created, dashboard module
+2019-11-10 22:40:43 - {"success":true}
+2019-11-10 22:42:12 - Get Sample product feed
+2019-11-10 22:42:12 - Complete - Get Sample product feed
+2019-11-10 22:42:13 - Failure - facebook feed not created, get initial product sync status
+2019-11-10 22:42:14 - {"success":true}
+2019-11-10 22:43:48 - Get Sample product feed
+2019-11-10 22:43:48 - Complete - Get Sample product feed
+2019-11-10 22:43:49 - Failure - facebook feed not created, get initial product sync status
+2019-11-10 22:43:50 - {"success":true}
+2019-11-10 22:44:55 - Failure - facebook feed not created, dashboard module
+2019-11-10 22:44:55 - {"success":true}
+2019-11-10 22:44:58 - Get Sample product feed
+2019-11-10 22:44:58 - Complete - Get Sample product feed
+2019-11-10 22:44:59 - Failure - facebook feed not created, get initial product sync status
+2019-11-10 22:45:00 - {"success":true}
+2019-11-10 22:46:19 - Get Sample product feed
+2019-11-10 22:46:19 - Complete - Get Sample product feed
+2019-11-10 22:46:20 - Failure - facebook feed not created, get initial product sync status
+2019-11-10 22:46:21 - {"success":true}
+2019-11-10 22:47:02 - Get Sample product feed
+2019-11-10 22:47:02 - Complete - Get Sample product feed
+2019-11-10 22:47:03 - Failure - facebook feed not created, get initial product sync status
+2019-11-10 22:47:03 - {"success":true}
+2019-11-10 22:48:37 - Get Sample product feed
+2019-11-10 22:48:37 - Complete - Get Sample product feed
+2019-11-10 22:48:38 - Failure - facebook feed not created, get initial product sync status
+2019-11-10 22:48:38 - {"success":true}
+2019-11-10 22:49:32 - Get Sample product feed
+2019-11-10 22:49:32 - Complete - Get Sample product feed
+2019-11-10 22:49:33 - Failure - facebook feed not created, get initial product sync status
+2019-11-10 22:49:33 - {"success":true}
+2019-11-10 22:49:37 - Facebook Ads Extension version = 2.1.3
+2019-11-10 22:49:37 - OpenCart version = 2.3.0.2
+2019-11-10 22:49:37 - PHP version = 5.6.40
+2019-11-10 22:50:52 - Get Sample product feed
+2019-11-10 22:50:52 - Complete - Get Sample product feed
+2019-11-10 22:50:53 - Failure - facebook feed not created, get initial product sync status
+2019-11-10 22:50:53 - {"success":true}
+2019-11-10 22:51:14 - Failure - facebook feed not created, dashboard module
+2019-11-10 22:51:14 - {"success":true}
+2019-11-10 22:53:50 - Deleting FAE settings
+2019-11-10 22:53:50 - Complete - Deleting FAE settings
+2019-11-10 22:53:50 - Clear all Facebook products
+2019-11-10 22:53:50 - Complete - Clear all Facebook products
+2019-11-10 22:53:52 - Get Sample product feed
+2019-11-10 22:53:53 - Complete - Get Sample product feed
+2019-11-10 22:54:04 - Get Sample product feed
+2019-11-10 22:54:04 - Complete - Get Sample product feed
+2019-11-10 22:54:27 - Get Sample product feed
+2019-11-10 22:54:27 - Complete - Get Sample product feed
+2019-11-10 22:55:35 - Updating FAE settings - facebook_catalog_id
+2019-11-10 22:55:35 - Complete - Updating FAE settings
+2019-11-10 22:55:35 - Updating FAE settings - facebook_pixel_id,facebook_pixel_use_pii
+2019-11-10 22:55:35 - Complete - Updating FAE settings
+2019-11-10 22:55:35 - Updating FAE settings - facebook_dia_setting_id
+2019-11-10 22:55:35 - Complete - Updating FAE settings
+2019-11-10 22:55:35 - Clear all Facebook products
+2019-11-10 22:55:35 - Complete - Clear all Facebook products
+2019-11-10 22:55:35 - Updating FAE settings - facebook_page_id,facebook_page_token
+2019-11-10 22:55:35 - Complete - Updating FAE settings
+2019-11-10 22:55:35 - Sync all products using feed
+2019-11-10 22:55:35 - Generating product feed file
+2019-11-10 22:55:35 - Generating product feed file header
+2019-11-10 22:55:35 - Generating product feed file for batch 0
+2019-11-10 22:55:35 - Generating product feed file for batch 1
+2019-11-10 22:55:35 - Sync all products using feed, feed file generated
+2019-11-10 22:55:36 - Sync all products using feed, facebook feed created
+2019-11-10 22:55:38 - Sync all products using feed, facebook upload created
+2019-11-10 22:55:38 - Complete - Sync all products using feed
+2019-11-10 22:55:59 - Get Sample product feed
+2019-11-10 22:55:59 - Complete - Get Sample product feed
+2019-11-10 22:56:42 - Get Sample product feed
+2019-11-10 22:56:42 - Complete - Get Sample product feed
+2019-11-10 23:06:41 - Get Sample product feed
+2019-11-10 23:06:41 - Complete - Get Sample product feed
+2019-11-10 23:06:48 - Sync all products
+2019-11-10 23:06:50 - Success update product 118 / 2744019665656942 on Facebook
+2019-11-10 23:06:52 - Success update product 119 / 2271548946283667 on Facebook
+2019-11-10 23:06:54 - Success update product 111 / 2794911513852964 on Facebook
+2019-11-10 23:06:55 - Success update product 100 / 2441167976008641 on Facebook
+2019-11-10 23:06:57 - Success update product 99 / 2413516755443466 on Facebook
+2019-11-10 23:06:58 - Success update product 82 / 2565420366879681 on Facebook
+2019-11-10 23:07:00 - Success update product 90 / 2639913422767103 on Facebook
+2019-11-10 23:07:02 - Success update product 76 / 3169773879704427 on Facebook
+2019-11-10 23:07:03 - Success update product 91 / 2897570940255065 on Facebook
+2019-11-10 23:07:06 - Success update product 92 / 2373306792779735 on Facebook
+2019-11-10 23:07:07 - Success update product 98 / 2442455879142050 on Facebook
+2019-11-10 23:07:09 - Success update product 88 / 2645120015549138 on Facebook
+2019-11-10 23:07:09 - Delete for products - 117
+2019-11-10 23:07:09 - Complete - Delete for products - 117
+2019-11-10 23:07:11 - Success update product 103 / 2547130748668248 on Facebook
+2019-11-10 23:07:12 - Success update product 109 / 2319993598129371 on Facebook
+2019-11-10 23:07:13 - Success update product 110 / 2267893036648155 on Facebook
+2019-11-10 23:07:15 - Success update product 87 / 2751625558202579 on Facebook
+2019-11-10 23:07:17 - Success update product 86 / 3015491831813660 on Facebook
+2019-11-10 23:07:18 - Success update product 108 / 2861454690554280 on Facebook
+2019-11-10 23:07:20 - Success update product 120 / 2337236133069579 on Facebook
+2019-11-10 23:07:22 - Success update product 105 / 2618235624864392 on Facebook
+2019-11-10 23:07:23 - Success update product 94 / 2886259681407901 on Facebook
+2019-11-10 23:07:25 - Success update product 95 / 3935625013130449 on Facebook
+2019-11-10 23:07:26 - Success update product 93 / 2597962956909181 on Facebook
+2019-11-10 23:07:28 - Success update product 84 / 3253291341407668 on Facebook
+2019-11-10 23:07:30 - Success update product 70 / 2541403745913860 on Facebook
+2019-11-10 23:07:31 - Success update product 71 / 2814331385253007 on Facebook
+2019-11-10 23:07:33 - Success update product 72 / 2475670635801669 on Facebook
+2019-11-10 23:07:35 - Success update product 68 / 1395826157208183 on Facebook
+2019-11-10 23:07:36 - Success update product 73 / 2466216323493269 on Facebook
+2019-11-10 23:07:37 - Success update product 83 / 2675560165816585 on Facebook
+2019-11-10 23:07:39 - Success update product 106 / 2341414812635341 on Facebook
+2019-11-10 23:07:41 - Success update product 113 / 3259462854096220 on Facebook
+2019-11-10 23:07:43 - Success update product 101 / 2563114477103336 on Facebook
+2019-11-10 23:07:45 - Success update product 97 / 3717678184924323 on Facebook
+2019-11-10 23:07:46 - Success update product 89 / 2542976925755410 on Facebook
+2019-11-10 23:07:47 - Success update product 122 / 2591374624273287 on Facebook
+2019-11-10 23:07:49 - Success update product 102 / 3257216247653625 on Facebook
+2019-11-10 23:07:50 - Success update product 69 / 2518384414919944 on Facebook
+2019-11-10 23:07:52 - Success update product 85 / 3334797863227166 on Facebook
+2019-11-10 23:07:53 - Success update product 115 / 2536856213061536 on Facebook
+2019-11-10 23:07:55 - Success update product 121 / 2497534167002774 on Facebook
+2019-11-10 23:07:56 - Success update product 107 / 2827792577263790 on Facebook
+2019-11-10 23:07:57 - Success update product 114 / 2608986515857215 on Facebook
+2019-11-10 23:07:57 - Complete - Sync all products
+2019-11-11 8:30:24 - Get Sample product feed
+2019-11-11 8:30:24 - Complete - Get Sample product feed
+2019-11-13 8:23:57 - Update products for availability change - 115
+2019-11-13 8:23:58 - Success update availability product 115 / 2536856213061536 on Facebook
+2019-11-13 8:23:58 - Complete - Update products for availability change - 115
+2019-11-13 22:55:17 - Update products for availability change - 76,84,107,108,118,120
+2019-11-13 22:55:17 - Success update availability product 76 / 3169773879704427 on Facebook
+2019-11-13 22:55:18 - Success update availability product 84 / 3253291341407668 on Facebook
+2019-11-13 22:55:19 - Success update availability product 107 / 2827792577263790 on Facebook
+2019-11-13 22:55:19 - Success update availability product 108 / 2861454690554280 on Facebook
+2019-11-13 22:55:20 - Success update availability product 118 / 2744019665656942 on Facebook
+2019-11-13 22:55:21 - Success update availability product 120 / 2337236133069579 on Facebook
+2019-11-13 22:55:21 - Complete - Update products for availability change - 76,84,107,108,118,120
+2019-11-28 20:33:15 - Sync for product 98
+2019-11-28 20:33:16 - Success update product 98 / 2442455879142050 on Facebook
+2019-11-28 20:33:16 - Complete - Sync for product 98
+2019-11-28 20:33:38 - Sync for product 97
+2019-11-28 20:33:39 - Success update product 97 / 3717678184924323 on Facebook
+2019-11-28 20:33:39 - Complete - Sync for product 97
+2019-11-28 20:33:56 - Sync for product 102
+2019-11-28 20:33:57 - Success update product 102 / 3257216247653625 on Facebook
+2019-11-28 20:33:57 - Complete - Sync for product 102
+2019-11-29 21:35:30 - Update products for availability change - 114
+2019-11-29 21:35:32 - Success update availability product 114 / 2608986515857215 on Facebook
+2019-11-29 21:35:32 - Complete - Update products for availability change - 114
+2019-11-30 13:29:33 - Sync for product 123
+2019-11-30 13:29:34 - Success create product group 123 / 3253605114712146 on Facebook
+2019-11-30 13:29:36 - Success create product 123 / 3253605171378807 on Facebook
+2019-11-30 13:29:36 - Complete - Sync for product 123
+2019-12-09 13:13:40 - Update products for availability change - 84
+2019-12-09 13:13:41 - Success update availability product 84 / 3253291341407668 on Facebook
+2019-12-09 13:13:41 - Complete - Update products for availability change - 84
+2019-12-09 15:48:27 - Update products for availability change - 68
+2019-12-09 15:48:28 - Success update availability product 68 / 1395826157208183 on Facebook
+2019-12-09 15:48:28 - Complete - Update products for availability change - 68
+2019-12-11 14:31:49 - Update products for availability change - 119
+2019-12-11 14:31:50 - Success update availability product 119 / 2271548946283667 on Facebook
+2019-12-11 14:31:50 - Complete - Update products for availability change - 119
+2019-12-13 12:41:18 - Update products for availability change - 69,97
+2019-12-13 12:41:19 - Success update availability product 69 / 2518384414919944 on Facebook
+2019-12-13 12:41:20 - Success update availability product 97 / 3717678184924323 on Facebook
+2019-12-13 12:41:20 - Complete - Update products for availability change - 69,97
+2019-12-14 12:15:16 - Update products for availability change - 108
+2019-12-14 12:15:17 - Success update availability product 108 / 2861454690554280 on Facebook
+2019-12-14 12:15:17 - Complete - Update products for availability change - 108
+2019-12-15 13:38:48 - Update products for availability change - 68
+2019-12-15 13:38:49 - Success update availability product 68 / 1395826157208183 on Facebook
+2019-12-15 13:38:49 - Complete - Update products for availability change - 68
+2019-12-15 15:41:30 - Update products for availability change - 88
+2019-12-15 15:41:31 - Success update availability product 88 / 2645120015549138 on Facebook
+2019-12-15 15:41:31 - Complete - Update products for availability change - 88
+2019-12-15 15:42:40 - Update products for availability change - 88
+2019-12-15 15:42:41 - Success update availability product 88 / 2645120015549138 on Facebook
+2019-12-15 15:42:41 - Complete - Update products for availability change - 88
+2019-12-15 15:43:36 - Update products for availability change - 88
+2019-12-15 15:43:38 - Success update availability product 88 / 2645120015549138 on Facebook
+2019-12-15 15:43:38 - Complete - Update products for availability change - 88
+2019-12-16 10:26:39 - Update products for availability change - 97
+2019-12-16 10:26:40 - Success update availability product 97 / 3717678184924323 on Facebook
+2019-12-16 10:26:40 - Complete - Update products for availability change - 97
+2019-12-16 11:38:21 - Update products for availability change - 111,121
+2019-12-16 11:38:23 - Success update availability product 111 / 2794911513852964 on Facebook
+2019-12-16 11:38:24 - Success update availability product 121 / 2497534167002774 on Facebook
+2019-12-16 11:38:24 - Complete - Update products for availability change - 111,121
+2019-12-16 12:27:46 - Update products for availability change - 97
+2019-12-16 12:27:47 - Success update availability product 97 / 3717678184924323 on Facebook
+2019-12-16 12:27:47 - Complete - Update products for availability change - 97
+2019-12-17 15:40:56 - Update products for availability change - 70
+2019-12-17 15:40:57 - Success update availability product 70 / 2541403745913860 on Facebook
+2019-12-17 15:40:57 - Complete - Update products for availability change - 70
+2019-12-17 23:52:50 - Update products for availability change - 95,97
+2019-12-17 23:52:53 - Success update availability product 95 / 3935625013130449 on Facebook
+2019-12-17 23:52:55 - Success update availability product 97 / 3717678184924323 on Facebook
+2019-12-17 23:52:55 - Complete - Update products for availability change - 95,97
+2019-12-21 13:56:56 - Update products for availability change - 97
+2019-12-21 13:56:57 - Success update availability product 97 / 3717678184924323 on Facebook
+2019-12-21 13:56:57 - Complete - Update products for availability change - 97
+2019-12-23 17:20:43 - Sync for product 124
+2019-12-23 17:20:44 - Success create product group 124 / 1629456023845608 on Facebook
+2019-12-23 17:20:46 - Success create product 124 / 1629456147178929 on Facebook
+2019-12-23 17:20:46 - Complete - Sync for product 124
+2019-12-23 17:25:01 - Sync for product 125
+2019-12-23 17:25:02 - Success create product group 125 / 2608267315953239 on Facebook
+2019-12-23 17:25:04 - Success create product 125 / 2608267355953235 on Facebook
+2019-12-23 17:25:04 - Complete - Sync for product 125
+2019-12-23 17:25:50 - Sync for product 125
+2019-12-23 17:25:50 - Success update product 125 / 2608267355953235 on Facebook
+2019-12-23 17:25:50 - Complete - Sync for product 125
+2019-12-23 17:26:48 - Sync for product 121
+2019-12-23 17:26:49 - Success update product 121 / 2497534167002774 on Facebook
+2019-12-23 17:26:49 - Complete - Sync for product 121
+2019-12-23 17:28:54 - Sync for product 126
+2019-12-23 17:28:55 - Success create product group 126 / 2475311282578352 on Facebook
+2019-12-23 17:28:56 - Success create product 126 / 2475311315911682 on Facebook
+2019-12-23 17:28:56 - Complete - Sync for product 126
+2019-12-23 17:29:10 - Delete for products - 127
+2019-12-23 17:29:10 - Complete - Delete for products - 127
+2019-12-23 17:30:36 - Sync for product 128
+2019-12-23 17:30:37 - Success create product group 128 / 2752835764778004 on Facebook
+2019-12-23 17:30:39 - Success create product 128 / 2752835841444663 on Facebook
+2019-12-23 17:30:39 - Complete - Sync for product 128
+2019-12-23 17:31:02 - Sync for product 126
+2019-12-23 17:31:03 - Success update product 126 / 2475311315911682 on Facebook
+2019-12-23 17:31:03 - Complete - Sync for product 126
+2019-12-24 10:33:44 - Update products for availability change - 88,98,123
+2019-12-24 10:33:45 - Success update availability product 88 / 2645120015549138 on Facebook
+2019-12-24 10:33:47 - Success update availability product 98 / 2442455879142050 on Facebook
+2019-12-24 10:33:47 - Success update availability product 123 / 3253605171378807 on Facebook
+2019-12-24 10:33:47 - Complete - Update products for availability change - 88,98,123
+2019-12-24 22:42:14 - Update products for availability change - 102
+2019-12-24 22:42:16 - Success update availability product 102 / 3257216247653625 on Facebook
+2019-12-24 22:42:16 - Complete - Update products for availability change - 102
+2019-12-24 23:09:11 - Update products for availability change - 88
+2019-12-24 23:09:12 - Success update availability product 88 / 2645120015549138 on Facebook
+2019-12-24 23:09:12 - Complete - Update products for availability change - 88
+2019-12-25 12:12:50 - Update products for availability change - 93,121
+2019-12-25 12:12:51 - Success update availability product 93 / 2597962956909181 on Facebook
+2019-12-25 12:12:51 - Success update availability product 121 / 2497534167002774 on Facebook
+2019-12-25 12:12:51 - Complete - Update products for availability change - 93,121
+2019-12-25 23:46:45 - Update products for availability change - 102,120,124
+2019-12-25 23:46:46 - Success update availability product 102 / 3257216247653625 on Facebook
+2019-12-25 23:46:47 - Success update availability product 120 / 2337236133069579 on Facebook
+2019-12-25 23:46:48 - Success update availability product 124 / 1629456147178929 on Facebook
+2019-12-25 23:46:48 - Complete - Update products for availability change - 102,120,124
+2019-12-28 11:41:09 - Sync for product 123
+2019-12-28 11:41:10 - Success update product 123 / 3253605171378807 on Facebook
+2019-12-28 11:41:10 - Complete - Sync for product 123
+2019-12-28 11:53:20 - Sync for product 124
+2019-12-28 11:53:23 - Success update product 124 / 1629456147178929 on Facebook
+2019-12-28 11:53:23 - Complete - Sync for product 124
+2019-12-28 11:55:56 - Sync for product 125
+2019-12-28 11:55:57 - Success update product 125 / 2608267355953235 on Facebook
+2019-12-28 11:55:57 - Complete - Sync for product 125
+2019-12-28 12:01:03 - Sync for product 126
+2019-12-28 12:01:05 - Success update product 126 / 2475311315911682 on Facebook
+2019-12-28 12:01:05 - Complete - Sync for product 126
+2019-12-28 12:03:03 - Sync for product 128
+2019-12-28 12:03:05 - Success update product 128 / 2752835841444663 on Facebook
+2019-12-28 12:03:05 - Complete - Sync for product 128
+2019-12-28 12:07:36 - Sync for product 129
+2019-12-28 12:07:37 - Success create product group 129 / 3193501057333864 on Facebook
+2019-12-28 12:07:39 - Success create product 129 / 3193501100667193 on Facebook
+2019-12-28 12:07:39 - Complete - Sync for product 129
+2019-12-28 12:09:07 - Sync for product 128
+2019-12-28 12:09:09 - Success update product 128 / 2752835841444663 on Facebook
+2019-12-28 12:09:09 - Complete - Sync for product 128
+2019-12-28 12:09:20 - Sync for product 126
+2019-12-28 12:09:21 - Success update product 126 / 2475311315911682 on Facebook
+2019-12-28 12:09:21 - Complete - Sync for product 126
+2019-12-28 12:15:00 - Sync for product 125
+2019-12-28 12:15:01 - Success update product 125 / 2608267355953235 on Facebook
+2019-12-28 12:15:01 - Complete - Sync for product 125
+2019-12-28 12:16:06 - Sync for product 125
+2019-12-28 12:16:08 - Success update product 125 / 2608267355953235 on Facebook
+2019-12-28 12:16:08 - Complete - Sync for product 125
+2019-12-28 12:48:27 - Sync for product 130
+2019-12-28 12:48:27 - Delete for products - 130
+2019-12-28 12:48:27 - Complete - Delete for products - 130
+2019-12-28 12:48:27 - Complete - Sync for product 130
+2019-12-28 12:48:59 - Sync for product 131
+2019-12-28 12:48:59 - Delete for products - 131
+2019-12-28 12:48:59 - Complete - Delete for products - 131
+2019-12-28 12:48:59 - Complete - Sync for product 131
+2019-12-28 12:49:59 - Sync for product 132
+2019-12-28 12:49:59 - Delete for products - 132
+2019-12-28 12:50:00 - Complete - Delete for products - 132
+2019-12-28 12:50:00 - Complete - Sync for product 132
+2019-12-28 12:50:56 - Sync for product 133
+2019-12-28 12:50:57 - Success create product group 133 / 2662350013847882 on Facebook
+2019-12-28 12:50:58 - Success create product 133 / 2662350047181212 on Facebook
+2019-12-28 12:50:58 - Complete - Sync for product 133
+2019-12-28 12:51:30 - Sync for product 126
+2019-12-28 12:51:33 - Success update product 126 / 2475311315911682 on Facebook
+2019-12-28 12:51:33 - Complete - Sync for product 126
+2019-12-28 12:52:02 - Sync for product 132
+2019-12-28 12:52:03 - Success create product group 132 / 3018443901534383 on Facebook
+2019-12-28 12:52:05 - Success create product 132 / 3018443941534379 on Facebook
+2019-12-28 12:52:05 - Complete - Sync for product 132
+2019-12-28 12:52:26 - Sync for product 130
+2019-12-28 12:52:27 - Success create product group 130 / 2590729807701418 on Facebook
+2019-12-28 12:52:31 - Success create product 130 / 2590729877701411 on Facebook
+2019-12-28 12:52:31 - Complete - Sync for product 130
+2019-12-28 12:53:25 - Sync for product 131
+2019-12-28 12:53:26 - Success create product group 131 / 3357677604303150 on Facebook
+2019-12-28 12:53:29 - Success create product 131 / 3357677660969811 on Facebook
+2019-12-28 12:53:29 - Complete - Sync for product 131
+2019-12-29 12:07:14 - Sync for product 98
+2019-12-29 12:07:16 - Success update product 98 / 2442455879142050 on Facebook
+2019-12-29 12:07:16 - Complete - Sync for product 98
+2019-12-29 12:07:40 - Sync for product 76
+2019-12-29 12:07:41 - Success update product 76 / 3169773879704427 on Facebook
+2019-12-29 12:07:41 - Complete - Sync for product 76
+2019-12-29 12:08:50 - Sync for product 129
+2019-12-29 12:08:52 - Success update product 129 / 3193501100667193 on Facebook
+2019-12-29 12:08:52 - Complete - Sync for product 129
+2019-12-29 12:09:11 - Sync for product 87
+2019-12-29 12:09:12 - Success update product 87 / 2751625558202579 on Facebook
+2019-12-29 12:09:12 - Complete - Sync for product 87
+2019-12-29 12:09:26 - Sync for product 86
+2019-12-29 12:09:27 - Success update product 86 / 3015491831813660 on Facebook
+2019-12-29 12:09:27 - Complete - Sync for product 86
+2019-12-29 12:09:38 - Sync for product 123
+2019-12-29 12:09:39 - Success update product 123 / 3253605171378807 on Facebook
+2019-12-29 12:09:39 - Complete - Sync for product 123
+2019-12-29 12:09:53 - Sync for product 108
+2019-12-29 12:09:54 - Success update product 108 / 2861454690554280 on Facebook
+2019-12-29 12:09:54 - Complete - Sync for product 108
+2019-12-29 12:10:06 - Sync for product 120
+2019-12-29 12:10:08 - Success update product 120 / 2337236133069579 on Facebook
+2019-12-29 12:10:08 - Complete - Sync for product 120
+2019-12-29 12:10:21 - Sync for product 84
+2019-12-29 12:10:37 - Success update product 84 / 3253291341407668 on Facebook
+2019-12-29 12:10:37 - Complete - Sync for product 84
+2019-12-29 12:10:57 - Sync for product 132
+2019-12-29 12:10:59 - Success update product 132 / 3018443941534379 on Facebook
+2019-12-29 12:10:59 - Complete - Sync for product 132
+2019-12-29 12:11:19 - Sync for product 128
+2019-12-29 12:11:20 - Success update product 128 / 2752835841444663 on Facebook
+2019-12-29 12:11:20 - Complete - Sync for product 128
+2019-12-29 12:11:51 - Sync for product 114
+2019-12-29 12:11:53 - Success update product 114 / 2608986515857215 on Facebook
+2019-12-29 12:11:53 - Complete - Sync for product 114
+2019-12-29 12:12:31 - Sync for product 124
+2019-12-29 12:12:32 - Success update product 124 / 1629456147178929 on Facebook
+2019-12-29 12:12:32 - Complete - Sync for product 124
+2019-12-29 12:13:00 - Sync for product 125
+2019-12-29 12:13:02 - Success update product 125 / 2608267355953235 on Facebook
+2019-12-29 12:13:02 - Complete - Sync for product 125
+2019-12-29 12:14:25 - Sync for product 125
+2019-12-29 12:14:27 - Success update product 125 / 2608267355953235 on Facebook
+2019-12-29 12:14:27 - Complete - Sync for product 125
+2019-12-29 12:14:37 - Sync for product 132
+2019-12-29 12:14:39 - Success update product 132 / 3018443941534379 on Facebook
+2019-12-29 12:14:39 - Complete - Sync for product 132
+2019-12-29 12:14:48 - Sync for product 108
+2019-12-29 12:14:49 - Success update product 108 / 2861454690554280 on Facebook
+2019-12-29 12:14:49 - Complete - Sync for product 108
+2019-12-29 12:15:00 - Sync for product 128
+2019-12-29 12:15:03 - Success update product 128 / 2752835841444663 on Facebook
+2019-12-29 12:15:03 - Complete - Sync for product 128
+2019-12-29 12:15:12 - Sync for product 124
+2019-12-29 12:15:13 - Success update product 124 / 1629456147178929 on Facebook
+2019-12-29 12:15:13 - Complete - Sync for product 124
+2019-12-29 12:15:19 - Sync for product 98
+2019-12-29 12:15:20 - Success update product 98 / 2442455879142050 on Facebook
+2019-12-29 12:15:20 - Complete - Sync for product 98
+2019-12-29 12:15:27 - Sync for product 87
+2019-12-29 12:15:28 - Success update product 87 / 2751625558202579 on Facebook
+2019-12-29 12:15:28 - Complete - Sync for product 87
+2019-12-29 12:15:34 - Sync for product 86
+2019-12-29 12:15:36 - Success update product 86 / 3015491831813660 on Facebook
+2019-12-29 12:15:36 - Complete - Sync for product 86
+2019-12-29 12:15:39 - Sync for product 123
+2019-12-29 12:15:41 - Success update product 123 / 3253605171378807 on Facebook
+2019-12-29 12:15:41 - Complete - Sync for product 123
+2019-12-29 12:16:04 - Sync for product 108
+2019-12-29 12:16:09 - Success update product 108 / 2861454690554280 on Facebook
+2019-12-29 12:16:09 - Complete - Sync for product 108
+2019-12-31 0:41:44 - Update products for availability change - 97
+2019-12-31 0:41:48 - Success update availability product 97 / 3717678184924323 on Facebook
+2019-12-31 0:41:48 - Complete - Update products for availability change - 97
+2019-12-31 16:35:15 - Update products for availability change - 84,123
+2019-12-31 16:35:17 - Success update availability product 84 / 3253291341407668 on Facebook
+2019-12-31 16:35:18 - Success update availability product 123 / 3253605171378807 on Facebook
+2019-12-31 16:35:18 - Complete - Update products for availability change - 84,123
+2020-01-14 11:18:47 - Update products for availability change - 84,86,106
+2020-01-14 11:18:48 - Success update availability product 84 / 3253291341407668 on Facebook
+2020-01-14 11:18:49 - Success update availability product 86 / 3015491831813660 on Facebook
+2020-01-14 11:18:50 - Success update availability product 106 / 2341414812635341 on Facebook
+2020-01-14 11:18:50 - Complete - Update products for availability change - 84,86,106
+2020-01-14 19:23:55 - Update products for availability change - 124
+2020-01-14 19:23:56 - Success update availability product 124 / 1629456147178929 on Facebook
+2020-01-14 19:23:56 - Complete - Update products for availability change - 124
+2020-01-20 20:31:57 - Sync for product 128
+2020-01-20 20:31:59 - Success update product 128 / 2752835841444663 on Facebook
+2020-01-20 20:31:59 - Complete - Sync for product 128
+2020-01-20 20:32:02 - Sync for product 126
+2020-01-20 20:32:04 - Success update product 126 / 2475311315911682 on Facebook
+2020-01-20 20:32:04 - Complete - Sync for product 126
+2020-01-20 20:32:08 - Sync for product 132
+2020-01-20 20:32:09 - Success update product 132 / 3018443941534379 on Facebook
+2020-01-20 20:32:09 - Complete - Sync for product 132
+2020-01-20 20:32:31 - Sync for product 129
+2020-01-20 20:32:32 - Success update product 129 / 3193501100667193 on Facebook
+2020-01-20 20:32:32 - Complete - Sync for product 129
+2020-01-20 20:32:39 - Sync for product 130
+2020-01-20 20:32:40 - Success update product 130 / 2590729877701411 on Facebook
+2020-01-20 20:32:40 - Complete - Sync for product 130
+2020-01-20 20:32:46 - Sync for product 133
+2020-01-20 20:32:47 - Success update product 133 / 2662350047181212 on Facebook
+2020-01-20 20:32:47 - Complete - Sync for product 133
+2020-01-20 20:32:51 - Sync for product 121
+2020-01-20 20:32:51 - Success update product 121 / 2497534167002774 on Facebook
+2020-01-20 20:32:51 - Complete - Sync for product 121
+2020-01-20 20:32:54 - Sync for product 131
+2020-01-20 20:32:56 - Success update product 131 / 3357677660969811 on Facebook
+2020-01-20 20:32:56 - Complete - Sync for product 131
+2020-01-20 20:33:39 - Sync for product 125
+2020-01-20 20:33:41 - Success update product 125 / 2608267355953235 on Facebook
+2020-01-20 20:33:41 - Complete - Sync for product 125
+2020-01-20 20:34:20 - Sync for product 120
+2020-01-20 20:34:21 - Success update product 120 / 2337236133069579 on Facebook
+2020-01-20 20:34:21 - Complete - Sync for product 120
+2020-01-20 20:35:12 - Sync for product 98
+2020-01-20 20:35:14 - Success update product 98 / 2442455879142050 on Facebook
+2020-01-20 20:35:14 - Complete - Sync for product 98
+2020-01-20 20:35:32 - Sync for product 120
+2020-01-20 20:35:33 - Success update product 120 / 2337236133069579 on Facebook
+2020-01-20 20:35:33 - Complete - Sync for product 120
+2020-01-22 0:23:07 - Update products for availability change - 122
+2020-01-22 0:23:09 - Success update availability product 122 / 2591374624273287 on Facebook
+2020-01-22 0:23:09 - Complete - Update products for availability change - 122
+2020-01-23 10:31:34 - Update products for availability change - 70
+2020-01-23 10:31:35 - Success update availability product 70 / 2541403745913860 on Facebook
+2020-01-23 10:31:35 - Complete - Update products for availability change - 70
+2020-01-24 15:34:40 - Update products for availability change - 97
+2020-01-24 15:34:41 - Success update availability product 97 / 3717678184924323 on Facebook
+2020-01-24 15:34:41 - Complete - Update products for availability change - 97
+2020-01-25 15:55:34 - Update products for availability change - 83,98
+2020-01-25 15:55:35 - Success update availability product 83 / 2675560165816585 on Facebook
+2020-01-25 15:55:36 - Success update availability product 98 / 2442455879142050 on Facebook
+2020-01-25 15:55:36 - Complete - Update products for availability change - 83,98
+2020-01-27 15:01:27 - Update products for availability change - 97
+2020-01-27 15:01:28 - Success update availability product 97 / 3717678184924323 on Facebook
+2020-01-27 15:01:28 - Complete - Update products for availability change - 97
+2020-01-29 12:42:48 - Update products for availability change - 98
+2020-01-29 12:42:49 - Success update availability product 98 / 2442455879142050 on Facebook
+2020-01-29 12:42:49 - Complete - Update products for availability change - 98
+2020-01-29 21:45:49 - Sync for product 114
+2020-01-29 21:45:51 - Success update product 114 / 2608986515857215 on Facebook
+2020-01-29 21:45:51 - Complete - Sync for product 114
+2020-02-01 18:45:14 - Update products for availability change - 103
+2020-02-01 18:45:16 - Success update availability product 103 / 2547130748668248 on Facebook
+2020-02-01 18:45:16 - Complete - Update products for availability change - 103
+2020-02-02 15:06:09 - Update products for availability change - 88,95,107,124
+2020-02-02 15:06:10 - Success update availability product 88 / 2645120015549138 on Facebook
+2020-02-02 15:06:11 - Success update availability product 95 / 3935625013130449 on Facebook
+2020-02-02 15:06:12 - Success update availability product 107 / 2827792577263790 on Facebook
+2020-02-02 15:06:13 - Success update availability product 124 / 1629456147178929 on Facebook
+2020-02-02 15:06:13 - Complete - Update products for availability change - 88,95,107,124
+2020-02-07 10:21:22 - Update products for availability change - 70,125
+2020-02-07 10:21:23 - Success update availability product 70 / 2541403745913860 on Facebook
+2020-02-07 10:21:24 - Success update availability product 125 / 2608267355953235 on Facebook
+2020-02-07 10:21:24 - Complete - Update products for availability change - 70,125
+2020-02-07 12:47:41 - Update products for availability change - 124
+2020-02-07 12:47:42 - Success update availability product 124 / 1629456147178929 on Facebook
+2020-02-07 12:47:42 - Complete - Update products for availability change - 124
+2020-02-10 11:44:20 - Update products for availability change - 97
+2020-02-10 11:44:21 - Success update availability product 97 / 3717678184924323 on Facebook
+2020-02-10 11:44:21 - Complete - Update products for availability change - 97
+2020-02-10 12:07:27 - Update products for availability change - 97
+2020-02-10 12:07:28 - Success update availability product 97 / 3717678184924323 on Facebook
+2020-02-10 12:07:28 - Complete - Update products for availability change - 97
+2020-02-20 12:59:40 - Update products for availability change - 97,98
+2020-02-20 12:59:41 - Success update availability product 97 / 3717678184924323 on Facebook
+2020-02-20 12:59:43 - Success update availability product 98 / 2442455879142050 on Facebook
+2020-02-20 12:59:43 - Complete - Update products for availability change - 97,98
+2020-02-23 13:04:12 - Sync for product 118
+2020-02-23 13:04:13 - Success update product 118 / 2744019665656942 on Facebook
+2020-02-23 13:04:13 - Complete - Sync for product 118
+2020-02-23 13:04:41 - Sync for product 119
+2020-02-23 13:04:42 - Success update product 119 / 2271548946283667 on Facebook
+2020-02-23 13:04:42 - Complete - Sync for product 119
+2020-02-23 13:04:49 - Sync for product 111
+2020-02-23 13:04:50 - Success update product 111 / 2794911513852964 on Facebook
+2020-02-23 13:04:50 - Complete - Sync for product 111
+2020-02-23 13:05:18 - Sync for product 100
+2020-02-23 13:05:19 - Success update product 100 / 2441167976008641 on Facebook
+2020-02-23 13:05:19 - Complete - Sync for product 100
+2020-02-23 13:05:38 - Sync for product 99
+2020-02-23 13:05:39 - Success update product 99 / 2413516755443466 on Facebook
+2020-02-23 13:05:39 - Complete - Sync for product 99
+2020-02-23 13:06:08 - Sync for product 82
+2020-02-23 13:06:09 - Success update product 82 / 2565420366879681 on Facebook
+2020-02-23 13:06:09 - Complete - Sync for product 82
+2020-02-23 13:06:26 - Sync for product 76
+2020-02-23 13:06:27 - Success update product 76 / 3169773879704427 on Facebook
+2020-02-23 13:06:27 - Complete - Sync for product 76
+2020-02-23 13:15:38 - Sync for product 98
+2020-02-23 13:15:39 - Success update product 98 / 2442455879142050 on Facebook
+2020-02-23 13:15:39 - Complete - Sync for product 98
+2020-02-23 13:16:13 - Sync for product 117
+2020-02-23 13:16:14 - Delete for products - 117
+2020-02-23 13:16:14 - Complete - Delete for products - 117
+2020-02-23 13:16:14 - Complete - Sync for product 117
+2020-02-23 13:16:35 - Sync for product 103
+2020-02-23 13:16:36 - Success update product 103 / 2547130748668248 on Facebook
+2020-02-23 13:16:36 - Complete - Sync for product 103
+2020-02-23 13:16:57 - Sync for product 109
+2020-02-23 13:16:58 - Success update product 109 / 2319993598129371 on Facebook
+2020-02-23 13:16:58 - Complete - Sync for product 109
+2020-02-23 13:17:04 - Sync for product 110
+2020-02-23 13:17:05 - Success update product 110 / 2267893036648155 on Facebook
+2020-02-23 13:17:05 - Complete - Sync for product 110
+2020-02-23 13:17:15 - Sync for product 87
+2020-02-23 13:17:16 - Success update product 87 / 2751625558202579 on Facebook
+2020-02-23 13:17:16 - Complete - Sync for product 87
+2020-02-23 13:17:34 - Sync for product 86
+2020-02-23 13:17:35 - Success update product 86 / 3015491831813660 on Facebook
+2020-02-23 13:17:35 - Complete - Sync for product 86
+2020-02-23 13:17:47 - Sync for product 123
+2020-02-23 13:17:48 - Success update product 123 / 3253605171378807 on Facebook
+2020-02-23 13:17:48 - Complete - Sync for product 123
+2020-02-23 13:20:05 - Sync for product 108
+2020-02-23 13:20:06 - Success update product 108 / 2861454690554280 on Facebook
+2020-02-23 13:20:06 - Complete - Sync for product 108
+2020-02-23 13:20:16 - Sync for product 120
+2020-02-23 13:20:17 - Success update product 120 / 2337236133069579 on Facebook
+2020-02-23 13:20:17 - Complete - Sync for product 120
+2020-02-23 13:21:01 - Sync for product 94
+2020-02-23 13:21:02 - Success update product 94 / 2886259681407901 on Facebook
+2020-02-23 13:21:02 - Complete - Sync for product 94
+2020-02-23 13:21:32 - Sync for product 95
+2020-02-23 13:21:33 - Success update product 95 / 3935625013130449 on Facebook
+2020-02-23 13:21:33 - Complete - Sync for product 95
+2020-02-23 13:22:04 - Sync for product 93
+2020-02-23 13:22:05 - Success update product 93 / 2597962956909181 on Facebook
+2020-02-23 13:22:05 - Complete - Sync for product 93
+2020-02-23 13:22:13 - Sync for product 84
+2020-02-23 13:22:14 - Success update product 84 / 3253291341407668 on Facebook
+2020-02-23 13:22:14 - Complete - Sync for product 84
+2020-02-23 13:22:37 - Sync for product 70
+2020-02-23 13:22:38 - Success update product 70 / 2541403745913860 on Facebook
+2020-02-23 13:22:38 - Complete - Sync for product 70
+2020-02-23 13:22:56 - Sync for product 71
+2020-02-23 13:22:57 - Success update product 71 / 2814331385253007 on Facebook
+2020-02-23 13:22:57 - Complete - Sync for product 71
+2020-02-23 13:23:14 - Sync for product 72
+2020-02-23 13:23:15 - Success update product 72 / 2475670635801669 on Facebook
+2020-02-23 13:23:15 - Complete - Sync for product 72
+2020-02-23 13:23:48 - Sync for product 68
+2020-02-23 13:23:49 - Success update product 68 / 1395826157208183 on Facebook
+2020-02-23 13:23:49 - Complete - Sync for product 68
+2020-02-23 13:24:16 - Sync for product 73
+2020-02-23 13:24:17 - Success update product 73 / 2466216323493269 on Facebook
+2020-02-23 13:24:17 - Complete - Sync for product 73
+2020-02-23 13:24:34 - Sync for product 126
+2020-02-23 13:24:35 - Success update product 126 / 2475311315911682 on Facebook
+2020-02-23 13:24:35 - Complete - Sync for product 126
+2020-02-23 13:25:03 - Sync for product 83
+2020-02-23 13:25:04 - Success update product 83 / 2675560165816585 on Facebook
+2020-02-23 13:25:04 - Complete - Sync for product 83
+2020-02-23 13:25:13 - Sync for product 128
+2020-02-23 13:25:14 - Success update product 128 / 2752835841444663 on Facebook
+2020-02-23 13:25:14 - Complete - Sync for product 128
+2020-02-23 13:25:25 - Sync for product 106
+2020-02-23 13:25:26 - Success update product 106 / 2341414812635341 on Facebook
+2020-02-23 13:25:26 - Complete - Sync for product 106
+2020-02-23 13:25:50 - Sync for product 101
+2020-02-23 13:25:51 - Success update product 101 / 2563114477103336 on Facebook
+2020-02-23 13:25:51 - Complete - Sync for product 101
+2020-02-23 13:26:19 - Sync for product 124
+2020-02-23 13:26:20 - Success update product 124 / 1629456147178929 on Facebook
+2020-02-23 13:26:20 - Complete - Sync for product 124
+2020-02-23 13:26:44 - Sync for product 97
+2020-02-23 13:26:45 - Success update product 97 / 3717678184924323 on Facebook
+2020-02-23 13:26:45 - Complete - Sync for product 97
+2020-02-23 13:28:13 - Sync for product 125
+2020-02-23 13:28:14 - Success update product 125 / 2608267355953235 on Facebook
+2020-02-23 13:28:14 - Complete - Sync for product 125
+2020-02-23 13:28:28 - Sync for product 132
+2020-02-23 13:28:29 - Success update product 132 / 3018443941534379 on Facebook
+2020-02-23 13:28:29 - Complete - Sync for product 132
+2020-02-23 13:28:36 - Sync for product 130
+2020-02-23 13:28:37 - Success update product 130 / 2590729877701411 on Facebook
+2020-02-23 13:28:37 - Complete - Sync for product 130
+2020-02-23 13:29:05 - Sync for product 102
+2020-02-23 13:29:06 - Success update product 102 / 3257216247653625 on Facebook
+2020-02-23 13:29:06 - Complete - Sync for product 102
+2020-02-23 13:29:30 - Sync for product 69
+2020-02-23 13:29:30 - Success update product 69 / 2518384414919944 on Facebook
+2020-02-23 13:29:30 - Complete - Sync for product 69
+2020-02-23 13:29:37 - Sync for product 85
+2020-02-23 13:29:38 - Success update product 85 / 3334797863227166 on Facebook
+2020-02-23 13:29:38 - Complete - Sync for product 85
+2020-02-23 13:29:56 - Sync for product 115
+2020-02-23 13:29:57 - Success update product 115 / 2536856213061536 on Facebook
+2020-02-23 13:29:57 - Complete - Sync for product 115
+2020-02-23 13:30:05 - Sync for product 133
+2020-02-23 13:30:06 - Success update product 133 / 2662350047181212 on Facebook
+2020-02-23 13:30:06 - Complete - Sync for product 133
+2020-02-23 13:30:15 - Sync for product 121
+2020-02-23 13:30:16 - Success update product 121 / 2497534167002774 on Facebook
+2020-02-23 13:30:16 - Complete - Sync for product 121
+2020-02-23 13:30:23 - Sync for product 131
+2020-02-23 13:30:24 - Success update product 131 / 3357677660969811 on Facebook
+2020-02-23 13:30:24 - Complete - Sync for product 131
+2020-02-23 13:30:34 - Sync for product 107
+2020-02-23 13:30:35 - Success update product 107 / 2827792577263790 on Facebook
+2020-02-23 13:30:35 - Complete - Sync for product 107
+2020-02-23 16:24:56 - Sync for product 98
+2020-02-23 16:24:57 - Success update product 98 / 2442455879142050 on Facebook
+2020-02-23 16:24:57 - Complete - Sync for product 98
+2020-02-23 20:36:21 - Update products for availability change - 115
+2020-02-23 20:36:22 - Success update availability product 115 / 2536856213061536 on Facebook
+2020-02-23 20:36:22 - Complete - Update products for availability change - 115
+2020-03-01 4:23:23 - Update products for availability change - 68,106
+2020-03-01 4:23:24 - Success update availability product 68 / 1395826157208183 on Facebook
+2020-03-01 4:23:25 - Success update availability product 106 / 2341414812635341 on Facebook
+2020-03-01 4:23:25 - Complete - Update products for availability change - 68,106
+2020-03-01 15:14:59 - Update products for availability change - 110,121
+2020-03-01 15:15:00 - Success update availability product 110 / 2267893036648155 on Facebook
+2020-03-01 15:15:01 - Success update availability product 121 / 2497534167002774 on Facebook
+2020-03-01 15:15:01 - Complete - Update products for availability change - 110,121
+2020-03-02 17:52:14 - Update products for availability change - 72
+2020-03-02 17:52:15 - Success update availability product 72 / 2475670635801669 on Facebook
+2020-03-02 17:52:15 - Complete - Update products for availability change - 72
+2020-03-02 21:36:39 - Sync for product 76
+2020-03-02 21:36:40 - Success update product 76 / 3169773879704427 on Facebook
+2020-03-02 21:36:40 - Complete - Sync for product 76
+2020-03-03 10:48:30 - Update products for availability change - 115
+2020-03-03 10:48:31 - Success update availability product 115 / 2536856213061536 on Facebook
+2020-03-03 10:48:31 - Complete - Update products for availability change - 115
+2020-03-03 13:29:10 - Update products for availability change - 97
+2020-03-03 13:29:11 - Success update availability product 97 / 3717678184924323 on Facebook
+2020-03-03 13:29:11 - Complete - Update products for availability change - 97
+2020-03-03 15:15:52 - Update products for availability change - 97
+2020-03-03 15:15:53 - Success update availability product 97 / 3717678184924323 on Facebook
+2020-03-03 15:15:53 - Complete - Update products for availability change - 97
+2020-03-03 23:05:23 - Get Sample product feed
+2020-03-03 23:05:23 - Complete - Get Sample product feed
+2020-03-05 12:04:58 - Update products for availability change - 98,102
+2020-03-05 12:04:59 - Success update availability product 98 / 2442455879142050 on Facebook
+2020-03-05 12:04:59 - Success update availability product 102 / 3257216247653625 on Facebook
+2020-03-05 12:04:59 - Complete - Update products for availability change - 98,102
+2020-03-06 9:53:40 - Update products for availability change - 97
+2020-03-06 9:53:41 - Success update availability product 97 / 3717678184924323 on Facebook
+2020-03-06 9:53:41 - Complete - Update products for availability change - 97
+2020-03-07 22:49:41 - Update products for availability change - 76,93
+2020-03-07 22:49:42 - Success update availability product 76 / 3169773879704427 on Facebook
+2020-03-07 22:49:43 - Success update availability product 93 / 2597962956909181 on Facebook
+2020-03-07 22:49:43 - Complete - Update products for availability change - 76,93
+2020-03-10 1:15:28 - Update products for availability change - 124
+2020-03-10 1:15:29 - Success update availability product 124 / 1629456147178929 on Facebook
+2020-03-10 1:15:29 - Complete - Update products for availability change - 124
+2020-03-12 10:50:13 - Get Sample product feed
+2020-03-12 10:50:13 - Complete - Get Sample product feed
+2020-03-12 23:28:22 - Sync for product 134
+2020-03-12 23:28:22 - Delete for products - 134
+2020-03-12 23:28:22 - Complete - Delete for products - 134
+2020-03-12 23:28:22 - Complete - Sync for product 134
+2020-03-12 23:30:40 - Sync for product 135
+2020-03-12 23:30:40 - Delete for products - 135
+2020-03-12 23:30:40 - Complete - Delete for products - 135
+2020-03-12 23:30:40 - Complete - Sync for product 135
+2020-03-12 23:32:05 - Sync for product 136
+2020-03-12 23:32:06 - Delete for products - 136
+2020-03-12 23:32:06 - Complete - Delete for products - 136
+2020-03-12 23:32:06 - Complete - Sync for product 136
+2020-03-12 23:33:24 - Sync for product 137
+2020-03-12 23:33:24 - Delete for products - 137
+2020-03-12 23:33:24 - Complete - Delete for products - 137
+2020-03-12 23:33:24 - Complete - Sync for product 137
+2020-03-13 10:07:00 - Get Sample product feed
+2020-03-13 10:07:00 - Complete - Get Sample product feed
+2020-03-13 10:52:11 - Update products for availability change - 109,110
+2020-03-13 10:52:12 - Success update availability product 109 / 2319993598129371 on Facebook
+2020-03-13 10:52:13 - Success update availability product 110 / 2267893036648155 on Facebook
+2020-03-13 10:52:13 - Complete - Update products for availability change - 109,110
+2020-03-14 6:50:28 - Update products for availability change - 89
+2020-03-14 6:50:30 - Success update availability product 89 / 2542976925755410 on Facebook
+2020-03-14 6:50:30 - Complete - Update products for availability change - 89
+2020-03-14 11:39:14 - Update products for availability change - 109
+2020-03-14 11:39:16 - Success update availability product 109 / 2319993598129371 on Facebook
+2020-03-14 11:39:16 - Complete - Update products for availability change - 109
+2020-03-14 17:02:29 - Sync for product 136
+2020-03-14 17:02:30 - Success create product group 136 / 3494369963971175 on Facebook
+2020-03-14 17:02:33 - Success create product 136 / 3494370057304499 on Facebook
+2020-03-14 17:02:33 - Complete - Sync for product 136
+2020-03-14 17:05:04 - Sync for product 134
+2020-03-14 17:05:04 - Delete for products - 134
+2020-03-14 17:05:04 - Complete - Delete for products - 134
+2020-03-14 17:05:04 - Complete - Sync for product 134
+2020-03-14 17:05:17 - Sync for product 136
+2020-03-14 17:05:19 - Success update product 136 / 3494370057304499 on Facebook
+2020-03-14 17:05:19 - Complete - Sync for product 136
+2020-03-14 17:05:28 - Sync for product 134
+2020-03-14 17:05:29 - Success create product group 134 / 3078924218795371 on Facebook
+2020-03-14 17:05:32 - Success create product 134 / 3078924265462033 on Facebook
+2020-03-14 17:05:32 - Complete - Sync for product 134
+2020-03-14 17:06:13 - Sync for product 135
+2020-03-14 17:06:13 - Delete for products - 135
+2020-03-14 17:06:13 - Complete - Delete for products - 135
+2020-03-14 17:06:13 - Complete - Sync for product 135
+2020-03-14 17:06:26 - Sync for product 135
+2020-03-14 17:06:27 - Success create product group 135 / 1911716188953413 on Facebook
+2020-03-14 17:06:29 - Success create product 135 / 1911716232286742 on Facebook
+2020-03-14 17:06:29 - Complete - Sync for product 135
+2020-03-14 17:07:42 - Sync for product 137
+2020-03-14 17:07:44 - Success create product group 137 / 3607492229292358 on Facebook
+2020-03-14 17:07:45 - Success create product 137 / 3607492269292354 on Facebook
+2020-03-14 17:07:45 - Complete - Sync for product 137
+2020-03-14 19:01:39 - Update products for availability change - 97
+2020-03-14 19:01:40 - Success update availability product 97 / 3717678184924323 on Facebook
+2020-03-14 19:01:40 - Complete - Update products for availability change - 97
+2020-03-15 10:39:21 - Update products for availability change - 88
+2020-03-15 10:39:22 - Success update availability product 88 / 2645120015549138 on Facebook
+2020-03-15 10:39:22 - Complete - Update products for availability change - 88
+2020-03-15 11:20:34 - Update products for availability change - 125
+2020-03-15 11:20:35 - Success update availability product 125 / 2608267355953235 on Facebook
+2020-03-15 11:20:35 - Complete - Update products for availability change - 125
+2020-03-15 11:38:22 - Update products for availability change - 82
+2020-03-15 11:38:24 - Success update availability product 82 / 2565420366879681 on Facebook
+2020-03-15 11:38:24 - Complete - Update products for availability change - 82
+2020-03-15 14:17:02 - Update products for availability change - 89,93,126
+2020-03-15 14:17:03 - Success update availability product 89 / 2542976925755410 on Facebook
+2020-03-15 14:17:04 - Success update availability product 93 / 2597962956909181 on Facebook
+2020-03-15 14:17:05 - Success update availability product 126 / 2475311315911682 on Facebook
+2020-03-15 14:17:05 - Complete - Update products for availability change - 89,93,126
+2020-03-15 14:20:08 - Update products for availability change - 88
+2020-03-15 14:20:11 - Success update availability product 88 / 2645120015549138 on Facebook
+2020-03-15 14:20:11 - Complete - Update products for availability change - 88
+2020-03-15 14:21:12 - Update products for availability change - 88
+2020-03-15 14:21:13 - Success update availability product 88 / 2645120015549138 on Facebook
+2020-03-15 14:21:13 - Complete - Update products for availability change - 88
+2020-03-15 14:21:47 - Update products for availability change - 88
+2020-03-15 14:21:48 - Success update availability product 88 / 2645120015549138 on Facebook
+2020-03-15 14:21:48 - Complete - Update products for availability change - 88
+2020-03-15 14:30:50 - Update products for availability change - 82
+2020-03-15 14:30:52 - Success update availability product 82 / 2565420366879681 on Facebook
+2020-03-15 14:30:52 - Complete - Update products for availability change - 82
+2020-03-15 14:34:34 - Update products for availability change - 82
+2020-03-15 14:34:35 - Success update availability product 82 / 2565420366879681 on Facebook
+2020-03-15 14:34:35 - Complete - Update products for availability change - 82
+2020-03-15 14:38:28 - Update products for availability change - 98
+2020-03-15 14:38:29 - Success update availability product 98 / 2442455879142050 on Facebook
+2020-03-15 14:38:29 - Complete - Update products for availability change - 98
+2020-03-15 14:42:48 - Update products for availability change - 83
+2020-03-15 14:42:49 - Success update availability product 83 / 2675560165816585 on Facebook
+2020-03-15 14:42:49 - Complete - Update products for availability change - 83
+2020-03-15 14:47:10 - Update products for availability change - 73
+2020-03-15 14:47:12 - Success update availability product 73 / 2466216323493269 on Facebook
+2020-03-15 14:47:12 - Complete - Update products for availability change - 73
+2020-03-15 14:49:29 - Update products for availability change - 125
+2020-03-15 14:49:30 - Success update availability product 125 / 2608267355953235 on Facebook
+2020-03-15 14:49:30 - Complete - Update products for availability change - 125
+2020-03-15 14:55:08 - Update products for availability change - 88
+2020-03-15 14:55:10 - Success update availability product 88 / 2645120015549138 on Facebook
+2020-03-15 14:55:10 - Complete - Update products for availability change - 88
+2020-03-15 15:05:51 - Update products for availability change - 98
+2020-03-15 15:05:52 - Success update availability product 98 / 2442455879142050 on Facebook
+2020-03-15 15:05:52 - Complete - Update products for availability change - 98
+2020-03-15 15:11:25 - Update products for availability change - 88
+2020-03-15 15:11:26 - Success update availability product 88 / 2645120015549138 on Facebook
+2020-03-15 15:11:26 - Complete - Update products for availability change - 88
+2020-03-15 15:12:33 - Update products for availability change - 88
+2020-03-15 15:12:34 - Success update availability product 88 / 2645120015549138 on Facebook
+2020-03-15 15:12:34 - Complete - Update products for availability change - 88
+2020-03-15 15:13:48 - Update products for availability change - 88
+2020-03-15 15:13:49 - Success update availability product 88 / 2645120015549138 on Facebook
+2020-03-15 15:13:49 - Complete - Update products for availability change - 88
+2020-03-15 15:15:12 - Update products for availability change - 88
+2020-03-15 15:15:13 - Success update availability product 88 / 2645120015549138 on Facebook
+2020-03-15 15:15:13 - Complete - Update products for availability change - 88
+2020-03-15 15:16:48 - Update products for availability change - 88
+2020-03-15 15:16:50 - Success update availability product 88 / 2645120015549138 on Facebook
+2020-03-15 15:16:50 - Complete - Update products for availability change - 88
+2020-03-15 15:29:28 - Update products for availability change - 88
+2020-03-15 15:29:29 - Success update availability product 88 / 2645120015549138 on Facebook
+2020-03-15 15:29:29 - Complete - Update products for availability change - 88
+2020-03-15 15:31:15 - Update products for availability change - 88
+2020-03-15 15:31:16 - Success update availability product 88 / 2645120015549138 on Facebook
+2020-03-15 15:31:16 - Complete - Update products for availability change - 88
+2020-03-15 15:32:00 - Update products for availability change - 88
+2020-03-15 15:32:02 - Success update availability product 88 / 2645120015549138 on Facebook
+2020-03-15 15:32:02 - Complete - Update products for availability change - 88
+2020-03-15 15:50:45 - Update products for availability change - 88
+2020-03-15 15:50:46 - Success update availability product 88 / 2645120015549138 on Facebook
+2020-03-15 15:50:46 - Complete - Update products for availability change - 88
+2020-03-15 15:53:00 - Update products for availability change - 88
+2020-03-15 15:53:01 - Success update availability product 88 / 2645120015549138 on Facebook
+2020-03-15 15:53:01 - Complete - Update products for availability change - 88
+2020-03-15 15:54:35 - Update products for availability change - 88
+2020-03-15 15:54:36 - Success update availability product 88 / 2645120015549138 on Facebook
+2020-03-15 15:54:36 - Complete - Update products for availability change - 88
+2020-03-15 17:02:49 - Update products for availability change - 109
+2020-03-15 17:02:50 - Success update availability product 109 / 2319993598129371 on Facebook
+2020-03-15 17:02:50 - Complete - Update products for availability change - 109
+2020-03-15 17:05:29 - Update products for availability change - 103
+2020-03-15 17:05:30 - Success update availability product 103 / 2547130748668248 on Facebook
+2020-03-15 17:05:30 - Complete - Update products for availability change - 103
+2020-03-15 17:28:43 - Update products for availability change - 83
+2020-03-15 17:28:45 - Success update availability product 83 / 2675560165816585 on Facebook
+2020-03-15 17:28:45 - Complete - Update products for availability change - 83
+2020-03-15 17:35:42 - Update products for availability change - 69
+2020-03-15 17:35:43 - Success update availability product 69 / 2518384414919944 on Facebook
+2020-03-15 17:35:43 - Complete - Update products for availability change - 69
+2020-03-15 17:53:17 - Update products for availability change - 68
+2020-03-15 17:53:19 - Success update availability product 68 / 1395826157208183 on Facebook
+2020-03-15 17:53:19 - Complete - Update products for availability change - 68
+2020-03-15 18:06:04 - Update products for availability change - 73
+2020-03-15 18:06:08 - Success update availability product 73 / 2466216323493269 on Facebook
+2020-03-15 18:06:08 - Complete - Update products for availability change - 73
+2020-03-15 18:14:26 - Update products for availability change - 68
+2020-03-15 18:14:27 - Success update availability product 68 / 1395826157208183 on Facebook
+2020-03-15 18:14:27 - Complete - Update products for availability change - 68
+2020-03-15 18:18:48 - Update products for availability change - 103
+2020-03-15 18:18:49 - Success update availability product 103 / 2547130748668248 on Facebook
+2020-03-15 18:18:49 - Complete - Update products for availability change - 103
+2020-03-15 18:53:57 - Update products for availability change - 73
+2020-03-15 18:53:58 - Success update availability product 73 / 2466216323493269 on Facebook
+2020-03-15 18:53:58 - Complete - Update products for availability change - 73
+2020-03-15 19:01:08 - Update products for availability change - 69
+2020-03-15 19:01:10 - Success update availability product 69 / 2518384414919944 on Facebook
+2020-03-15 19:01:10 - Complete - Update products for availability change - 69
+2020-03-15 19:04:17 - Update products for availability change - 73
+2020-03-15 19:04:18 - Success update availability product 73 / 2466216323493269 on Facebook
+2020-03-15 19:04:18 - Complete - Update products for availability change - 73
+2020-03-15 19:06:32 - Update products for availability change - 124
+2020-03-15 19:06:34 - Success update availability product 124 / 1629456147178929 on Facebook
+2020-03-15 19:06:34 - Complete - Update products for availability change - 124
+2020-03-15 19:08:56 - Update products for availability change - 69
+2020-03-15 19:08:57 - Success update availability product 69 / 2518384414919944 on Facebook
+2020-03-15 19:08:57 - Complete - Update products for availability change - 69
+2020-03-15 19:11:03 - Update products for availability change - 111
+2020-03-15 19:11:05 - Success update availability product 111 / 2794911513852964 on Facebook
+2020-03-15 19:11:05 - Complete - Update products for availability change - 111
+2020-03-15 19:13:16 - Update products for availability change - 89
+2020-03-15 19:13:18 - Success update availability product 89 / 2542976925755410 on Facebook
+2020-03-15 19:13:18 - Complete - Update products for availability change - 89
+2020-03-15 19:15:22 - Update products for availability change - 93
+2020-03-15 19:15:24 - Success update availability product 93 / 2597962956909181 on Facebook
+2020-03-15 19:15:24 - Complete - Update products for availability change - 93
+2020-03-15 19:17:17 - Update products for availability change - 89
+2020-03-15 19:17:18 - Success update availability product 89 / 2542976925755410 on Facebook
+2020-03-15 19:17:18 - Complete - Update products for availability change - 89
+2020-03-15 19:33:34 - Update products for availability change - 73
+2020-03-15 19:33:36 - Success update availability product 73 / 2466216323493269 on Facebook
+2020-03-15 19:33:36 - Complete - Update products for availability change - 73
+2020-03-15 19:34:54 - Update products for availability change - 89
+2020-03-15 19:34:55 - Success update availability product 89 / 2542976925755410 on Facebook
+2020-03-15 19:34:55 - Complete - Update products for availability change - 89
+2020-03-15 19:35:55 - Update products for availability change - 89
+2020-03-15 19:35:56 - Success update availability product 89 / 2542976925755410 on Facebook
+2020-03-15 19:35:56 - Complete - Update products for availability change - 89
+2020-03-15 19:49:01 - Update products for availability change - 97
+2020-03-15 19:49:03 - Success update availability product 97 / 3717678184924323 on Facebook
+2020-03-15 19:49:03 - Complete - Update products for availability change - 97
+2020-03-15 19:50:08 - Update products for availability change - 83
+2020-03-15 19:50:09 - Success update availability product 83 / 2675560165816585 on Facebook
+2020-03-15 19:50:09 - Complete - Update products for availability change - 83
+2020-03-15 19:54:34 - Update products for availability change - 98
+2020-03-15 19:54:35 - Success update availability product 98 / 2442455879142050 on Facebook
+2020-03-15 19:54:35 - Complete - Update products for availability change - 98
+2020-03-15 20:00:54 - Update products for availability change - 73
+2020-03-15 20:00:55 - Success update availability product 73 / 2466216323493269 on Facebook
+2020-03-15 20:00:55 - Complete - Update products for availability change - 73
+2020-03-15 20:53:02 - Update products for availability change - 82
+2020-03-15 20:53:04 - Success update availability product 82 / 2565420366879681 on Facebook
+2020-03-15 20:53:04 - Complete - Update products for availability change - 82
+2020-03-15 21:03:22 - Update products for availability change - 82
+2020-03-15 21:03:24 - Success update availability product 82 / 2565420366879681 on Facebook
+2020-03-15 21:03:24 - Complete - Update products for availability change - 82
+2020-03-15 21:06:18 - Update products for availability change - 88
+2020-03-15 21:06:18 - Success update availability product 88 / 2645120015549138 on Facebook
+2020-03-15 21:06:18 - Complete - Update products for availability change - 88
+2020-03-15 21:23:40 - Update products for availability change - 88
+2020-03-15 21:23:41 - Success update availability product 88 / 2645120015549138 on Facebook
+2020-03-15 21:23:41 - Complete - Update products for availability change - 88
+2020-03-15 21:26:04 - Update products for availability change - 88
+2020-03-15 21:26:06 - Success update availability product 88 / 2645120015549138 on Facebook
+2020-03-15 21:26:06 - Complete - Update products for availability change - 88
+2020-03-15 21:27:53 - Update products for availability change - 88
+2020-03-15 21:27:54 - Success update availability product 88 / 2645120015549138 on Facebook
+2020-03-15 21:27:54 - Complete - Update products for availability change - 88
+2020-03-16 10:25:04 - Update products for availability change - 123
+2020-03-16 10:25:06 - Success update availability product 123 / 3253605171378807 on Facebook
+2020-03-16 10:25:06 - Complete - Update products for availability change - 123
+2020-03-16 10:26:23 - Update products for availability change - 88
+2020-03-16 10:26:24 - Success update availability product 88 / 2645120015549138 on Facebook
+2020-03-16 10:26:24 - Complete - Update products for availability change - 88
+2020-03-21 13:06:31 - Get Sample product feed
+2020-03-21 13:06:31 - Complete - Get Sample product feed
+2020-03-21 13:09:03 - Updating FAE settings - facebook_enable_cookie_bar
+2020-03-21 13:09:03 - Complete - Updating FAE settings
+2020-03-21 13:09:11 - Get Sample product feed
+2020-03-21 13:09:11 - Complete - Get Sample product feed
+2020-03-21 13:11:02 - Updating FAE settings - facebook_page_id,facebook_messenger_activated,facebook_jssdk_version
+2020-03-21 13:11:02 - Complete - Updating FAE settings
+2020-03-21 13:11:24 - Updating FAE settings - facebook_page_id,facebook_messenger_activated,facebook_jssdk_version
+2020-03-21 13:11:24 - Complete - Updating FAE settings
+2020-03-21 13:12:24 - Updating FAE settings - facebook_page_id,facebook_messenger_activated,facebook_jssdk_version
+2020-03-21 13:12:24 - Complete - Updating FAE settings
+2020-03-21 14:34:14 - Get Sample product feed
+2020-03-21 14:34:14 - Complete - Get Sample product feed
+2020-03-21 14:47:21 - Sync for product 100
+2020-03-21 14:47:22 - Success update product 100 / 2441167976008641 on Facebook
+2020-03-21 14:47:22 - Complete - Sync for product 100
+2020-03-21 14:47:39 - Sync for product 99
+2020-03-21 14:47:41 - Success update product 99 / 2413516755443466 on Facebook
+2020-03-21 14:47:41 - Complete - Sync for product 99
+2020-03-21 14:47:58 - Sync for product 82
+2020-03-21 14:48:00 - Success update product 82 / 2565420366879681 on Facebook
+2020-03-21 14:48:00 - Complete - Sync for product 82
+2020-03-21 14:48:51 - Sync for product 98
+2020-03-21 14:48:52 - Success update product 98 / 2442455879142050 on Facebook
+2020-03-21 14:48:52 - Complete - Sync for product 98
+2020-03-21 14:49:07 - Sync for product 103
+2020-03-21 14:49:08 - Success update product 103 / 2547130748668248 on Facebook
+2020-03-21 14:49:08 - Complete - Sync for product 103
+2020-03-21 14:49:22 - Sync for product 84
+2020-03-21 14:49:23 - Success update product 84 / 3253291341407668 on Facebook
+2020-03-21 14:49:23 - Complete - Sync for product 84
+2020-03-21 14:49:49 - Sync for product 70
+2020-03-21 14:49:51 - Success update product 70 / 2541403745913860 on Facebook
+2020-03-21 14:49:51 - Complete - Sync for product 70
+2020-03-21 14:50:16 - Sync for product 71
+2020-03-21 14:50:18 - Success update product 71 / 2814331385253007 on Facebook
+2020-03-21 14:50:18 - Complete - Sync for product 71
+2020-03-21 14:50:39 - Sync for product 72
+2020-03-21 14:50:40 - Success update product 72 / 2475670635801669 on Facebook
+2020-03-21 14:50:40 - Complete - Sync for product 72
+2020-03-21 14:50:56 - Sync for product 68
+2020-03-21 14:50:57 - Success update product 68 / 1395826157208183 on Facebook
+2020-03-21 14:50:57 - Complete - Sync for product 68
+2020-03-21 14:51:18 - Sync for product 73
+2020-03-21 14:51:20 - Success update product 73 / 2466216323493269 on Facebook
+2020-03-21 14:51:20 - Complete - Sync for product 73
+2020-03-21 14:51:36 - Sync for product 83
+2020-03-21 14:51:37 - Success update product 83 / 2675560165816585 on Facebook
+2020-03-21 14:51:37 - Complete - Sync for product 83
+2020-03-21 14:51:51 - Sync for product 101
+2020-03-21 14:51:52 - Success update product 101 / 2563114477103336 on Facebook
+2020-03-21 14:51:52 - Complete - Sync for product 101
+2020-03-21 14:52:07 - Sync for product 124
+2020-03-21 14:52:09 - Success update product 124 / 1629456147178929 on Facebook
+2020-03-21 14:52:09 - Complete - Sync for product 124
+2020-03-21 14:52:38 - Sync for product 97
+2020-03-21 14:52:39 - Success update product 97 / 3717678184924323 on Facebook
+2020-03-21 14:52:39 - Complete - Sync for product 97
+2020-03-21 14:52:52 - Sync for product 125
+2020-03-21 14:52:53 - Success update product 125 / 2608267355953235 on Facebook
+2020-03-21 14:52:53 - Complete - Sync for product 125
+2020-03-21 14:53:11 - Sync for product 102
+2020-03-21 14:53:12 - Success update product 102 / 3257216247653625 on Facebook
+2020-03-21 14:53:12 - Complete - Sync for product 102
+2020-03-21 14:53:52 - Sync for product 69
+2020-03-21 14:53:53 - Success update product 69 / 2518384414919944 on Facebook
+2020-03-21 14:53:53 - Complete - Sync for product 69
+2020-03-21 14:55:20 - Sync for product 115
+2020-03-21 14:55:21 - Success update product 115 / 2536856213061536 on Facebook
+2020-03-21 14:55:21 - Complete - Sync for product 115
+2020-03-21 14:55:32 - Sync for product 85
+2020-03-21 14:55:33 - Success update product 85 / 3334797863227166 on Facebook
+2020-03-21 14:55:33 - Complete - Sync for product 85
+2020-03-22 14:09:35 - Sync for product 109
+2020-03-22 14:09:36 - Success update product 109 / 2319993598129371 on Facebook
+2020-03-22 14:09:36 - Complete - Sync for product 109
+2020-03-24 16:08:57 - Update products for availability change - 97
+2020-03-24 16:08:58 - Success update availability product 97 / 3717678184924323 on Facebook
+2020-03-24 16:08:58 - Complete - Update products for availability change - 97
+2020-03-30 13:31:59 - Update products for availability change - 120,135
+2020-03-30 13:32:01 - Success update availability product 120 / 2337236133069579 on Facebook
+2020-03-30 13:32:02 - Success update availability product 135 / 1911716232286742 on Facebook
+2020-03-30 13:32:02 - Complete - Update products for availability change - 120,135
+2020-03-30 22:35:45 - Update products for availability change - 89,97
+2020-03-30 22:35:47 - Success update availability product 89 / 2542976925755410 on Facebook
+2020-03-30 22:35:48 - Success update availability product 97 / 3717678184924323 on Facebook
+2020-03-30 22:35:48 - Complete - Update products for availability change - 89,97
+2020-03-31 17:17:41 - Update products for availability change - 70,76,86,89,93,97,110,120,123,129,130,136,137
+2020-03-31 17:17:43 - Success update availability product 86 / 3015491831813660 on Facebook
+2020-03-31 17:17:43 - Success update availability product 76 / 3169773879704427 on Facebook
+2020-03-31 17:17:44 - Success update availability product 93 / 2597962956909181 on Facebook
+2020-03-31 17:17:45 - Success update availability product 70 / 2541403745913860 on Facebook
+2020-03-31 17:17:46 - Success update availability product 97 / 3717678184924323 on Facebook
+2020-03-31 17:17:47 - Success update availability product 89 / 2542976925755410 on Facebook
+2020-03-31 17:17:48 - Success update availability product 120 / 2337236133069579 on Facebook
+2020-03-31 17:17:49 - Success update availability product 110 / 2267893036648155 on Facebook
+2020-03-31 17:17:50 - Success update availability product 123 / 3253605171378807 on Facebook
+2020-03-31 17:17:51 - Success update availability product 129 / 3193501100667193 on Facebook
+2020-03-31 17:17:52 - Success update availability product 130 / 2590729877701411 on Facebook
+2020-03-31 17:17:52 - Success update availability product 136 / 3494370057304499 on Facebook
+2020-03-31 17:17:53 - Success update availability product 137 / 3607492269292354 on Facebook
+2020-03-31 17:17:53 - Complete - Update products for availability change - 70,76,86,89,93,97,110,120,123,129,130,136,137
+2020-04-02 20:57:51 - Update products for availability change - 90,97,109,123,124,134
+2020-04-02 20:57:53 - Success update availability product 90 / 2639913422767103 on Facebook
+2020-04-02 20:57:54 - Success update availability product 97 / 3717678184924323 on Facebook
+2020-04-02 20:57:55 - Success update availability product 109 / 2319993598129371 on Facebook
+2020-04-02 20:57:57 - Success update availability product 123 / 3253605171378807 on Facebook
+2020-04-02 20:57:58 - Success update availability product 124 / 1629456147178929 on Facebook
+2020-04-02 20:57:59 - Success update availability product 134 / 3078924265462033 on Facebook
+2020-04-02 20:57:59 - Complete - Update products for availability change - 90,97,109,123,124,134
+2020-04-09 17:10:42 - Sync for product 98
+2020-04-09 17:10:43 - Success update product 98 / 2442455879142050 on Facebook
+2020-04-09 17:10:43 - Complete - Sync for product 98
+2020-04-09 20:00:18 - Sync for product 124
+2020-04-09 20:00:20 - Success update product 124 / 1629456147178929 on Facebook
+2020-04-09 20:00:20 - Complete - Sync for product 124
+2020-04-10 19:01:18 - Sync for product 107
+2020-04-10 19:01:20 - Success update product 107 / 2827792577263790 on Facebook
+2020-04-10 19:01:20 - Complete - Sync for product 107
+2020-04-10 19:03:33 - Sync for product 107
+2020-04-10 19:03:36 - Success update product 107 / 2827792577263790 on Facebook
+2020-04-10 19:03:36 - Complete - Sync for product 107
+2020-04-10 19:05:12 - Sync for product 107
+2020-04-10 19:05:14 - Success update product 107 / 2827792577263790 on Facebook
+2020-04-10 19:05:14 - Complete - Sync for product 107
+2020-04-10 19:05:26 - Sync for product 107
+2020-04-10 19:05:28 - Success update product 107 / 2827792577263790 on Facebook
+2020-04-10 19:05:28 - Complete - Sync for product 107
+2020-04-10 20:18:20 - Update products for availability change - 90,95
+2020-04-10 20:18:21 - Success update availability product 90 / 2639913422767103 on Facebook
+2020-04-10 20:18:22 - Success update availability product 95 / 3935625013130449 on Facebook
+2020-04-10 20:18:22 - Complete - Update products for availability change - 90,95
+2020-04-10 21:29:12 - Sync for product 76
+2020-04-10 21:29:16 - Success update product 76 / 3169773879704427 on Facebook
+2020-04-10 21:29:16 - Complete - Sync for product 76
+2020-04-10 22:38:18 - Sync for product 95
+2020-04-10 22:38:20 - Success update product 95 / 3935625013130449 on Facebook
+2020-04-10 22:38:20 - Complete - Sync for product 95
+2020-04-10 22:38:58 - Sync for product 93
+2020-04-10 22:38:59 - Success update product 93 / 2597962956909181 on Facebook
+2020-04-10 22:38:59 - Complete - Sync for product 93
+2020-04-10 22:39:29 - Sync for product 107
+2020-04-10 22:39:30 - Success update product 107 / 2827792577263790 on Facebook
+2020-04-10 22:39:30 - Complete - Sync for product 107
+2020-04-10 22:40:07 - Sync for product 137
+2020-04-10 22:40:08 - Success update product 137 / 3607492269292354 on Facebook
+2020-04-10 22:40:08 - Complete - Sync for product 137
+2020-04-11 15:21:23 - Sync for product 138
+2020-04-11 15:21:24 - Success create product group 138 / 2756355321148952 on Facebook
+2020-04-11 15:21:27 - Success create product 138 / 2756355364482281 on Facebook
+2020-04-11 15:21:27 - Complete - Sync for product 138
+2020-04-11 15:23:27 - Sync for product 109
+2020-04-11 15:23:28 - Success update product 109 / 2319993598129371 on Facebook
+2020-04-11 15:23:28 - Complete - Sync for product 109
+2020-04-11 15:23:41 - Sync for product 138
+2020-04-11 15:23:43 - Success update product 138 / 2756355364482281 on Facebook
+2020-04-11 15:23:43 - Complete - Sync for product 138
+2020-04-14 0:09:04 - Sync for product 124
+2020-04-14 0:09:05 - Success update product 124 / 1629456147178929 on Facebook
+2020-04-14 0:09:05 - Complete - Sync for product 124
+2020-04-14 1:25:00 - Sync for product 136
+2020-04-14 1:25:02 - Success update product 136 / 3494370057304499 on Facebook
+2020-04-14 1:25:02 - Complete - Sync for product 136
+2020-04-14 1:30:26 - Sync for product 136
+2020-04-14 1:30:28 - Success update product 136 / 3494370057304499 on Facebook
+2020-04-14 1:30:28 - Complete - Sync for product 136
+2020-04-14 1:31:31 - Sync for product 136
+2020-04-14 1:31:34 - Success update product 136 / 3494370057304499 on Facebook
+2020-04-14 1:31:34 - Complete - Sync for product 136
+2020-04-14 1:38:01 - Sync for product 136
+2020-04-14 1:38:02 - Success update product 136 / 3494370057304499 on Facebook
+2020-04-14 1:38:02 - Complete - Sync for product 136
+2020-04-16 13:38:25 - Sync for product 136
+2020-04-16 13:38:27 - Success update product 136 / 3494370057304499 on Facebook
+2020-04-16 13:38:27 - Complete - Sync for product 136
+2020-04-18 10:32:35 - Sync for product 129
+2020-04-18 10:32:39 - Success update product 129 / 3193501100667193 on Facebook
+2020-04-18 10:32:39 - Complete - Sync for product 129
+2020-04-18 10:33:25 - Sync for product 115
+2020-04-18 10:33:28 - Success update product 115 / 2536856213061536 on Facebook
+2020-04-18 10:33:28 - Complete - Sync for product 115
+2020-04-18 10:35:45 - Sync for product 138
+2020-04-18 10:36:09 - Success update product 138 / 2756355364482281 on Facebook
+2020-04-18 10:36:09 - Complete - Sync for product 138
+2020-04-18 13:49:24 - Sync for product 139
+2020-04-18 13:49:24 - Delete for products - 139
+2020-04-18 13:49:25 - Complete - Delete for products - 139
+2020-04-18 13:49:25 - Complete - Sync for product 139
+2020-04-18 15:18:30 - Sync for product 139
+2020-04-18 15:18:30 - Delete for products - 139
+2020-04-18 15:18:31 - Complete - Delete for products - 139
+2020-04-18 15:18:31 - Complete - Sync for product 139
+2020-04-18 15:18:59 - Sync for product 139
+2020-04-18 15:19:00 - Success create product group 139 / 3397467456947909 on Facebook
+2020-04-18 15:19:02 - Success create product 139 / 3397467536947901 on Facebook
+2020-04-18 15:19:02 - Complete - Sync for product 139
+2020-04-18 16:32:39 - Sync for product 97
+2020-04-18 16:32:40 - Success update product 97 / 3717678184924323 on Facebook
+2020-04-18 16:32:40 - Complete - Sync for product 97
+2020-04-18 16:49:55 - Sync for product 140
+2020-04-18 16:49:57 - Success create product group 140 / 3326170627416146 on Facebook
+2020-04-18 16:49:59 - Success create product 140 / 3326170674082808 on Facebook
+2020-04-18 16:49:59 - Complete - Sync for product 140
+2020-04-18 16:55:27 - Sync for product 107
+2020-04-18 16:55:28 - Success update product 107 / 2827792577263790 on Facebook
+2020-04-18 16:55:28 - Complete - Sync for product 107
+2020-04-18 16:55:31 - Sync for product 94
+2020-04-18 16:55:33 - Success update product 94 / 2886259681407901 on Facebook
+2020-04-18 16:55:33 - Complete - Sync for product 94
+2020-04-19 18:07:39 - Sync for product 136
+2020-04-19 18:07:40 - Success update product 136 / 3494370057304499 on Facebook
+2020-04-19 18:07:40 - Complete - Sync for product 136
+2020-04-20 22:07:26 - Sync for product 136
+2020-04-20 22:07:27 - Success update product 136 / 3494370057304499 on Facebook
+2020-04-20 22:07:27 - Complete - Sync for product 136
+2020-04-20 22:07:44 - Sync for product 136
+2020-04-20 22:07:45 - Success update product 136 / 3494370057304499 on Facebook
+2020-04-20 22:07:45 - Complete - Sync for product 136
+2020-04-22 14:21:14 - Sync for product 136
+2020-04-22 14:21:15 - Success update product 136 / 3494370057304499 on Facebook
+2020-04-22 14:21:15 - Complete - Sync for product 136
+2020-04-22 14:21:49 - Sync for product 136
+2020-04-22 14:21:51 - Success update product 136 / 3494370057304499 on Facebook
+2020-04-22 14:21:51 - Complete - Sync for product 136
+2020-04-22 14:28:53 - Sync for product 136
+2020-04-22 14:28:54 - Success update product 136 / 3494370057304499 on Facebook
+2020-04-22 14:28:54 - Complete - Sync for product 136
+2020-04-22 15:06:53 - Sync for product 136
+2020-04-22 15:06:54 - Success update product 136 / 3494370057304499 on Facebook
+2020-04-22 15:06:54 - Complete - Sync for product 136
+2020-04-22 15:07:40 - Sync for product 136
+2020-04-22 15:07:41 - Success update product 136 / 3494370057304499 on Facebook
+2020-04-22 15:07:41 - Complete - Sync for product 136
+2020-04-22 21:02:05 - Sync for product 97
+2020-04-22 21:02:07 - Success update product 97 / 3717678184924323 on Facebook
+2020-04-22 21:02:07 - Complete - Sync for product 97
+2020-04-22 21:04:04 - Sync for product 97
+2020-04-22 21:04:06 - Success update product 97 / 3717678184924323 on Facebook
+2020-04-22 21:04:06 - Complete - Sync for product 97
+2020-04-22 21:14:44 - Sync for product 97
+2020-04-22 21:14:45 - Success update product 97 / 3717678184924323 on Facebook
+2020-04-22 21:14:45 - Complete - Sync for product 97
+2020-04-22 21:17:35 - Sync for product 97
+2020-04-22 21:17:37 - Success update product 97 / 3717678184924323 on Facebook
+2020-04-22 21:17:37 - Complete - Sync for product 97
+2020-04-22 21:18:18 - Sync for product 97
+2020-04-22 21:18:20 - Success update product 97 / 3717678184924323 on Facebook
+2020-04-22 21:18:20 - Complete - Sync for product 97
+2020-04-22 21:18:59 - Sync for product 97
+2020-04-22 21:19:00 - Success update product 97 / 3717678184924323 on Facebook
+2020-04-22 21:19:00 - Complete - Sync for product 97
+2020-04-22 21:20:24 - Sync for product 97
+2020-04-22 21:20:25 - Success update product 97 / 3717678184924323 on Facebook
+2020-04-22 21:20:25 - Complete - Sync for product 97
+2020-04-22 21:20:57 - Sync for product 97
+2020-04-22 21:20:59 - Success update product 97 / 3717678184924323 on Facebook
+2020-04-22 21:20:59 - Complete - Sync for product 97
+2020-04-22 22:24:48 - Sync for product 97
+2020-04-22 22:24:49 - Success update product 97 / 3717678184924323 on Facebook
+2020-04-22 22:24:49 - Complete - Sync for product 97
+2020-04-22 22:25:21 - Sync for product 97
+2020-04-22 22:25:23 - Success update product 97 / 3717678184924323 on Facebook
+2020-04-22 22:25:23 - Complete - Sync for product 97
+2020-04-22 22:26:15 - Sync for product 97
+2020-04-22 22:26:17 - Success update product 97 / 3717678184924323 on Facebook
+2020-04-22 22:26:17 - Complete - Sync for product 97
+2020-04-22 23:13:25 - Sync for product 97
+2020-04-22 23:13:27 - Success update product 97 / 3717678184924323 on Facebook
+2020-04-22 23:13:27 - Complete - Sync for product 97
+2020-04-22 23:15:04 - Sync for product 97
+2020-04-22 23:15:05 - Success update product 97 / 3717678184924323 on Facebook
+2020-04-22 23:15:05 - Complete - Sync for product 97
+2020-04-23 15:13:13 - Get Sample product feed
+2020-04-23 15:13:13 - Complete - Get Sample product feed
+2020-04-23 20:56:19 - Update products for availability change - 92,93,98
+2020-04-23 20:56:21 - Success update availability product 92 / 2373306792779735 on Facebook
+2020-04-23 20:56:22 - Success update availability product 93 / 2597962956909181 on Facebook
+2020-04-23 20:56:24 - Success update availability product 98 / 2442455879142050 on Facebook
+2020-04-23 20:56:24 - Complete - Update products for availability change - 92,93,98
+2020-04-25 14:49:31 - Sync for product 98
+2020-04-25 14:49:33 - Success update product 98 / 2442455879142050 on Facebook
+2020-04-25 14:49:33 - Complete - Sync for product 98
+2020-04-25 14:51:38 - Sync for product 98
+2020-04-25 14:51:39 - Success update product 98 / 2442455879142050 on Facebook
+2020-04-25 14:51:39 - Complete - Sync for product 98
+2020-04-25 15:01:04 - Sync for product 98
+2020-04-25 15:01:05 - Success update product 98 / 2442455879142050 on Facebook
+2020-04-25 15:01:05 - Complete - Sync for product 98
+2020-04-25 15:02:25 - Sync for product 98
+2020-04-25 15:02:27 - Success update product 98 / 2442455879142050 on Facebook
+2020-04-25 15:02:27 - Complete - Sync for product 98
+2020-04-25 15:03:31 - Sync for product 98
+2020-04-25 15:03:32 - Success update product 98 / 2442455879142050 on Facebook
+2020-04-25 15:03:32 - Complete - Sync for product 98
+2020-04-25 18:07:12 - Sync for product 98
+2020-04-25 18:07:14 - Success update product 98 / 2442455879142050 on Facebook
+2020-04-25 18:07:14 - Complete - Sync for product 98
+2020-04-26 20:09:35 - Sync for product 97
+2020-04-26 20:09:37 - Success update product 97 / 3717678184924323 on Facebook
+2020-04-26 20:09:37 - Complete - Sync for product 97
+2020-04-26 20:10:43 - Sync for product 98
+2020-04-26 20:10:44 - Success update product 98 / 2442455879142050 on Facebook
+2020-04-26 20:10:44 - Complete - Sync for product 98
+2020-04-26 22:08:22 - Sync for product 97
+2020-04-26 22:08:23 - Success update product 97 / 3717678184924323 on Facebook
+2020-04-26 22:08:23 - Complete - Sync for product 97
+2020-04-27 13:10:07 - Get Sample product feed
+2020-04-27 13:10:07 - Complete - Get Sample product feed
+2020-04-27 13:11:34 - Get Sample product feed
+2020-04-27 13:11:34 - Complete - Get Sample product feed
+2020-04-27 22:17:42 - Sync for product 100
+2020-04-27 22:17:43 - Success update product 100 / 2441167976008641 on Facebook
+2020-04-27 22:17:43 - Complete - Sync for product 100
+2020-04-27 23:09:20 - Sync for product 100
+2020-04-27 23:09:21 - Success update product 100 / 2441167976008641 on Facebook
+2020-04-27 23:09:21 - Complete - Sync for product 100
+2020-04-27 23:16:42 - Sync for product 124
+2020-04-27 23:16:43 - Success update product 124 / 1629456147178929 on Facebook
+2020-04-27 23:16:43 - Complete - Sync for product 124
+2020-04-27 23:30:22 - Sync for product 124
+2020-04-27 23:30:24 - Success update product 124 / 1629456147178929 on Facebook
+2020-04-27 23:30:24 - Complete - Sync for product 124
+2020-04-28 23:35:40 - Get Sample product feed
+2020-04-28 23:35:40 - Complete - Get Sample product feed
+2020-05-01 9:08:38 - Update products for availability change - 120
+2020-05-01 9:08:39 - Success update availability product 120 / 2337236133069579 on Facebook
+2020-05-01 9:08:39 - Complete - Update products for availability change - 120
+2020-05-01 11:04:04 - Sync for product 100
+2020-05-01 11:04:05 - Success update product 100 / 2441167976008641 on Facebook
+2020-05-01 11:04:05 - Complete - Sync for product 100
+2020-05-01 11:09:48 - Sync for product 100
+2020-05-01 11:09:49 - Success update product 100 / 2441167976008641 on Facebook
+2020-05-01 11:09:49 - Complete - Sync for product 100
+2020-05-01 11:19:22 - Sync for product 70
+2020-05-01 11:19:24 - Success update product 70 / 2541403745913860 on Facebook
+2020-05-01 11:19:24 - Complete - Sync for product 70
+2020-05-01 11:21:16 - Sync for product 70
+2020-05-01 11:21:18 - Success update product 70 / 2541403745913860 on Facebook
+2020-05-01 11:21:18 - Complete - Sync for product 70
+2020-05-01 13:00:34 - Sync for product 101
+2020-05-01 13:00:36 - Failure update product 101 / 2563114477103336 on Facebook 
+2020-05-01 13:00:37 - null
+2020-05-01 13:00:37 - Complete - Sync for product 101
+2020-05-01 13:09:27 - Sync for product 97
+2020-05-01 13:09:30 - Failure update product 97 / 3717678184924323 on Facebook 
+2020-05-01 13:09:31 - null
+2020-05-01 13:09:31 - Complete - Sync for product 97
+2020-05-01 13:09:50 - Get Sample product feed
+2020-05-01 13:09:50 - Complete - Get Sample product feed
+2020-05-01 13:17:17 - Sync for product 97
+2020-05-01 13:17:20 - Failure update product 97 / 3717678184924323 on Facebook 
+2020-05-01 13:17:21 - null
+2020-05-01 13:17:21 - Complete - Sync for product 97
+2020-05-01 13:46:51 - Get Sample product feed
+2020-05-01 13:46:51 - Complete - Get Sample product feed
+2020-05-01 14:52:23 - Get Sample product feed
+2020-05-01 14:52:23 - Complete - Get Sample product feed
+2020-05-01 14:59:04 - Get Sample product feed
+2020-05-01 14:59:04 - Complete - Get Sample product feed
+2020-05-01 15:32:48 - Get Sample product feed
+2020-05-01 15:32:48 - Complete - Get Sample product feed
+2020-05-01 15:33:19 - Get Sample product feed
+2020-05-01 15:33:19 - Complete - Get Sample product feed
+2020-05-01 15:35:05 - Facebook Ads Extension version = 2.1.3
+2020-05-01 15:35:05 - OpenCart version = 2.3.0.2
+2020-05-01 15:35:05 - PHP version = 5.6.40
+2020-05-01 15:35:22 - Get Sample product feed
+2020-05-01 15:35:22 - Complete - Get Sample product feed
+2020-05-01 15:36:20 - Get Sample product feed
+2020-05-01 15:36:20 - Complete - Get Sample product feed

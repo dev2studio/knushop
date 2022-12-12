@@ -1,0 +1,183 @@
+<?php
+// Heading
+$_['heading_title']    				= 'One Page Checkout';
+
+$_['text_extensions']	 			= 'Extensions';
+$_['text_success']     				= 'Success: You have modified the checkout settings';
+$_['text_edit']        				= 'Edit One Page Checkout Settings';
+$_['text_row']         				= 'Row';
+$_['text_block']      				= 'Блок';
+
+
+// Entry
+$_['entry_status']     				= 'Статус';
+$_['entry_firstname']             	= 'Имя';
+$_['entry_lastname']              	= 'Фамилия';
+$_['entry_email']                 	= 'E-Mail';
+$_['entry_telephone']             	= 'Телефон';
+$_['entry_fax']                   	= 'Факс';
+$_['entry_company']               	= 'Компания';
+$_['entry_address_1']             	= 'Адрес';
+$_['entry_address_2']             	= 'Адрес 2';
+$_['entry_postcode']              	= 'Индекс';
+$_['entry_city']                  	= 'Город';
+$_['entry_country']               	= 'Страна';
+$_['entry_zone']                  	= 'Область';
+$_['entry_newsletter']            	= 'Subscribe';
+$_['entry_password']              	= 'Пароль';
+$_['entry_confirm']               	= 'Password Confirm';
+$_['entry_heading_title']         	= 'Heading Title';
+$_['entry_heading']               	= 'Panel Title';
+$_['entry_description']           	= 'Header Description';
+$_['entry_description_bottom']    	= 'Bottom Description';
+$_['entry_btn_text']              	= 'Button text';
+$_['entry_guest_order']           	= 'Enable Guest order';
+$_['entry_registeration_order_status']  = 'Enable registeration in checkout order:';
+$_['entry_country']               	= 'Страна';
+$_['entry_zone']                  	= 'Область';
+$_['help_customer_group']           = 'Default customer group.';
+$_['entry_customer_group']          = 'Группа клиентов';
+$_['entry_enable_login']  			= 'Login Checkout';
+
+$_['entry_newsletter_error']  		= 'Сообщение об ошибке';
+$_['entry_comment']  				= 'Коментарии';
+$_['entry_agree']  					= 'Checkout Terms';
+$_['entry_register_account']  		= 'Register Account';
+$_['entry_guest_order']  			= 'Guest Checkout';
+$_['entry_shopping_cart_order']  	= 'Shopping Cart Status';
+$_['entry_use_coupon_order']  		= 'Enable use coupon order';
+$_['entry_gift_voucher_order']  	= 'Enable Gift voucher order';
+$_['entry_billing_order']  			= 'Enable Billing order';
+$_['entry_delivery_order']  		= 'Delivery Details Status';
+$_['entry_delivery_method']  		= 'Delivery Methods';
+$_['entry_payment_method']  		= 'Payment Methods';
+$_['entry_show_image']  			= 'Show Product Image on cart';
+$_['entry_show_title']  			= 'Show Product Name on cart';
+$_['entry_show_model']  			= 'Show Product Model on cart';
+$_['entry_show_sku']  				= 'Show Product SKU on cart';
+$_['entry_show_qnty_update']  		= 'Show product Quantity update on cart';
+$_['entry_show_unit']  				= 'Show product unit on cart';
+$_['entry_show_total_price']  		= 'Show product total price on cart';
+$_['entry_width']  					= 'Width';
+$_['entry_height']  				= 'Height';
+$_['entry_popup_status']  			= 'popup status show';
+$_['entry_payment_method_order']  	= 'Payment Method Status';
+$_['entry_account_open']  			= 'Default Display';
+$_['entry_show_weight']   			= 'Show Weight';
+$_['entry_newsletter']				= 'Newsletter Subscribe';
+$_['entry_field_name']				= 'Field Name';
+$_['entry_wrong']					= 'Wrong Email or Password Message';
+$_['entry_approved_message']		= 'Approval Message';
+$_['entry_show_image']				= 'Show image';
+$_['entry_show_product_name']		= 'Show product name';
+$_['entry_show_model']				= 'Show model';
+$_['entry_show_quantity']			= 'Show quantity';
+$_['entry_show_unit_price']			= 'Show unit price';
+$_['entry_show_total_price']		= 'Show total price';
+$_['enty_module_name']				= 'Show module name';
+$_['entry_coupon']					= 'Coupon';
+$_['entry_reward']					= 'Reward';
+$_['entry_voucher']					= 'Voucher';
+$_['entry_payment_details_setting']	= 'Payment Details Setting';
+
+// Tab
+$_['field_manage']  = 'Manage Fields';
+$_['entry_register']  = 'Register';
+$_['entry_login']  = 'Login';
+$_['entry_logged']  = 'Login Account';
+$_['entry_guest']  = 'Guest';
+$_['entry_billing_detail_setting']  = 'Billing detail setting';
+$_['entry_delivery_setting']  = 'Delivery Details';
+$_['entry_delivery_method']  = 'Delivery Method';
+$_['entry_payment_method']  = 'Payment Method';
+$_['entry_confirm_order']  = 'Confirm Order';
+$_['entry_shopping_cart']  = 'Shopping Cart';
+$_['entry_use_coupon']  = 'Use Coupon';
+$_['entry_gift_voucher']  = 'Gift Voucher';
+$_['entry_language']  = 'Language Setting';
+$_['entry_general']  = 'General';
+$_['entry_continue_shopping']  = 'Continue shopping';
+$_['entry_and_required']  = 'Yes & Required';
+$_['entry_personaldetails']  = 'Personal Details';
+$_['entry_paymentdetails']  = 'Payment Details';
+$_['entry_payment_setting']  = 'Payment Details';
+$_['entry_confirm_button']   = 'Checkout Order Button';
+$_['entry_shopping_button']   = 'Continue Shopping';
+$_['entry_comment_status']    = 'Comment Section';
+$_['entry_guest_checkout']    = 'Guest Checkout';
+$_['entry_require_comment_status']    = 'Require Comment';
+$_['entry_comment_error']    = 'Comment error message ';
+$_['entry_postal_code']    = 'Postal Code';
+
+// Help
+$_['help_register_account']		= 'Disabled Register Checkout';
+$_['help_guest_checkout']		= 'Disabled Guest Checkout';
+$_['help_enable_login']			= 'Disabled Login';
+$_['help_postal']				= 'Set Default Postal Code.';
+
+// Placeholder
+$_['placeholder_heading_title']         = 'Enter the heading title';
+$_['placeholder_heading']               = 'Enter the panel title';
+$_['placeholder_confirm_button']				= 'Enter Confirm Order Button Text';
+$_['placeholder_shopping_button']				= 'Enter Continue Shopping Button Text';
+
+$_['show_image']  = 'Show Product Image';
+$_['show_title']  = 'Show Product Name';
+$_['show_model']  = 'Show Model';
+$_['show_qnty_update']   = 'Allow Quantity Updates';
+$_['show_unit']  				 = 'Show Unit Price';
+$_['show_total_price']   = 'Show Total Price';
+$_['show_weight']  			 = 'Show Weight';
+$_['show_image_width']   = 'Product Image size (W x H)';
+$_['entry_sort_order']   = 'Sort Order';
+$_['entry_image']  			 = 'Icon';
+$_['show']               = 'Show';
+$_['required']           = 'Required';
+
+$_['entry_label']  					= 'Метка';
+$_['entry_placeholder']  			= 'Placeholder';
+$_['entry_error']  					= 'Сообщение об ошибке';
+$_['entry_lastname_label']  		= 'Метка';
+$_['entry_lastname_placeholder']  	= 'Placeholder';
+$_['entry_lastname_error']  		= 'Сообщение об ошибке';
+$_['entry_email_label']  			= 'Метка';
+$_['entry_email_placeholder']  		= 'Placeholder';
+$_['entry_email_error']  			= 'Сообщение об ошибке';
+$_['entry_telephone_label']  		= 'Метка';
+$_['entry_telephone_placeholder']  	= 'Placeholder';
+$_['entry_telephone_error']  		= 'Сообщение об ошибке';
+$_['entry_fax_label']  				= 'Метка';
+$_['entry_fax_placeholder']  		= 'Placeholder';
+$_['entry_fax_error']  				= 'Сообщение об ошибке';
+$_['entry_company_label']  			= 'Метка';
+$_['entry_company_placeholder']  	= 'Placeholder';
+$_['entry_company_error']  			= 'Сообщение об ошибке';
+$_['entry_address_1_label']  		= 'Метка';
+$_['entry_address_1_placeholder']  	= 'Placeholder';
+$_['entry_address_1_error']  		= 'Сообщение об ошибке';
+$_['entry_address_2_label']  		= 'Метка';
+$_['entry_address_2_placeholder']  	= 'Placeholder';
+$_['entry_address_2_error']  		= 'Сообщение об ошибке';
+$_['entry_city_label']  			= 'Метка';
+$_['entry_city_placeholder']  		= 'Placeholder';
+$_['entry_city_error']  			= 'Сообщение об ошибке';
+$_['entry_postcode_label']  		= 'Метка';
+$_['entry_postcode_placeholder']  	= 'Placeholder';
+$_['entry_postcode_error']  		= 'Сообщение об ошибке';
+$_['entry_country_label']  			= 'Метка';
+$_['entry_country_placeholder']  	= 'Placeholder';
+$_['entry_country_error']  			= 'Сообщение об ошибке';
+$_['entry_zone_label']  			= 'Метка';
+$_['entry_zone_placeholder']  		= 'Placeholder';
+$_['entry_zone_error'] 				= 'Сообщение об ошибке';
+$_['entry_password_label']  		= 'Метка';
+$_['entry_password_placeholder']  	= 'Placeholder';
+$_['entry_password_error']  		= 'Сообщение об ошибке';
+$_['entry_confirm_label']  			= 'Метка';
+$_['entry_confirm_placeholder']  	= 'Placeholder';
+$_['entry_confirm_error'] 			= 'Сообщение об ошибке';
+$_['entry_newsletter_label']  		= 'Метка';
+$_['entry_newsletter_placeholder']  = 'Placeholder';
+
+// Error
+$_['error_permission'] 			= 'Warning: You do not have permission to modify the checkout settings';

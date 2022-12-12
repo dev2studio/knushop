@@ -1,0 +1,3448 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2020-12-07 20:21:20">
+  <shop>
+    <name>КНУ SHOP - Університетська Атрибутика КНУ імені Тараса Шевченка</name>
+    <categories>
+      <category id="60">
+        <name>НАШ КАТАЛОГ (home)</name>
+      </category>
+      <category id="61">
+        <name>ОДЕЖДА (home)</name>
+      </category>
+      <category id="62">
+        <name>АКСЕССУАРЫ (home)</name>
+      </category>
+      <category id="70">
+        <name>Пополнение размеров</name>
+      </category>
+      <category id="59">
+        <name>ВСЕ ТОВАРЫ</name>
+      </category>
+      <category id="66" parentId="20">
+        <name>Тест1</name>
+      </category>
+      <category id="25">
+        <name>Свитера и худи</name>
+      </category>
+      <category id="18">
+        <name>Футболки и Поло</name>
+      </category>
+      <category id="20">
+        <name>Поло</name>
+      </category>
+      <category id="64">
+        <name>Полезные вещи</name>
+      </category>
+      <category id="24">
+        <name>КУРТКИ</name>
+      </category>
+      <category id="33">
+        <name>ГОЛОВНЫЕ УБОРЫ</name>
+      </category>
+      <category id="68">
+        <name>Аксессуары</name>
+      </category>
+      <category id="34">
+        <name>АКСЕССУАРЫ И ПОДАРКИ</name>
+      </category>
+      <category id="69">
+        <name>Канцтовары</name>
+      </category>
+      <category id="65">
+        <name>Для дома</name>
+      </category>
+      <category id="67">
+        <name>Книги</name>
+      </category>
+      <category id="29">
+        <name>Выпускникам</name>
+      </category>
+      <category id="72">
+        <name>ФАКУЛЬТЕТЫ</name>
+      </category>
+    </categories>
+    <offers>
+      <offer id="136" productId="136" quantity="32">
+        <productActivity>Y</productActivity>
+        <categoryId>59</categoryId>
+        <categoryId>64</categoryId>
+        <categoryId>69</categoryId>
+        <productName>Бамбуковая ручка с лого КНУ</productName>
+        <name>Бамбуковая ручка с лого КНУ</name>
+        <price>50</price>
+        <vendor>PAQUIS</vendor>
+        <picture>https://knushop.com.ua/image/cache/catalog/photo/goods/paquis/stationery/PN-PQS-051-front-min-262x334.jpg</picture>
+        <url>https://knushop.com.ua/index.php?route=product/product&amp;product_id=136</url>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="118" productId="118" quantity="1">
+        <productActivity>Y</productActivity>
+        <categoryId>59</categoryId>
+        <categoryId>62</categoryId>
+        <categoryId>68</categoryId>
+        <productName>Бейсболка красная</productName>
+        <name>Бейсболка красная</name>
+        <price>250</price>
+        <vendor>PAQUIS</vendor>
+        <picture>https://knushop.com.ua/image/cache/catalog/photo/goods/paquis/CP-PQS-43-RD-anfas-262x334.jpg</picture>
+        <url>https://knushop.com.ua/index.php?route=product/product&amp;product_id=118</url>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="119" productId="119" quantity="7">
+        <productActivity>Y</productActivity>
+        <categoryId>59</categoryId>
+        <categoryId>62</categoryId>
+        <categoryId>68</categoryId>
+        <productName>Бейсболка красно-черная</productName>
+        <name>Бейсболка красно-черная</name>
+        <price>250</price>
+        <vendor>PAQUIS</vendor>
+        <picture>https://knushop.com.ua/image/cache/catalog/photo/goods/paquis/CP-PQS-43-RB-anfas-262x334.jpg</picture>
+        <url>https://knushop.com.ua/index.php?route=product/product&amp;product_id=119</url>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="111" productId="111" quantity="11">
+        <productActivity>Y</productActivity>
+        <categoryId>59</categoryId>
+        <categoryId>62</categoryId>
+        <categoryId>68</categoryId>
+        <productName>Бейсболка темно-синяя</productName>
+        <name>Бейсболка темно-синяя</name>
+        <price>250</price>
+        <vendor>PAQUIS</vendor>
+        <picture>https://knushop.com.ua/image/cache/catalog/photo/goods/paquis/CP-PQS-43-DB-anfas-262x334.jpg</picture>
+        <url>https://knushop.com.ua/index.php?route=product/product&amp;product_id=111</url>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="100#266-50" productId="100" quantity="1">
+        <productActivity>Y</productActivity>
+        <categoryId>18</categoryId>
+        <categoryId>59</categoryId>
+        <productName>Белая футболка KNU STUDENT</productName>
+        <name>Белая футболка KNU STUDENT (Размер:: XXS)</name>
+        <price>319</price>
+        <vendor>PAQUIS</vendor>
+        <picture>https://knushop.com.ua/image/cache/catalog/photo/goods/paquis/TS-PQS-019-front-262x334.jpg</picture>
+        <url>https://knushop.com.ua/index.php?route=product/product&amp;product_id=100</url>
+        <param code="266" name="Размер:">XXS</param>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="100#266-51" productId="100" quantity="0">
+        <productActivity>Y</productActivity>
+        <categoryId>18</categoryId>
+        <categoryId>59</categoryId>
+        <productName>Белая футболка KNU STUDENT</productName>
+        <name>Белая футболка KNU STUDENT (Размер:: XS)</name>
+        <price>319</price>
+        <vendor>PAQUIS</vendor>
+        <picture>https://knushop.com.ua/image/cache/catalog/photo/goods/paquis/TS-PQS-019-front-262x334.jpg</picture>
+        <url>https://knushop.com.ua/index.php?route=product/product&amp;product_id=100</url>
+        <param code="266" name="Размер:">XS</param>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="100#266-52" productId="100" quantity="1">
+        <productActivity>Y</productActivity>
+        <categoryId>18</categoryId>
+        <categoryId>59</categoryId>
+        <productName>Белая футболка KNU STUDENT</productName>
+        <name>Белая футболка KNU STUDENT (Размер:: S)</name>
+        <price>319</price>
+        <vendor>PAQUIS</vendor>
+        <picture>https://knushop.com.ua/image/cache/catalog/photo/goods/paquis/TS-PQS-019-front-262x334.jpg</picture>
+        <url>https://knushop.com.ua/index.php?route=product/product&amp;product_id=100</url>
+        <param code="266" name="Размер:">S</param>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="100#266-53" productId="100" quantity="0">
+        <productActivity>Y</productActivity>
+        <categoryId>18</categoryId>
+        <categoryId>59</categoryId>
+        <productName>Белая футболка KNU STUDENT</productName>
+        <name>Белая футболка KNU STUDENT (Размер:: M)</name>
+        <price>319</price>
+        <vendor>PAQUIS</vendor>
+        <picture>https://knushop.com.ua/image/cache/catalog/photo/goods/paquis/TS-PQS-019-front-262x334.jpg</picture>
+        <url>https://knushop.com.ua/index.php?route=product/product&amp;product_id=100</url>
+        <param code="266" name="Размер:">M</param>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="100#266-54" productId="100" quantity="2">
+        <productActivity>Y</productActivity>
+        <categoryId>18</categoryId>
+        <categoryId>59</categoryId>
+        <productName>Белая футболка KNU STUDENT</productName>
+        <name>Белая футболка KNU STUDENT (Размер:: L)</name>
+        <price>319</price>
+        <vendor>PAQUIS</vendor>
+        <picture>https://knushop.com.ua/image/cache/catalog/photo/goods/paquis/TS-PQS-019-front-262x334.jpg</picture>
+        <url>https://knushop.com.ua/index.php?route=product/product&amp;product_id=100</url>
+        <param code="266" name="Размер:">L</param>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="100#266-55" productId="100" quantity="2">
+        <productActivity>Y</productActivity>
+        <categoryId>18</categoryId>
+        <categoryId>59</categoryId>
+        <productName>Белая футболка KNU STUDENT</productName>
+        <name>Белая футболка KNU STUDENT (Размер:: XL)</name>
+        <price>319</price>
+        <vendor>PAQUIS</vendor>
+        <picture>https://knushop.com.ua/image/cache/catalog/photo/goods/paquis/TS-PQS-019-front-262x334.jpg</picture>
+        <url>https://knushop.com.ua/index.php?route=product/product&amp;product_id=100</url>
+        <param code="266" name="Размер:">XL</param>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="100#266-56" productId="100" quantity="3">
+        <productActivity>Y</productActivity>
+        <categoryId>18</categoryId>
+        <categoryId>59</categoryId>
+        <productName>Белая футболка KNU STUDENT</productName>
+        <name>Белая футболка KNU STUDENT (Размер:: XXL)</name>
+        <price>319</price>
+        <vendor>PAQUIS</vendor>
+        <picture>https://knushop.com.ua/image/cache/catalog/photo/goods/paquis/TS-PQS-019-front-262x334.jpg</picture>
+        <url>https://knushop.com.ua/index.php?route=product/product&amp;product_id=100</url>
+        <param code="266" name="Размер:">XXL</param>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="100#266-57" productId="100" quantity="0">
+        <productActivity>Y</productActivity>
+        <categoryId>18</categoryId>
+        <categoryId>59</categoryId>
+        <productName>Белая футболка KNU STUDENT</productName>
+        <name>Белая футболка KNU STUDENT (Размер:: XXXL)</name>
+        <price>319</price>
+        <vendor>PAQUIS</vendor>
+        <picture>https://knushop.com.ua/image/cache/catalog/photo/goods/paquis/TS-PQS-019-front-262x334.jpg</picture>
+        <url>https://knushop.com.ua/index.php?route=product/product&amp;product_id=100</url>
+        <param code="266" name="Размер:">XXXL</param>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="152#295-50" productId="152" quantity="0">
+        <productActivity>Y</productActivity>
+        <categoryId>18</categoryId>
+        <categoryId>59</categoryId>
+        <categoryId>70</categoryId>
+        <categoryId>72</categoryId>
+        <productName>Белая футболка Психологический</productName>
+        <name>Белая футболка Психологический (Размер:: XXS)</name>
+        <price>319</price>
+        <picture>https://knushop.com.ua/image/cache/catalog/photo/goods/paquis/clothes/TS-FACPSY-061-front-262x334.jpg</picture>
+        <url>https://knushop.com.ua/index.php?route=product/product&amp;product_id=152</url>
+        <param code="295" name="Размер:">XXS</param>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="152#295-51" productId="152" quantity="0">
+        <productActivity>Y</productActivity>
+        <categoryId>18</categoryId>
+        <categoryId>59</categoryId>
+        <categoryId>70</categoryId>
+        <categoryId>72</categoryId>
+        <productName>Белая футболка Психологический</productName>
+        <name>Белая футболка Психологический (Размер:: XS)</name>
+        <price>319</price>
+        <picture>https://knushop.com.ua/image/cache/catalog/photo/goods/paquis/clothes/TS-FACPSY-061-front-262x334.jpg</picture>
+        <url>https://knushop.com.ua/index.php?route=product/product&amp;product_id=152</url>
+        <param code="295" name="Размер:">XS</param>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="152#295-52" productId="152" quantity="2">
+        <productActivity>Y</productActivity>
+        <categoryId>18</categoryId>
+        <categoryId>59</categoryId>
+        <categoryId>70</categoryId>
+        <categoryId>72</categoryId>
+        <productName>Белая футболка Психологический</productName>
+        <name>Белая футболка Психологический (Размер:: S)</name>
+        <price>319</price>
+        <picture>https://knushop.com.ua/image/cache/catalog/photo/goods/paquis/clothes/TS-FACPSY-061-front-262x334.jpg</picture>
+        <url>https://knushop.com.ua/index.php?route=product/product&amp;product_id=152</url>
+        <param code="295" name="Размер:">S</param>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="152#295-53" productId="152" quantity="2">
+        <productActivity>Y</productActivity>
+        <categoryId>18</categoryId>
+        <categoryId>59</categoryId>
+        <categoryId>70</categoryId>
+        <categoryId>72</categoryId>
+        <productName>Белая футболка Психологический</productName>
+        <name>Белая футболка Психологический (Размер:: M)</name>
+        <price>319</price>
+        <picture>https://knushop.com.ua/image/cache/catalog/photo/goods/paquis/clothes/TS-FACPSY-061-front-262x334.jpg</picture>
+        <url>https://knushop.com.ua/index.php?route=product/product&amp;product_id=152</url>
+        <param code="295" name="Размер:">M</param>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="152#295-54" productId="152" quantity="0">
+        <productActivity>Y</productActivity>
+        <categoryId>18</categoryId>
+        <categoryId>59</categoryId>
+        <categoryId>70</categoryId>
+        <categoryId>72</categoryId>
+        <productName>Белая футболка Психологический</productName>
+        <name>Белая футболка Психологический (Размер:: L)</name>
+        <price>319</price>
+        <picture>https://knushop.com.ua/image/cache/catalog/photo/goods/paquis/clothes/TS-FACPSY-061-front-262x334.jpg</picture>
+        <url>https://knushop.com.ua/index.php?route=product/product&amp;product_id=152</url>
+        <param code="295" name="Размер:">L</param>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="152#295-55" productId="152" quantity="0">
+        <productActivity>Y</productActivity>
+        <categoryId>18</categoryId>
+        <categoryId>59</categoryId>
+        <categoryId>70</categoryId>
+        <categoryId>72</categoryId>
+        <productName>Белая футболка Психологический</productName>
+        <name>Белая футболка Психологический (Размер:: XL)</name>
+        <price>319</price>
+        <picture>https://knushop.com.ua/image/cache/catalog/photo/goods/paquis/clothes/TS-FACPSY-061-front-262x334.jpg</picture>
+        <url>https://knushop.com.ua/index.php?route=product/product&amp;product_id=152</url>
+        <param code="295" name="Размер:">XL</param>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="152#295-56" productId="152" quantity="0">
+        <productActivity>Y</productActivity>
+        <categoryId>18</categoryId>
+        <categoryId>59</categoryId>
+        <categoryId>70</categoryId>
+        <categoryId>72</categoryId>
+        <productName>Белая футболка Психологический</productName>
+        <name>Белая футболка Психологический (Размер:: XXL)</name>
+        <price>319</price>
+        <picture>https://knushop.com.ua/image/cache/catalog/photo/goods/paquis/clothes/TS-FACPSY-061-front-262x334.jpg</picture>
+        <url>https://knushop.com.ua/index.php?route=product/product&amp;product_id=152</url>
+        <param code="295" name="Размер:">XXL</param>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="152#295-57" productId="152" quantity="0">
+        <productActivity>Y</productActivity>
+        <categoryId>18</categoryId>
+        <categoryId>59</categoryId>
+        <categoryId>70</categoryId>
+        <categoryId>72</categoryId>
+        <productName>Белая футболка Психологический</productName>
+        <name>Белая футболка Психологический (Размер:: XXXL)</name>
+        <price>319</price>
+        <picture>https://knushop.com.ua/image/cache/catalog/photo/goods/paquis/clothes/TS-FACPSY-061-front-262x334.jpg</picture>
+        <url>https://knushop.com.ua/index.php?route=product/product&amp;product_id=152</url>
+        <param code="295" name="Размер:">XXXL</param>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="99#265-50" productId="99" quantity="4">
+        <productActivity>Y</productActivity>
+        <categoryId>18</categoryId>
+        <categoryId>59</categoryId>
+        <categoryId>70</categoryId>
+        <productName>Белая футболка с маленьким КНУ</productName>
+        <name>Белая футболка с маленьким КНУ (Размер:: XXS)</name>
+        <price>319</price>
+        <vendor>PAQUIS</vendor>
+        <picture>https://knushop.com.ua/image/cache/catalog/photo/goods/paquis/TS-PQS-018-front-262x334.jpg</picture>
+        <url>https://knushop.com.ua/index.php?route=product/product&amp;product_id=99</url>
+        <param code="265" name="Размер:">XXS</param>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="99#265-51" productId="99" quantity="4">
+        <productActivity>Y</productActivity>
+        <categoryId>18</categoryId>
+        <categoryId>59</categoryId>
+        <categoryId>70</categoryId>
+        <productName>Белая футболка с маленьким КНУ</productName>
+        <name>Белая футболка с маленьким КНУ (Размер:: XS)</name>
+        <price>319</price>
+        <vendor>PAQUIS</vendor>
+        <picture>https://knushop.com.ua/image/cache/catalog/photo/goods/paquis/TS-PQS-018-front-262x334.jpg</picture>
+        <url>https://knushop.com.ua/index.php?route=product/product&amp;product_id=99</url>
+        <param code="265" name="Размер:">XS</param>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="99#265-52" productId="99" quantity="7">
+        <productActivity>Y</productActivity>
+        <categoryId>18</categoryId>
+        <categoryId>59</categoryId>
+        <categoryId>70</categoryId>
+        <productName>Белая футболка с маленьким КНУ</productName>
+        <name>Белая футболка с маленьким КНУ (Размер:: S)</name>
+        <price>319</price>
+        <vendor>PAQUIS</vendor>
+        <picture>https://knushop.com.ua/image/cache/catalog/photo/goods/paquis/TS-PQS-018-front-262x334.jpg</picture>
+        <url>https://knushop.com.ua/index.php?route=product/product&amp;product_id=99</url>
+        <param code="265" name="Размер:">S</param>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="99#265-53" productId="99" quantity="6">
+        <productActivity>Y</productActivity>
+        <categoryId>18</categoryId>
+        <categoryId>59</categoryId>
+        <categoryId>70</categoryId>
+        <productName>Белая футболка с маленьким КНУ</productName>
+        <name>Белая футболка с маленьким КНУ (Размер:: M)</name>
+        <price>319</price>
+        <vendor>PAQUIS</vendor>
+        <picture>https://knushop.com.ua/image/cache/catalog/photo/goods/paquis/TS-PQS-018-front-262x334.jpg</picture>
+        <url>https://knushop.com.ua/index.php?route=product/product&amp;product_id=99</url>
+        <param code="265" name="Размер:">M</param>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="99#265-54" productId="99" quantity="5">
+        <productActivity>Y</productActivity>
+        <categoryId>18</categoryId>
+        <categoryId>59</categoryId>
+        <categoryId>70</categoryId>
+        <productName>Белая футболка с маленьким КНУ</productName>
+        <name>Белая футболка с маленьким КНУ (Размер:: L)</name>
+        <price>319</price>
+        <vendor>PAQUIS</vendor>
+        <picture>https://knushop.com.ua/image/cache/catalog/photo/goods/paquis/TS-PQS-018-front-262x334.jpg</picture>
+        <url>https://knushop.com.ua/index.php?route=product/product&amp;product_id=99</url>
+        <param code="265" name="Размер:">L</param>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="99#265-55" productId="99" quantity="3">
+        <productActivity>Y</productActivity>
+        <categoryId>18</categoryId>
+        <categoryId>59</categoryId>
+        <categoryId>70</categoryId>
+        <productName>Белая футболка с маленьким КНУ</productName>
+        <name>Белая футболка с маленьким КНУ (Размер:: XL)</name>
+        <price>319</price>
+        <vendor>PAQUIS</vendor>
+        <picture>https://knushop.com.ua/image/cache/catalog/photo/goods/paquis/TS-PQS-018-front-262x334.jpg</picture>
+        <url>https://knushop.com.ua/index.php?route=product/product&amp;product_id=99</url>
+        <param code="265" name="Размер:">XL</param>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="99#265-56" productId="99" quantity="3">
+        <productActivity>Y</productActivity>
+        <categoryId>18</categoryId>
+        <categoryId>59</categoryId>
+        <categoryId>70</categoryId>
+        <productName>Белая футболка с маленьким КНУ</productName>
+        <name>Белая футболка с маленьким КНУ (Размер:: XXL)</name>
+        <price>319</price>
+        <vendor>PAQUIS</vendor>
+        <picture>https://knushop.com.ua/image/cache/catalog/photo/goods/paquis/TS-PQS-018-front-262x334.jpg</picture>
+        <url>https://knushop.com.ua/index.php?route=product/product&amp;product_id=99</url>
+        <param code="265" name="Размер:">XXL</param>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="99#265-57" productId="99" quantity="0">
+        <productActivity>Y</productActivity>
+        <categoryId>18</categoryId>
+        <categoryId>59</categoryId>
+        <categoryId>70</categoryId>
+        <productName>Белая футболка с маленьким КНУ</productName>
+        <name>Белая футболка с маленьким КНУ (Размер:: XXXL)</name>
+        <price>319</price>
+        <vendor>PAQUIS</vendor>
+        <picture>https://knushop.com.ua/image/cache/catalog/photo/goods/paquis/TS-PQS-018-front-262x334.jpg</picture>
+        <url>https://knushop.com.ua/index.php?route=product/product&amp;product_id=99</url>
+        <param code="265" name="Размер:">XXXL</param>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="82#254-50" productId="82" quantity="2">
+        <productActivity>Y</productActivity>
+        <categoryId>18</categoryId>
+        <categoryId>59</categoryId>
+        <categoryId>60</categoryId>
+        <categoryId>70</categoryId>
+        <productName>Белое поло с национальной символикой</productName>
+        <name>Белое поло с национальной символикой (Размер:: XXS)</name>
+        <price>439</price>
+        <vendor>PAQUIS</vendor>
+        <picture>https://knushop.com.ua/image/cache/catalog/photo/goods/paquis/PL-PQS-008-front-262x334.jpg</picture>
+        <url>https://knushop.com.ua/index.php?route=product/product&amp;product_id=82</url>
+        <param code="254" name="Размер:">XXS</param>
+        <param code="article" name="Артикул">PL-PQS-008</param>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="82#254-51" productId="82" quantity="2">
+        <productActivity>Y</productActivity>
+        <categoryId>18</categoryId>
+        <categoryId>59</categoryId>
+        <categoryId>60</categoryId>
+        <categoryId>70</categoryId>
+        <productName>Белое поло с национальной символикой</productName>
+        <name>Белое поло с национальной символикой (Размер:: XS)</name>
+        <price>439</price>
+        <vendor>PAQUIS</vendor>
+        <picture>https://knushop.com.ua/image/cache/catalog/photo/goods/paquis/PL-PQS-008-front-262x334.jpg</picture>
+        <url>https://knushop.com.ua/index.php?route=product/product&amp;product_id=82</url>
+        <param code="254" name="Размер:">XS</param>
+        <param code="article" name="Артикул">PL-PQS-008</param>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="82#254-52" productId="82" quantity="3">
+        <productActivity>Y</productActivity>
+        <categoryId>18</categoryId>
+        <categoryId>59</categoryId>
+        <categoryId>60</categoryId>
+        <categoryId>70</categoryId>
+        <productName>Белое поло с национальной символикой</productName>
+        <name>Белое поло с национальной символикой (Размер:: S)</name>
+        <price>439</price>
+        <vendor>PAQUIS</vendor>
+        <picture>https://knushop.com.ua/image/cache/catalog/photo/goods/paquis/PL-PQS-008-front-262x334.jpg</picture>
+        <url>https://knushop.com.ua/index.php?route=product/product&amp;product_id=82</url>
+        <param code="254" name="Размер:">S</param>
+        <param code="article" name="Артикул">PL-PQS-008</param>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="82#254-53" productId="82" quantity="2">
+        <productActivity>Y</productActivity>
+        <categoryId>18</categoryId>
+        <categoryId>59</categoryId>
+        <categoryId>60</categoryId>
+        <categoryId>70</categoryId>
+        <productName>Белое поло с национальной символикой</productName>
+        <name>Белое поло с национальной символикой (Размер:: M)</name>
+        <price>439</price>
+        <vendor>PAQUIS</vendor>
+        <picture>https://knushop.com.ua/image/cache/catalog/photo/goods/paquis/PL-PQS-008-front-262x334.jpg</picture>
+        <url>https://knushop.com.ua/index.php?route=product/product&amp;product_id=82</url>
+        <param code="254" name="Размер:">M</param>
+        <param code="article" name="Артикул">PL-PQS-008</param>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="82#254-54" productId="82" quantity="2">
+        <productActivity>Y</productActivity>
+        <categoryId>18</categoryId>
+        <categoryId>59</categoryId>
+        <categoryId>60</categoryId>
+        <categoryId>70</categoryId>
+        <productName>Белое поло с национальной символикой</productName>
+        <name>Белое поло с национальной символикой (Размер:: L)</name>
+        <price>439</price>
+        <vendor>PAQUIS</vendor>
+        <picture>https://knushop.com.ua/image/cache/catalog/photo/goods/paquis/PL-PQS-008-front-262x334.jpg</picture>
+        <url>https://knushop.com.ua/index.php?route=product/product&amp;product_id=82</url>
+        <param code="254" name="Размер:">L</param>
+        <param code="article" name="Артикул">PL-PQS-008</param>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="82#254-55" productId="82" quantity="0">
+        <productActivity>Y</productActivity>
+        <categoryId>18</categoryId>
+        <categoryId>59</categoryId>
+        <categoryId>60</categoryId>
+        <categoryId>70</categoryId>
+        <productName>Белое поло с национальной символикой</productName>
+        <name>Белое поло с национальной символикой (Размер:: XL)</name>
+        <price>439</price>
+        <vendor>PAQUIS</vendor>
+        <picture>https://knushop.com.ua/image/cache/catalog/photo/goods/paquis/PL-PQS-008-front-262x334.jpg</picture>
+        <url>https://knushop.com.ua/index.php?route=product/product&amp;product_id=82</url>
+        <param code="254" name="Размер:">XL</param>
+        <param code="article" name="Артикул">PL-PQS-008</param>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="82#254-56" productId="82" quantity="2">
+        <productActivity>Y</productActivity>
+        <categoryId>18</categoryId>
+        <categoryId>59</categoryId>
+        <categoryId>60</categoryId>
+        <categoryId>70</categoryId>
+        <productName>Белое поло с национальной символикой</productName>
+        <name>Белое поло с национальной символикой (Размер:: XXL)</name>
+        <price>439</price>
+        <vendor>PAQUIS</vendor>
+        <picture>https://knushop.com.ua/image/cache/catalog/photo/goods/paquis/PL-PQS-008-front-262x334.jpg</picture>
+        <url>https://knushop.com.ua/index.php?route=product/product&amp;product_id=82</url>
+        <param code="254" name="Размер:">XXL</param>
+        <param code="article" name="Артикул">PL-PQS-008</param>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="82#254-57" productId="82" quantity="2">
+        <productActivity>Y</productActivity>
+        <categoryId>18</categoryId>
+        <categoryId>59</categoryId>
+        <categoryId>60</categoryId>
+        <categoryId>70</categoryId>
+        <productName>Белое поло с национальной символикой</productName>
+        <name>Белое поло с национальной символикой (Размер:: XXXL)</name>
+        <price>439</price>
+        <vendor>PAQUIS</vendor>
+        <picture>https://knushop.com.ua/image/cache/catalog/photo/goods/paquis/PL-PQS-008-front-262x334.jpg</picture>
+        <url>https://knushop.com.ua/index.php?route=product/product&amp;product_id=82</url>
+        <param code="254" name="Размер:">XXXL</param>
+        <param code="article" name="Артикул">PL-PQS-008</param>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="146#290-50" productId="146" quantity="0">
+        <productActivity>Y</productActivity>
+        <categoryId>18</categoryId>
+        <categoryId>59</categoryId>
+        <categoryId>70</categoryId>
+        <productName>Белое поло с патчем КНУ</productName>
+        <name>Белое поло с патчем КНУ (Размер:: XXS)</name>
+        <price>439</price>
+        <vendor>PAQUIS</vendor>
+        <picture>https://knushop.com.ua/image/cache/catalog/photo/goods/paquis/PL-PQS-058-front-262x334.jpg</picture>
+        <url>https://knushop.com.ua/index.php?route=product/product&amp;product_id=146</url>
+        <param code="290" name="Размер:">XXS</param>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="146#290-51" productId="146" quantity="0">
+        <productActivity>Y</productActivity>
+        <categoryId>18</categoryId>
+        <categoryId>59</categoryId>
+        <categoryId>70</categoryId>
+        <productName>Белое поло с патчем КНУ</productName>
+        <name>Белое поло с патчем КНУ (Размер:: XS)</name>
+        <price>439</price>
+        <vendor>PAQUIS</vendor>
+        <picture>https://knushop.com.ua/image/cache/catalog/photo/goods/paquis/PL-PQS-058-front-262x334.jpg</picture>
+        <url>https://knushop.com.ua/index.php?route=product/product&amp;product_id=146</url>
+        <param code="290" name="Размер:">XS</param>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="146#290-52" productId="146" quantity="2">
+        <productActivity>Y</productActivity>
+        <categoryId>18</categoryId>
+        <categoryId>59</categoryId>
+        <categoryId>70</categoryId>
+        <productName>Белое поло с патчем КНУ</productName>
+        <name>Белое поло с патчем КНУ (Размер:: S)</name>
+        <price>439</price>
+        <vendor>PAQUIS</vendor>
+        <picture>https://knushop.com.ua/image/cache/catalog/photo/goods/paquis/PL-PQS-058-front-262x334.jpg</picture>
+        <url>https://knushop.com.ua/index.php?route=product/product&amp;product_id=146</url>
+        <param code="290" name="Размер:">S</param>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="146#290-53" productId="146" quantity="2">
+        <productActivity>Y</productActivity>
+        <categoryId>18</categoryId>
+        <categoryId>59</categoryId>
+        <categoryId>70</categoryId>
+        <productName>Белое поло с патчем КНУ</productName>
+        <name>Белое поло с патчем КНУ (Размер:: M)</name>
+        <price>439</price>
+        <vendor>PAQUIS</vendor>
+        <picture>https://knushop.com.ua/image/cache/catalog/photo/goods/paquis/PL-PQS-058-front-262x334.jpg</picture>
+        <url>https://knushop.com.ua/index.php?route=product/product&amp;product_id=146</url>
+        <param code="290" name="Размер:">M</param>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="146#290-54" productId="146" quantity="2">
+        <productActivity>Y</productActivity>
+        <categoryId>18</categoryId>
+        <categoryId>59</categoryId>
+        <categoryId>70</categoryId>
+        <productName>Белое поло с патчем КНУ</productName>
+        <name>Белое поло с патчем КНУ (Размер:: L)</name>
+        <price>439</price>
+        <vendor>PAQUIS</vendor>
+        <picture>https://knushop.com.ua/image/cache/catalog/photo/goods/paquis/PL-PQS-058-front-262x334.jpg</picture>
+        <url>https://knushop.com.ua/index.php?route=product/product&amp;product_id=146</url>
+        <param code="290" name="Размер:">L</param>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="146#290-55" productId="146" quantity="2">
+        <productActivity>Y</productActivity>
+        <categoryId>18</categoryId>
+        <categoryId>59</categoryId>
+        <categoryId>70</categoryId>
+        <productName>Белое поло с патчем КНУ</productName>
+        <name>Белое поло с патчем КНУ (Размер:: XL)</name>
+        <price>439</price>
+        <vendor>PAQUIS</vendor>
+        <picture>https://knushop.com.ua/image/cache/catalog/photo/goods/paquis/PL-PQS-058-front-262x334.jpg</picture>
+        <url>https://knushop.com.ua/index.php?route=product/product&amp;product_id=146</url>
+        <param code="290" name="Размер:">XL</param>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="146#290-56" productId="146" quantity="0">
+        <productActivity>Y</productActivity>
+        <categoryId>18</categoryId>
+        <categoryId>59</categoryId>
+        <categoryId>70</categoryId>
+        <productName>Белое поло с патчем КНУ</productName>
+        <name>Белое поло с патчем КНУ (Размер:: XXL)</name>
+        <price>439</price>
+        <vendor>PAQUIS</vendor>
+        <picture>https://knushop.com.ua/image/cache/catalog/photo/goods/paquis/PL-PQS-058-front-262x334.jpg</picture>
+        <url>https://knushop.com.ua/index.php?route=product/product&amp;product_id=146</url>
+        <param code="290" name="Размер:">XXL</param>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="146#290-57" productId="146" quantity="0">
+        <productActivity>Y</productActivity>
+        <categoryId>18</categoryId>
+        <categoryId>59</categoryId>
+        <categoryId>70</categoryId>
+        <productName>Белое поло с патчем КНУ</productName>
+        <name>Белое поло с патчем КНУ (Размер:: XXXL)</name>
+        <price>439</price>
+        <vendor>PAQUIS</vendor>
+        <picture>https://knushop.com.ua/image/cache/catalog/photo/goods/paquis/PL-PQS-058-front-262x334.jpg</picture>
+        <url>https://knushop.com.ua/index.php?route=product/product&amp;product_id=146</url>
+        <param code="290" name="Размер:">XXXL</param>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="144#288-50" productId="144" quantity="0">
+        <productActivity>Y</productActivity>
+        <categoryId>25</categoryId>
+        <categoryId>59</categoryId>
+        <categoryId>60</categoryId>
+        <categoryId>70</categoryId>
+        <productName>Белое худи с вышивкой </productName>
+        <name>Белое худи с вышивкой  (Размер:: XXS)</name>
+        <price>669</price>
+        <vendor>PAQUIS</vendor>
+        <picture>https://knushop.com.ua/image/cache/catalog/photo/goods/paquis/HD-PQS-056-front-262x334.jpg</picture>
+        <url>https://knushop.com.ua/index.php?route=product/product&amp;product_id=144</url>
+        <param code="288" name="Размер:">XXS</param>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="144#288-51" productId="144" quantity="2">
+        <productActivity>Y</productActivity>
+        <categoryId>25</categoryId>
+        <categoryId>59</categoryId>
+        <categoryId>60</categoryId>
+        <categoryId>70</categoryId>
+        <productName>Белое худи с вышивкой </productName>
+        <name>Белое худи с вышивкой  (Размер:: XS)</name>
+        <price>669</price>
+        <vendor>PAQUIS</vendor>
+        <picture>https://knushop.com.ua/image/cache/catalog/photo/goods/paquis/HD-PQS-056-front-262x334.jpg</picture>
+        <url>https://knushop.com.ua/index.php?route=product/product&amp;product_id=144</url>
+        <param code="288" name="Размер:">XS</param>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="144#288-52" productId="144" quantity="4">
+        <productActivity>Y</productActivity>
+        <categoryId>25</categoryId>
+        <categoryId>59</categoryId>
+        <categoryId>60</categoryId>
+        <categoryId>70</categoryId>
+        <productName>Белое худи с вышивкой </productName>
+        <name>Белое худи с вышивкой  (Размер:: S)</name>
+        <price>669</price>
+        <vendor>PAQUIS</vendor>
+        <picture>https://knushop.com.ua/image/cache/catalog/photo/goods/paquis/HD-PQS-056-front-262x334.jpg</picture>
+        <url>https://knushop.com.ua/index.php?route=product/product&amp;product_id=144</url>
+        <param code="288" name="Размер:">S</param>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="144#288-53" productId="144" quantity="6">
+        <productActivity>Y</productActivity>
+        <categoryId>25</categoryId>
+        <categoryId>59</categoryId>
+        <categoryId>60</categoryId>
+        <categoryId>70</categoryId>
+        <productName>Белое худи с вышивкой </productName>
+        <name>Белое худи с вышивкой  (Размер:: M)</name>
+        <price>669</price>
+        <vendor>PAQUIS</vendor>
+        <picture>https://knushop.com.ua/image/cache/catalog/photo/goods/paquis/HD-PQS-056-front-262x334.jpg</picture>
+        <url>https://knushop.com.ua/index.php?route=product/product&amp;product_id=144</url>
+        <param code="288" name="Размер:">M</param>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="144#288-54" productId="144" quantity="4">
+        <productActivity>Y</productActivity>
+        <categoryId>25</categoryId>
+        <categoryId>59</categoryId>
+        <categoryId>60</categoryId>
+        <categoryId>70</categoryId>
+        <productName>Белое худи с вышивкой </productName>
+        <name>Белое худи с вышивкой  (Размер:: L)</name>
+        <price>669</price>
+        <vendor>PAQUIS</vendor>
+        <picture>https://knushop.com.ua/image/cache/catalog/photo/goods/paquis/HD-PQS-056-front-262x334.jpg</picture>
+        <url>https://knushop.com.ua/index.php?route=product/product&amp;product_id=144</url>
+        <param code="288" name="Размер:">L</param>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="144#288-55" productId="144" quantity="3">
+        <productActivity>Y</productActivity>
+        <categoryId>25</categoryId>
+        <categoryId>59</categoryId>
+        <categoryId>60</categoryId>
+        <categoryId>70</categoryId>
+        <productName>Белое худи с вышивкой </productName>
+        <name>Белое худи с вышивкой  (Размер:: XL)</name>
+        <price>669</price>
+        <vendor>PAQUIS</vendor>
+        <picture>https://knushop.com.ua/image/cache/catalog/photo/goods/paquis/HD-PQS-056-front-262x334.jpg</picture>
+        <url>https://knushop.com.ua/index.php?route=product/product&amp;product_id=144</url>
+        <param code="288" name="Размер:">XL</param>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="144#288-56" productId="144" quantity="0">
+        <productActivity>Y</productActivity>
+        <categoryId>25</categoryId>
+        <categoryId>59</categoryId>
+        <categoryId>60</categoryId>
+        <categoryId>70</categoryId>
+        <productName>Белое худи с вышивкой </productName>
+        <name>Белое худи с вышивкой  (Размер:: XXL)</name>
+        <price>669</price>
+        <vendor>PAQUIS</vendor>
+        <picture>https://knushop.com.ua/image/cache/catalog/photo/goods/paquis/HD-PQS-056-front-262x334.jpg</picture>
+        <url>https://knushop.com.ua/index.php?route=product/product&amp;product_id=144</url>
+        <param code="288" name="Размер:">XXL</param>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="144#288-57" productId="144" quantity="0">
+        <productActivity>Y</productActivity>
+        <categoryId>25</categoryId>
+        <categoryId>59</categoryId>
+        <categoryId>60</categoryId>
+        <categoryId>70</categoryId>
+        <productName>Белое худи с вышивкой </productName>
+        <name>Белое худи с вышивкой  (Размер:: XXXL)</name>
+        <price>669</price>
+        <vendor>PAQUIS</vendor>
+        <picture>https://knushop.com.ua/image/cache/catalog/photo/goods/paquis/HD-PQS-056-front-262x334.jpg</picture>
+        <url>https://knushop.com.ua/index.php?route=product/product&amp;product_id=144</url>
+        <param code="288" name="Размер:">XXXL</param>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="90" productId="90" quantity="107">
+        <productActivity>Y</productActivity>
+        <categoryId>59</categoryId>
+        <categoryId>64</categoryId>
+        <categoryId>69</categoryId>
+        <productName>Белый блокнот история II</productName>
+        <name>Белый блокнот история II</name>
+        <price>40</price>
+        <vendor>PAQUIS</vendor>
+        <picture>https://knushop.com.ua/image/cache/catalog/photo/goods/paquis/NB-PQS-032-fro nt-262x334.jpg</picture>
+        <url>https://knushop.com.ua/index.php?route=product/product&amp;product_id=90</url>
+        <param code="article" name="Артикул">NB-PQS-032</param>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="76" productId="76" quantity="30">
+        <productActivity>Y</productActivity>
+        <categoryId>59</categoryId>
+        <categoryId>64</categoryId>
+        <categoryId>69</categoryId>
+        <productName>Белый блокнот со старым КНУ</productName>
+        <name>Белый блокнот со старым КНУ</name>
+        <price>40</price>
+        <vendor>PAQUIS</vendor>
+        <picture>https://knushop.com.ua/image/cache/catalog/photo/goods/paquis/NB-PQS-010-front-262x334.jpg</picture>
+        <url>https://knushop.com.ua/index.php?route=product/product&amp;product_id=76</url>
+        <param code="article" name="Артикул">NB-PQS-010</param>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="156" productId="156" quantity="100">
+        <productActivity>Y</productActivity>
+        <categoryId>59</categoryId>
+        <categoryId>60</categoryId>
+        <categoryId>64</categoryId>
+        <categoryId>69</categoryId>
+        <categoryId>72</categoryId>
+        <productName>Блокнот ВДНХ</productName>
+        <name>Блокнот ВДНХ</name>
+        <price>50</price>
+        <vendor>PAQUIS</vendor>
+        <picture>https://knushop.com.ua/image/cache/catalog/photo/goods/paquis/stationery/NB-PQS-065-front-262x334.jpg</picture>
+        <url>https://knushop.com.ua/index.php?route=product/product&amp;product_id=156</url>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="154" productId="154" quantity="100">
+        <productActivity>Y</productActivity>
+        <categoryId>59</categoryId>
+        <categoryId>60</categoryId>
+        <categoryId>64</categoryId>
+        <categoryId>69</categoryId>
+        <categoryId>72</categoryId>
+        <productName>Блокнот Института Филологии</productName>
+        <name>Блокнот Института Филологии</name>
+        <price>50</price>
+        <vendor>PAQUIS</vendor>
+        <picture>https://knushop.com.ua/image/cache/catalog/photo/goods/paquis/stationery/NB-PQS-064-front-262x334.jpg</picture>
+        <url>https://knushop.com.ua/index.php?route=product/product&amp;product_id=154</url>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="91" productId="91" quantity="79">
+        <productActivity>Y</productActivity>
+        <categoryId>59</categoryId>
+        <categoryId>64</categoryId>
+        <categoryId>69</categoryId>
+        <categoryId>72</categoryId>
+        <productName>Блокнот ИПО</productName>
+        <name>Блокнот ИПО</name>
+        <price>40</price>
+        <vendor>PAQUIS</vendor>
+        <picture>https://knushop.com.ua/image/cache/catalog/photo/goods/paquis/NB-PQS-033-fro nt-262x334.jpg</picture>
+        <url>https://knushop.com.ua/index.php?route=product/product&amp;product_id=91</url>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="92" productId="92" quantity="51">
+        <productActivity>Y</productActivity>
+        <categoryId>59</categoryId>
+        <categoryId>64</categoryId>
+        <categoryId>69</categoryId>
+        <categoryId>72</categoryId>
+        <productName>Блокнот ИСТФАККНУ</productName>
+        <name>Блокнот ИСТФАККНУ</name>
+        <price>40</price>
+        <vendor>PAQUIS</vendor>
+        <picture>https://knushop.com.ua/image/cache/catalog/photo/goods/paquis/NB-PQS-034-fro nt-262x334.jpg</picture>
+        <url>https://knushop.com.ua/index.php?route=product/product&amp;product_id=92</url>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="138" productId="138" quantity="75">
+        <productActivity>Y</productActivity>
+        <categoryId>59</categoryId>
+        <categoryId>64</categoryId>
+        <categoryId>69</categoryId>
+        <productName>Блокнот Мечтай-Учись-Действуй!</productName>
+        <name>Блокнот Мечтай-Учись-Действуй!</name>
+        <price>50</price>
+        <vendor>PAQUIS</vendor>
+        <picture>https://knushop.com.ua/image/cache/catalog/photo/goods/paquis/stationery/NB-PQS-053-front-min-262x334.jpg</picture>
+        <url>https://knushop.com.ua/index.php?route=product/product&amp;product_id=138</url>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="98#264-50" productId="98" quantity="0">
+        <productActivity>Y</productActivity>
+        <categoryId>25</categoryId>
+        <categoryId>59</categoryId>
+        <categoryId>60</categoryId>
+        <categoryId>70</categoryId>
+        <productName>Бордовый свитшот </productName>
+        <name>Бордовый свитшот  (Размер:: XXS)</name>
+        <price>569</price>
+        <vendor>PAQUIS</vendor>
+        <picture>https://knushop.com.ua/image/cache/catalog/photo/goods/paquis/HD-PQS-022-front-262x334.jpg</picture>
+        <url>https://knushop.com.ua/index.php?route=product/product&amp;product_id=98</url>
+        <param code="264" name="Размер:">XXS</param>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="98#264-51" productId="98" quantity="2">
+        <productActivity>Y</productActivity>
+        <categoryId>25</categoryId>
+        <categoryId>59</categoryId>
+        <categoryId>60</categoryId>
+        <categoryId>70</categoryId>
+        <productName>Бордовый свитшот </productName>
+        <name>Бордовый свитшот  (Размер:: XS)</name>
+        <price>569</price>
+        <vendor>PAQUIS</vendor>
+        <picture>https://knushop.com.ua/image/cache/catalog/photo/goods/paquis/HD-PQS-022-front-262x334.jpg</picture>
+        <url>https://knushop.com.ua/index.php?route=product/product&amp;product_id=98</url>
+        <param code="264" name="Размер:">XS</param>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="98#264-52" productId="98" quantity="3">
+        <productActivity>Y</productActivity>
+        <categoryId>25</categoryId>
+        <categoryId>59</categoryId>
+        <categoryId>60</categoryId>
+        <categoryId>70</categoryId>
+        <productName>Бордовый свитшот </productName>
+        <name>Бордовый свитшот  (Размер:: S)</name>
+        <price>569</price>
+        <vendor>PAQUIS</vendor>
+        <picture>https://knushop.com.ua/image/cache/catalog/photo/goods/paquis/HD-PQS-022-front-262x334.jpg</picture>
+        <url>https://knushop.com.ua/index.php?route=product/product&amp;product_id=98</url>
+        <param code="264" name="Размер:">S</param>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="98#264-53" productId="98" quantity="0">
+        <productActivity>Y</productActivity>
+        <categoryId>25</categoryId>
+        <categoryId>59</categoryId>
+        <categoryId>60</categoryId>
+        <categoryId>70</categoryId>
+        <productName>Бордовый свитшот </productName>
+        <name>Бордовый свитшот  (Размер:: M)</name>
+        <price>569</price>
+        <vendor>PAQUIS</vendor>
+        <picture>https://knushop.com.ua/image/cache/catalog/photo/goods/paquis/HD-PQS-022-front-262x334.jpg</picture>
+        <url>https://knushop.com.ua/index.php?route=product/product&amp;product_id=98</url>
+        <param code="264" name="Размер:">M</param>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="98#264-54" productId="98" quantity="1">
+        <productActivity>Y</productActivity>
+        <categoryId>25</categoryId>
+        <categoryId>59</categoryId>
+        <categoryId>60</categoryId>
+        <categoryId>70</categoryId>
+        <productName>Бордовый свитшот </productName>
+        <name>Бордовый свитшот  (Размер:: L)</name>
+        <price>569</price>
+        <vendor>PAQUIS</vendor>
+        <picture>https://knushop.com.ua/image/cache/catalog/photo/goods/paquis/HD-PQS-022-front-262x334.jpg</picture>
+        <url>https://knushop.com.ua/index.php?route=product/product&amp;product_id=98</url>
+        <param code="264" name="Размер:">L</param>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="98#264-55" productId="98" quantity="3">
+        <productActivity>Y</productActivity>
+        <categoryId>25</categoryId>
+        <categoryId>59</categoryId>
+        <categoryId>60</categoryId>
+        <categoryId>70</categoryId>
+        <productName>Бордовый свитшот </productName>
+        <name>Бордовый свитшот  (Размер:: XL)</name>
+        <price>569</price>
+        <vendor>PAQUIS</vendor>
+        <picture>https://knushop.com.ua/image/cache/catalog/photo/goods/paquis/HD-PQS-022-front-262x334.jpg</picture>
+        <url>https://knushop.com.ua/index.php?route=product/product&amp;product_id=98</url>
+        <param code="264" name="Размер:">XL</param>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="98#264-56" productId="98" quantity="2">
+        <productActivity>Y</productActivity>
+        <categoryId>25</categoryId>
+        <categoryId>59</categoryId>
+        <categoryId>60</categoryId>
+        <categoryId>70</categoryId>
+        <productName>Бордовый свитшот </productName>
+        <name>Бордовый свитшот  (Размер:: XXL)</name>
+        <price>569</price>
+        <vendor>PAQUIS</vendor>
+        <picture>https://knushop.com.ua/image/cache/catalog/photo/goods/paquis/HD-PQS-022-front-262x334.jpg</picture>
+        <url>https://knushop.com.ua/index.php?route=product/product&amp;product_id=98</url>
+        <param code="264" name="Размер:">XXL</param>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="98#264-57" productId="98" quantity="0">
+        <productActivity>Y</productActivity>
+        <categoryId>25</categoryId>
+        <categoryId>59</categoryId>
+        <categoryId>60</categoryId>
+        <categoryId>70</categoryId>
+        <productName>Бордовый свитшот </productName>
+        <name>Бордовый свитшот  (Размер:: XXXL)</name>
+        <price>569</price>
+        <vendor>PAQUIS</vendor>
+        <picture>https://knushop.com.ua/image/cache/catalog/photo/goods/paquis/HD-PQS-022-front-262x334.jpg</picture>
+        <url>https://knushop.com.ua/index.php?route=product/product&amp;product_id=98</url>
+        <param code="264" name="Размер:">XXXL</param>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="129" productId="129" quantity="24">
+        <productActivity>Y</productActivity>
+        <categoryId>59</categoryId>
+        <categoryId>64</categoryId>
+        <categoryId>69</categoryId>
+        <productName>Екоблокнот КНУ</productName>
+        <name>Екоблокнот КНУ</name>
+        <price>80</price>
+        <vendor>PAQUIS</vendor>
+        <picture>https://knushop.com.ua/image/cache/catalog/photo/goods/paquis/NB-PQS-050-front-262x334.jpg</picture>
+        <url>https://knushop.com.ua/index.php?route=product/product&amp;product_id=129</url>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="150#294-59" productId="150" quantity="8">
+        <productActivity>Y</productActivity>
+        <categoryId>59</categoryId>
+        <categoryId>65</categoryId>
+        <productName>Железная фляга з KNU</productName>
+        <name>Железная фляга з KNU (Цвет:: Чёрный)</name>
+        <price>150</price>
+        <vendor>PAQUIS</vendor>
+        <picture>https://knushop.com.ua/image/cache/catalog/photo/goods/paquis/home/BL-PQS-048-all-262x334.jpg</picture>
+        <url>https://knushop.com.ua/index.php?route=product/product&amp;product_id=150</url>
+        <param code="294" name="Цвет:">Чёрный</param>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="150#294-60" productId="150" quantity="5">
+        <productActivity>Y</productActivity>
+        <categoryId>59</categoryId>
+        <categoryId>65</categoryId>
+        <productName>Железная фляга з KNU</productName>
+        <name>Железная фляга з KNU (Цвет:: Красный)</name>
+        <price>150</price>
+        <vendor>PAQUIS</vendor>
+        <picture>https://knushop.com.ua/image/cache/catalog/photo/goods/paquis/home/BL-PQS-048-all-262x334.jpg</picture>
+        <url>https://knushop.com.ua/index.php?route=product/product&amp;product_id=150</url>
+        <param code="294" name="Цвет:">Красный</param>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="150#294-62" productId="150" quantity="4">
+        <productActivity>Y</productActivity>
+        <categoryId>59</categoryId>
+        <categoryId>65</categoryId>
+        <productName>Железная фляга з KNU</productName>
+        <name>Железная фляга з KNU (Цвет:: Синий)</name>
+        <price>150</price>
+        <vendor>PAQUIS</vendor>
+        <picture>https://knushop.com.ua/image/cache/catalog/photo/goods/paquis/home/BL-PQS-048-all-262x334.jpg</picture>
+        <url>https://knushop.com.ua/index.php?route=product/product&amp;product_id=150</url>
+        <param code="294" name="Цвет:">Синий</param>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="88#257-58" productId="88" quantity="354">
+        <productActivity>Y</productActivity>
+        <categoryId>59</categoryId>
+        <categoryId>64</categoryId>
+        <categoryId>69</categoryId>
+        <productName>Карандаши с лого КНУ</productName>
+        <name>Карандаши с лого КНУ (Цвет:: Белый)</name>
+        <price>15</price>
+        <vendor>PAQUIS</vendor>
+        <picture>https://knushop.com.ua/image/cache/catalog/photo/goods/paquis/AC-PQS-pencils-all-colors-262x334.jpg</picture>
+        <url>https://knushop.com.ua/index.php?route=product/product&amp;product_id=88</url>
+        <param code="257" name="Цвет:">Белый</param>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="88#257-59" productId="88" quantity="223">
+        <productActivity>Y</productActivity>
+        <categoryId>59</categoryId>
+        <categoryId>64</categoryId>
+        <categoryId>69</categoryId>
+        <productName>Карандаши с лого КНУ</productName>
+        <name>Карандаши с лого КНУ (Цвет:: Чёрный)</name>
+        <price>15</price>
+        <vendor>PAQUIS</vendor>
+        <picture>https://knushop.com.ua/image/cache/catalog/photo/goods/paquis/AC-PQS-pencils-all-colors-262x334.jpg</picture>
+        <url>https://knushop.com.ua/index.php?route=product/product&amp;product_id=88</url>
+        <param code="257" name="Цвет:">Чёрный</param>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="88#257-60" productId="88" quantity="120">
+        <productActivity>Y</productActivity>
+        <categoryId>59</categoryId>
+        <categoryId>64</categoryId>
+        <categoryId>69</categoryId>
+        <productName>Карандаши с лого КНУ</productName>
+        <name>Карандаши с лого КНУ (Цвет:: Красный)</name>
+        <price>15</price>
+        <vendor>PAQUIS</vendor>
+        <picture>https://knushop.com.ua/image/cache/catalog/photo/goods/paquis/AC-PQS-pencils-all-colors-262x334.jpg</picture>
+        <url>https://knushop.com.ua/index.php?route=product/product&amp;product_id=88</url>
+        <param code="257" name="Цвет:">Красный</param>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="88#257-62" productId="88" quantity="177">
+        <productActivity>Y</productActivity>
+        <categoryId>59</categoryId>
+        <categoryId>64</categoryId>
+        <categoryId>69</categoryId>
+        <productName>Карандаши с лого КНУ</productName>
+        <name>Карандаши с лого КНУ (Цвет:: Синий)</name>
+        <price>15</price>
+        <vendor>PAQUIS</vendor>
+        <picture>https://knushop.com.ua/image/cache/catalog/photo/goods/paquis/AC-PQS-pencils-all-colors-262x334.jpg</picture>
+        <url>https://knushop.com.ua/index.php?route=product/product&amp;product_id=88</url>
+        <param code="257" name="Цвет:">Синий</param>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="103#269-50" productId="103" quantity="2">
+        <productActivity>Y</productActivity>
+        <categoryId>18</categoryId>
+        <categoryId>59</categoryId>
+        <categoryId>70</categoryId>
+        <productName>Красная футболка 1834</productName>
+        <name>Красная футболка 1834 (Размер:: XXS)</name>
+        <price>319</price>
+        <vendor>PAQUIS</vendor>
+        <picture>https://knushop.com.ua/image/cache/catalog/photo/goods/paquis/TS-PQS-026-front-262x334.jpg</picture>
+        <url>https://knushop.com.ua/index.php?route=product/product&amp;product_id=103</url>
+        <param code="269" name="Размер:">XXS</param>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="103#269-51" productId="103" quantity="2">
+        <productActivity>Y</productActivity>
+        <categoryId>18</categoryId>
+        <categoryId>59</categoryId>
+        <categoryId>70</categoryId>
+        <productName>Красная футболка 1834</productName>
+        <name>Красная футболка 1834 (Размер:: XS)</name>
+        <price>319</price>
+        <vendor>PAQUIS</vendor>
+        <picture>https://knushop.com.ua/image/cache/catalog/photo/goods/paquis/TS-PQS-026-front-262x334.jpg</picture>
+        <url>https://knushop.com.ua/index.php?route=product/product&amp;product_id=103</url>
+        <param code="269" name="Размер:">XS</param>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="103#269-52" productId="103" quantity="8">
+        <productActivity>Y</productActivity>
+        <categoryId>18</categoryId>
+        <categoryId>59</categoryId>
+        <categoryId>70</categoryId>
+        <productName>Красная футболка 1834</productName>
+        <name>Красная футболка 1834 (Размер:: S)</name>
+        <price>319</price>
+        <vendor>PAQUIS</vendor>
+        <picture>https://knushop.com.ua/image/cache/catalog/photo/goods/paquis/TS-PQS-026-front-262x334.jpg</picture>
+        <url>https://knushop.com.ua/index.php?route=product/product&amp;product_id=103</url>
+        <param code="269" name="Размер:">S</param>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="103#269-53" productId="103" quantity="8">
+        <productActivity>Y</productActivity>
+        <categoryId>18</categoryId>
+        <categoryId>59</categoryId>
+        <categoryId>70</categoryId>
+        <productName>Красная футболка 1834</productName>
+        <name>Красная футболка 1834 (Размер:: M)</name>
+        <price>319</price>
+        <vendor>PAQUIS</vendor>
+        <picture>https://knushop.com.ua/image/cache/catalog/photo/goods/paquis/TS-PQS-026-front-262x334.jpg</picture>
+        <url>https://knushop.com.ua/index.php?route=product/product&amp;product_id=103</url>
+        <param code="269" name="Размер:">M</param>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="103#269-54" productId="103" quantity="3">
+        <productActivity>Y</productActivity>
+        <categoryId>18</categoryId>
+        <categoryId>59</categoryId>
+        <categoryId>70</categoryId>
+        <productName>Красная футболка 1834</productName>
+        <name>Красная футболка 1834 (Размер:: L)</name>
+        <price>319</price>
+        <vendor>PAQUIS</vendor>
+        <picture>https://knushop.com.ua/image/cache/catalog/photo/goods/paquis/TS-PQS-026-front-262x334.jpg</picture>
+        <url>https://knushop.com.ua/index.php?route=product/product&amp;product_id=103</url>
+        <param code="269" name="Размер:">L</param>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="103#269-55" productId="103" quantity="2">
+        <productActivity>Y</productActivity>
+        <categoryId>18</categoryId>
+        <categoryId>59</categoryId>
+        <categoryId>70</categoryId>
+        <productName>Красная футболка 1834</productName>
+        <name>Красная футболка 1834 (Размер:: XL)</name>
+        <price>319</price>
+        <vendor>PAQUIS</vendor>
+        <picture>https://knushop.com.ua/image/cache/catalog/photo/goods/paquis/TS-PQS-026-front-262x334.jpg</picture>
+        <url>https://knushop.com.ua/index.php?route=product/product&amp;product_id=103</url>
+        <param code="269" name="Размер:">XL</param>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="103#269-56" productId="103" quantity="0">
+        <productActivity>Y</productActivity>
+        <categoryId>18</categoryId>
+        <categoryId>59</categoryId>
+        <categoryId>70</categoryId>
+        <productName>Красная футболка 1834</productName>
+        <name>Красная футболка 1834 (Размер:: XXL)</name>
+        <price>319</price>
+        <vendor>PAQUIS</vendor>
+        <picture>https://knushop.com.ua/image/cache/catalog/photo/goods/paquis/TS-PQS-026-front-262x334.jpg</picture>
+        <url>https://knushop.com.ua/index.php?route=product/product&amp;product_id=103</url>
+        <param code="269" name="Размер:">XXL</param>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="103#269-57" productId="103" quantity="0">
+        <productActivity>Y</productActivity>
+        <categoryId>18</categoryId>
+        <categoryId>59</categoryId>
+        <categoryId>70</categoryId>
+        <productName>Красная футболка 1834</productName>
+        <name>Красная футболка 1834 (Размер:: XXXL)</name>
+        <price>319</price>
+        <vendor>PAQUIS</vendor>
+        <picture>https://knushop.com.ua/image/cache/catalog/photo/goods/paquis/TS-PQS-026-front-262x334.jpg</picture>
+        <url>https://knushop.com.ua/index.php?route=product/product&amp;product_id=103</url>
+        <param code="269" name="Размер:">XXXL</param>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="153" productId="153" quantity="20">
+        <productActivity>Y</productActivity>
+        <categoryId>67</categoryId>
+        <productName>Креативное лидерство</productName>
+        <name>Креативное лидерство</name>
+        <price>150</price>
+        <picture>https://knushop.com.ua/image/cache/catalog/photo/goods/books/2. Layout - Course Guide - Creative Leadership-1-262x334.jpg</picture>
+        <url>https://knushop.com.ua/index.php?route=product/product&amp;product_id=153</url>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="109" productId="109" quantity="9">
+        <productActivity>Y</productActivity>
+        <categoryId>59</categoryId>
+        <categoryId>64</categoryId>
+        <categoryId>68</categoryId>
+        <productName>Мужской галстук КНУ</productName>
+        <name>Мужской галстук КНУ</name>
+        <price>459</price>
+        <picture>https://knushop.com.ua/image/cache/catalog/photo/goods/paquis/TIE-PQS-041-round-262x334.jpg</picture>
+        <url>https://knushop.com.ua/index.php?route=product/product&amp;product_id=109</url>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="110" productId="110" quantity="7">
+        <productActivity>Y</productActivity>
+        <categoryId>59</categoryId>
+        <categoryId>62</categoryId>
+        <categoryId>68</categoryId>
+        <productName>Мужской галстук с главным корпусом КНУ</productName>
+        <name>Мужской галстук с главным корпусом КНУ</name>
+        <price>459</price>
+        <picture>https://knushop.com.ua/image/cache/catalog/photo/goods/paquis/TIE-PQS-042-round-262x334.jpg</picture>
+        <url>https://knushop.com.ua/index.php?route=product/product&amp;product_id=110</url>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="134#284-63" productId="134" quantity="38">
+        <productActivity>Y</productActivity>
+        <categoryId>59</categoryId>
+        <categoryId>64</categoryId>
+        <categoryId>69</categoryId>
+        <productName>Новые ручки с лого КНУ</productName>
+        <name>Новые ручки с лого КНУ (Цвет:: Темно-серый)</name>
+        <price>40</price>
+        <vendor>PAQUIS</vendor>
+        <picture>https://knushop.com.ua/image/cache/catalog/photo/goods/paquis/stationery/PN-PQS-049-all-min-262x334.jpg</picture>
+        <url>https://knushop.com.ua/index.php?route=product/product&amp;product_id=134</url>
+        <param code="284" name="Цвет:">Темно-серый</param>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="134#284-59" productId="134" quantity="36">
+        <productActivity>Y</productActivity>
+        <categoryId>59</categoryId>
+        <categoryId>64</categoryId>
+        <categoryId>69</categoryId>
+        <productName>Новые ручки с лого КНУ</productName>
+        <name>Новые ручки с лого КНУ (Цвет:: Чёрный)</name>
+        <price>40</price>
+        <vendor>PAQUIS</vendor>
+        <picture>https://knushop.com.ua/image/cache/catalog/photo/goods/paquis/stationery/PN-PQS-049-all-min-262x334.jpg</picture>
+        <url>https://knushop.com.ua/index.php?route=product/product&amp;product_id=134</url>
+        <param code="284" name="Цвет:">Чёрный</param>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="134#284-60" productId="134" quantity="38">
+        <productActivity>Y</productActivity>
+        <categoryId>59</categoryId>
+        <categoryId>64</categoryId>
+        <categoryId>69</categoryId>
+        <productName>Новые ручки с лого КНУ</productName>
+        <name>Новые ручки с лого КНУ (Цвет:: Красный)</name>
+        <price>40</price>
+        <vendor>PAQUIS</vendor>
+        <picture>https://knushop.com.ua/image/cache/catalog/photo/goods/paquis/stationery/PN-PQS-049-all-min-262x334.jpg</picture>
+        <url>https://knushop.com.ua/index.php?route=product/product&amp;product_id=134</url>
+        <param code="284" name="Цвет:">Красный</param>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="134#284-62" productId="134" quantity="34">
+        <productActivity>Y</productActivity>
+        <categoryId>59</categoryId>
+        <categoryId>64</categoryId>
+        <categoryId>69</categoryId>
+        <productName>Новые ручки с лого КНУ</productName>
+        <name>Новые ручки с лого КНУ (Цвет:: Синий)</name>
+        <price>40</price>
+        <vendor>PAQUIS</vendor>
+        <picture>https://knushop.com.ua/image/cache/catalog/photo/goods/paquis/stationery/PN-PQS-049-all-min-262x334.jpg</picture>
+        <url>https://knushop.com.ua/index.php?route=product/product&amp;product_id=134</url>
+        <param code="284" name="Цвет:">Синий</param>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="139" productId="139" quantity="45">
+        <productActivity>Y</productActivity>
+        <categoryId>59</categoryId>
+        <categoryId>64</categoryId>
+        <categoryId>68</categoryId>
+        <productName>Пин-значок 1834</productName>
+        <name>Пин-значок 1834</name>
+        <price>140</price>
+        <vendor>PAQUIS</vendor>
+        <picture>https://knushop.com.ua/image/cache/catalog/photo/goods/paquis/accessories/PN-PQS-54-front-min-262x334.jpg</picture>
+        <url>https://knushop.com.ua/index.php?route=product/product&amp;product_id=139</url>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="87" productId="87" quantity="8">
+        <productActivity>Y</productActivity>
+        <categoryId>59</categoryId>
+        <categoryId>64</categoryId>
+        <categoryId>68</categoryId>
+        <categoryId>72</categoryId>
+        <productName>Пин-значок ИПО</productName>
+        <name>Пин-значок ИПО</name>
+        <price>140</price>
+        <vendor>PAQUIS</vendor>
+        <picture>https://knushop.com.ua/image/cache/catalog/photo/goods/paquis/PN-PQS-017-only-262x334.jpg</picture>
+        <url>https://knushop.com.ua/index.php?route=product/product&amp;product_id=87</url>
+        <param code="article" name="Артикул">PN-PQS-017</param>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="86" productId="86" quantity="41">
+        <productActivity>Y</productActivity>
+        <categoryId>59</categoryId>
+        <categoryId>64</categoryId>
+        <categoryId>68</categoryId>
+        <productName>Пин-значок КНУ</productName>
+        <name>Пин-значок КНУ</name>
+        <price>140</price>
+        <vendor>PAQUIS</vendor>
+        <picture>https://knushop.com.ua/image/cache/catalog/photo/goods/paquis/PN-PQS-016-only-262x334.jpg</picture>
+        <url>https://knushop.com.ua/index.php?route=product/product&amp;product_id=86</url>
+        <param code="article" name="Артикул">PN-PQS-016</param>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="123" productId="123" quantity="29">
+        <productActivity>Y</productActivity>
+        <categoryId>59</categoryId>
+        <categoryId>64</categoryId>
+        <categoryId>68</categoryId>
+        <productName>Пин-значок лого КНУ</productName>
+        <name>Пин-значок лого КНУ</name>
+        <price>140</price>
+        <vendor>PAQUIS</vendor>
+        <picture>https://knushop.com.ua/image/cache/catalog/photo/goods/paquis/PN-PQS-046-only-262x334.jpg</picture>
+        <url>https://knushop.com.ua/index.php?route=product/product&amp;product_id=123</url>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="108" productId="108" quantity="3">
+        <productActivity>Y</productActivity>
+        <categoryId>59</categoryId>
+        <categoryId>64</categoryId>
+        <categoryId>68</categoryId>
+        <categoryId>72</categoryId>
+        <productName>Пин-значок факультета компьютерных наук и кибернетики</productName>
+        <name>Пин-значок факультета компьютерных наук и кибернетики</name>
+        <price>140</price>
+        <vendor>PAQUIS</vendor>
+        <picture>https://knushop.com.ua/image/cache/catalog/photo/goods/paquis/PN-PQS-050-only-262x334.jpg</picture>
+        <url>https://knushop.com.ua/index.php?route=product/product&amp;product_id=108</url>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="141" productId="141" quantity="47">
+        <productActivity>Y</productActivity>
+        <categoryId>59</categoryId>
+        <categoryId>64</categoryId>
+        <categoryId>68</categoryId>
+        <categoryId>72</categoryId>
+        <productName>Пин-значок ЭФ</productName>
+        <name>Пин-значок ЭФ</name>
+        <price>140</price>
+        <vendor>PAQUIS</vendor>
+        <picture>https://knushop.com.ua/image/cache/catalog/photo/goods/paquis/accessories/PN-PQS-056-front-min-262x334.jpg</picture>
+        <url>https://knushop.com.ua/index.php?route=product/product&amp;product_id=141</url>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="120" productId="120" quantity="15">
+        <productActivity>Y</productActivity>
+        <categoryId>59</categoryId>
+        <categoryId>65</categoryId>
+        <productName>Прозрачная чашка для кофе</productName>
+        <name>Прозрачная чашка для кофе</name>
+        <price>150</price>
+        <vendor>PAQUIS</vendor>
+        <picture>https://knushop.com.ua/image/cache/catalog/photo/goods/paquis/CP-PQS-036-anfas-262x334.jpg</picture>
+        <url>https://knushop.com.ua/index.php?route=product/product&amp;product_id=120</url>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="105" productId="105" quantity="100">
+        <productActivity>Y</productActivity>
+        <categoryId>67</categoryId>
+        <productName>Разместить свою книгу на КНУSHOP</productName>
+        <name>Разместить свою книгу на КНУSHOP</name>
+        <price>0</price>
+        <picture>https://knushop.com.ua/image/cache/catalog/photo/goods/books/add-book-new-2-262x334.jpg</picture>
+        <url>https://knushop.com.ua/index.php?route=product/product&amp;product_id=105</url>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="135" productId="135" quantity="4">
+        <productActivity>Y</productActivity>
+        <categoryId>59</categoryId>
+        <categoryId>64</categoryId>
+        <categoryId>69</categoryId>
+        <productName>Ручка Parker с лого КНУ</productName>
+        <name>Ручка Parker с лого КНУ</name>
+        <price>589</price>
+        <vendor>PAQUIS</vendor>
+        <picture>https://knushop.com.ua/image/cache/catalog/photo/goods/paquis/stationery/PN-PQS-050-front-min-262x334.jpg</picture>
+        <url>https://knushop.com.ua/index.php?route=product/product&amp;product_id=135</url>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="94#270-58" productId="94" quantity="0">
+        <productActivity>N</productActivity>
+        <categoryId>59</categoryId>
+        <categoryId>64</categoryId>
+        <categoryId>69</categoryId>
+        <productName>Ручка со стилусом и с лого КНУ</productName>
+        <name>Ручка со стилусом и с лого КНУ (Цвет:: Белый)</name>
+        <price>40</price>
+        <vendor>PAQUIS</vendor>
+        <picture>https://knushop.com.ua/image/cache/catalog/photo/goods/paquis/PN-PQS-031-262x334.jpg</picture>
+        <url>https://knushop.com.ua/index.php?route=product/product&amp;product_id=94</url>
+        <param code="270" name="Цвет:">Белый</param>
+        <param code="article" name="Артикул">PN-PQS-031</param>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="94#270-60" productId="94" quantity="0">
+        <productActivity>N</productActivity>
+        <categoryId>59</categoryId>
+        <categoryId>64</categoryId>
+        <categoryId>69</categoryId>
+        <productName>Ручка со стилусом и с лого КНУ</productName>
+        <name>Ручка со стилусом и с лого КНУ (Цвет:: Красный)</name>
+        <price>40</price>
+        <vendor>PAQUIS</vendor>
+        <picture>https://knushop.com.ua/image/cache/catalog/photo/goods/paquis/PN-PQS-031-262x334.jpg</picture>
+        <url>https://knushop.com.ua/index.php?route=product/product&amp;product_id=94</url>
+        <param code="270" name="Цвет:">Красный</param>
+        <param code="article" name="Артикул">PN-PQS-031</param>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="137#287-59" productId="137" quantity="8">
+        <productActivity>Y</productActivity>
+        <categoryId>59</categoryId>
+        <categoryId>64</categoryId>
+        <categoryId>69</categoryId>
+        <productName>Ручки Schneider с лого КНУ</productName>
+        <name>Ручки Schneider с лого КНУ (Цвет:: Чёрный)</name>
+        <price>40</price>
+        <vendor>PAQUIS</vendor>
+        <picture>https://knushop.com.ua/image/cache/catalog/photo/goods/paquis/stationery/PN-PQS-052-all-min-262x334.jpg</picture>
+        <url>https://knushop.com.ua/index.php?route=product/product&amp;product_id=137</url>
+        <param code="287" name="Цвет:">Чёрный</param>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="137#287-60" productId="137" quantity="3">
+        <productActivity>Y</productActivity>
+        <categoryId>59</categoryId>
+        <categoryId>64</categoryId>
+        <categoryId>69</categoryId>
+        <productName>Ручки Schneider с лого КНУ</productName>
+        <name>Ручки Schneider с лого КНУ (Цвет:: Красный)</name>
+        <price>40</price>
+        <vendor>PAQUIS</vendor>
+        <picture>https://knushop.com.ua/image/cache/catalog/photo/goods/paquis/stationery/PN-PQS-052-all-min-262x334.jpg</picture>
+        <url>https://knushop.com.ua/index.php?route=product/product&amp;product_id=137</url>
+        <param code="287" name="Цвет:">Красный</param>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="137#287-62" productId="137" quantity="8">
+        <productActivity>Y</productActivity>
+        <categoryId>59</categoryId>
+        <categoryId>64</categoryId>
+        <categoryId>69</categoryId>
+        <productName>Ручки Schneider с лого КНУ</productName>
+        <name>Ручки Schneider с лого КНУ (Цвет:: Синий)</name>
+        <price>40</price>
+        <vendor>PAQUIS</vendor>
+        <picture>https://knushop.com.ua/image/cache/catalog/photo/goods/paquis/stationery/PN-PQS-052-all-min-262x334.jpg</picture>
+        <url>https://knushop.com.ua/index.php?route=product/product&amp;product_id=137</url>
+        <param code="287" name="Цвет:">Синий</param>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="95#262-58" productId="95" quantity="5">
+        <productActivity>Y</productActivity>
+        <categoryId>59</categoryId>
+        <categoryId>64</categoryId>
+        <categoryId>69</categoryId>
+        <productName>Ручки с лого КНУ</productName>
+        <name>Ручки с лого КНУ (Цвет:: Белый)</name>
+        <price>40</price>
+        <vendor>PAQUIS</vendor>
+        <picture>https://knushop.com.ua/image/cache/catalog/photo/goods/paquis/PN-PQS-029-all-3-262x334.jpg</picture>
+        <url>https://knushop.com.ua/index.php?route=product/product&amp;product_id=95</url>
+        <param code="262" name="Цвет:">Белый</param>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="95#262-63" productId="95" quantity="1">
+        <productActivity>Y</productActivity>
+        <categoryId>59</categoryId>
+        <categoryId>64</categoryId>
+        <categoryId>69</categoryId>
+        <productName>Ручки с лого КНУ</productName>
+        <name>Ручки с лого КНУ (Цвет:: Темно-серый)</name>
+        <price>40</price>
+        <vendor>PAQUIS</vendor>
+        <picture>https://knushop.com.ua/image/cache/catalog/photo/goods/paquis/PN-PQS-029-all-3-262x334.jpg</picture>
+        <url>https://knushop.com.ua/index.php?route=product/product&amp;product_id=95</url>
+        <param code="262" name="Цвет:">Темно-серый</param>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="95#262-62" productId="95" quantity="3">
+        <productActivity>Y</productActivity>
+        <categoryId>59</categoryId>
+        <categoryId>64</categoryId>
+        <categoryId>69</categoryId>
+        <productName>Ручки с лого КНУ</productName>
+        <name>Ручки с лого КНУ (Цвет:: Синий)</name>
+        <price>40</price>
+        <vendor>PAQUIS</vendor>
+        <picture>https://knushop.com.ua/image/cache/catalog/photo/goods/paquis/PN-PQS-029-all-3-262x334.jpg</picture>
+        <url>https://knushop.com.ua/index.php?route=product/product&amp;product_id=95</url>
+        <param code="262" name="Цвет:">Синий</param>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="93#292-58" productId="93" quantity="0">
+        <productActivity>Y</productActivity>
+        <categoryId>59</categoryId>
+        <categoryId>64</categoryId>
+        <categoryId>69</categoryId>
+        <productName>Ручки-трансформеры со стилусом и с лого КНУ</productName>
+        <name>Ручки-трансформеры со стилусом и с лого КНУ (Цвет:: Белый)</name>
+        <price>50</price>
+        <vendor>PAQUIS</vendor>
+        <picture>https://knushop.com.ua/image/cache/catalog/photo/goods/paquis/PN-PQS-030-all -262x334.jpg</picture>
+        <url>https://knushop.com.ua/index.php?route=product/product&amp;product_id=93</url>
+        <param code="292" name="Цвет:">Белый</param>
+        <param code="article" name="Артикул">PN-PQS-030</param>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="93#292-63" productId="93" quantity="0">
+        <productActivity>Y</productActivity>
+        <categoryId>59</categoryId>
+        <categoryId>64</categoryId>
+        <categoryId>69</categoryId>
+        <productName>Ручки-трансформеры со стилусом и с лого КНУ</productName>
+        <name>Ручки-трансформеры со стилусом и с лого КНУ (Цвет:: Темно-серый)</name>
+        <price>50</price>
+        <vendor>PAQUIS</vendor>
+        <picture>https://knushop.com.ua/image/cache/catalog/photo/goods/paquis/PN-PQS-030-all -262x334.jpg</picture>
+        <url>https://knushop.com.ua/index.php?route=product/product&amp;product_id=93</url>
+        <param code="292" name="Цвет:">Темно-серый</param>
+        <param code="article" name="Артикул">PN-PQS-030</param>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="93#292-59" productId="93" quantity="0">
+        <productActivity>Y</productActivity>
+        <categoryId>59</categoryId>
+        <categoryId>64</categoryId>
+        <categoryId>69</categoryId>
+        <productName>Ручки-трансформеры со стилусом и с лого КНУ</productName>
+        <name>Ручки-трансформеры со стилусом и с лого КНУ (Цвет:: Чёрный)</name>
+        <price>50</price>
+        <vendor>PAQUIS</vendor>
+        <picture>https://knushop.com.ua/image/cache/catalog/photo/goods/paquis/PN-PQS-030-all -262x334.jpg</picture>
+        <url>https://knushop.com.ua/index.php?route=product/product&amp;product_id=93</url>
+        <param code="292" name="Цвет:">Чёрный</param>
+        <param code="article" name="Артикул">PN-PQS-030</param>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="93#292-60" productId="93" quantity="13">
+        <productActivity>Y</productActivity>
+        <categoryId>59</categoryId>
+        <categoryId>64</categoryId>
+        <categoryId>69</categoryId>
+        <productName>Ручки-трансформеры со стилусом и с лого КНУ</productName>
+        <name>Ручки-трансформеры со стилусом и с лого КНУ (Цвет:: Красный)</name>
+        <price>50</price>
+        <vendor>PAQUIS</vendor>
+        <picture>https://knushop.com.ua/image/cache/catalog/photo/goods/paquis/PN-PQS-030-all -262x334.jpg</picture>
+        <url>https://knushop.com.ua/index.php?route=product/product&amp;product_id=93</url>
+        <param code="292" name="Цвет:">Красный</param>
+        <param code="article" name="Артикул">PN-PQS-030</param>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="93#292-62" productId="93" quantity="0">
+        <productActivity>Y</productActivity>
+        <categoryId>59</categoryId>
+        <categoryId>64</categoryId>
+        <categoryId>69</categoryId>
+        <productName>Ручки-трансформеры со стилусом и с лого КНУ</productName>
+        <name>Ручки-трансформеры со стилусом и с лого КНУ (Цвет:: Синий)</name>
+        <price>50</price>
+        <vendor>PAQUIS</vendor>
+        <picture>https://knushop.com.ua/image/cache/catalog/photo/goods/paquis/PN-PQS-030-all -262x334.jpg</picture>
+        <url>https://knushop.com.ua/index.php?route=product/product&amp;product_id=93</url>
+        <param code="292" name="Цвет:">Синий</param>
+        <param code="article" name="Артикул">PN-PQS-030</param>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="84" productId="84" quantity="0">
+        <productActivity>N</productActivity>
+        <categoryId>34</categoryId>
+        <categoryId>59</categoryId>
+        <categoryId>62</categoryId>
+        <categoryId>68</categoryId>
+        <productName>Светлая экосумка с красным корпусом</productName>
+        <name>Светлая экосумка с красным корпусом</name>
+        <price>120</price>
+        <vendor>PAQUIS</vendor>
+        <picture>https://knushop.com.ua/image/cache/catalog/photo/goods/paquis/BG-PQS-010-262x334.jpg</picture>
+        <url>https://knushop.com.ua/index.php?route=product/product&amp;product_id=84</url>
+        <param code="article" name="Артикул">BG-PQS-010</param>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="70#248-50" productId="70" quantity="4">
+        <productActivity>Y</productActivity>
+        <categoryId>18</categoryId>
+        <categoryId>59</categoryId>
+        <productName>Серая футболка с красным корпусом</productName>
+        <name>Серая футболка с красным корпусом (Размер:: XXS)</name>
+        <price>299</price>
+        <vendor>PAQUIS</vendor>
+        <picture>https://knushop.com.ua/image/cache/catalog/photo/goods/paquis/TS-PQS-002 front-262x334.jpg</picture>
+        <url>https://knushop.com.ua/index.php?route=product/product&amp;product_id=70</url>
+        <param code="248" name="Размер:">XXS</param>
+        <param code="article" name="Артикул">TS-PQS-002</param>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="70#248-51" productId="70" quantity="6">
+        <productActivity>Y</productActivity>
+        <categoryId>18</categoryId>
+        <categoryId>59</categoryId>
+        <productName>Серая футболка с красным корпусом</productName>
+        <name>Серая футболка с красным корпусом (Размер:: XS)</name>
+        <price>299</price>
+        <vendor>PAQUIS</vendor>
+        <picture>https://knushop.com.ua/image/cache/catalog/photo/goods/paquis/TS-PQS-002 front-262x334.jpg</picture>
+        <url>https://knushop.com.ua/index.php?route=product/product&amp;product_id=70</url>
+        <param code="248" name="Размер:">XS</param>
+        <param code="article" name="Артикул">TS-PQS-002</param>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="70#248-52" productId="70" quantity="3">
+        <productActivity>Y</productActivity>
+        <categoryId>18</categoryId>
+        <categoryId>59</categoryId>
+        <productName>Серая футболка с красным корпусом</productName>
+        <name>Серая футболка с красным корпусом (Размер:: S)</name>
+        <price>299</price>
+        <vendor>PAQUIS</vendor>
+        <picture>https://knushop.com.ua/image/cache/catalog/photo/goods/paquis/TS-PQS-002 front-262x334.jpg</picture>
+        <url>https://knushop.com.ua/index.php?route=product/product&amp;product_id=70</url>
+        <param code="248" name="Размер:">S</param>
+        <param code="article" name="Артикул">TS-PQS-002</param>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="70#248-53" productId="70" quantity="0">
+        <productActivity>Y</productActivity>
+        <categoryId>18</categoryId>
+        <categoryId>59</categoryId>
+        <productName>Серая футболка с красным корпусом</productName>
+        <name>Серая футболка с красным корпусом (Размер:: M)</name>
+        <price>299</price>
+        <vendor>PAQUIS</vendor>
+        <picture>https://knushop.com.ua/image/cache/catalog/photo/goods/paquis/TS-PQS-002 front-262x334.jpg</picture>
+        <url>https://knushop.com.ua/index.php?route=product/product&amp;product_id=70</url>
+        <param code="248" name="Размер:">M</param>
+        <param code="article" name="Артикул">TS-PQS-002</param>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="70#248-54" productId="70" quantity="2">
+        <productActivity>Y</productActivity>
+        <categoryId>18</categoryId>
+        <categoryId>59</categoryId>
+        <productName>Серая футболка с красным корпусом</productName>
+        <name>Серая футболка с красным корпусом (Размер:: L)</name>
+        <price>299</price>
+        <vendor>PAQUIS</vendor>
+        <picture>https://knushop.com.ua/image/cache/catalog/photo/goods/paquis/TS-PQS-002 front-262x334.jpg</picture>
+        <url>https://knushop.com.ua/index.php?route=product/product&amp;product_id=70</url>
+        <param code="248" name="Размер:">L</param>
+        <param code="article" name="Артикул">TS-PQS-002</param>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="70#248-55" productId="70" quantity="7">
+        <productActivity>Y</productActivity>
+        <categoryId>18</categoryId>
+        <categoryId>59</categoryId>
+        <productName>Серая футболка с красным корпусом</productName>
+        <name>Серая футболка с красным корпусом (Размер:: XL)</name>
+        <price>299</price>
+        <vendor>PAQUIS</vendor>
+        <picture>https://knushop.com.ua/image/cache/catalog/photo/goods/paquis/TS-PQS-002 front-262x334.jpg</picture>
+        <url>https://knushop.com.ua/index.php?route=product/product&amp;product_id=70</url>
+        <param code="248" name="Размер:">XL</param>
+        <param code="article" name="Артикул">TS-PQS-002</param>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="70#248-56" productId="70" quantity="1">
+        <productActivity>Y</productActivity>
+        <categoryId>18</categoryId>
+        <categoryId>59</categoryId>
+        <productName>Серая футболка с красным корпусом</productName>
+        <name>Серая футболка с красным корпусом (Размер:: XXL)</name>
+        <price>299</price>
+        <vendor>PAQUIS</vendor>
+        <picture>https://knushop.com.ua/image/cache/catalog/photo/goods/paquis/TS-PQS-002 front-262x334.jpg</picture>
+        <url>https://knushop.com.ua/index.php?route=product/product&amp;product_id=70</url>
+        <param code="248" name="Размер:">XXL</param>
+        <param code="article" name="Артикул">TS-PQS-002</param>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="70#248-57" productId="70" quantity="1">
+        <productActivity>Y</productActivity>
+        <categoryId>18</categoryId>
+        <categoryId>59</categoryId>
+        <productName>Серая футболка с красным корпусом</productName>
+        <name>Серая футболка с красным корпусом (Размер:: XXXL)</name>
+        <price>299</price>
+        <vendor>PAQUIS</vendor>
+        <picture>https://knushop.com.ua/image/cache/catalog/photo/goods/paquis/TS-PQS-002 front-262x334.jpg</picture>
+        <url>https://knushop.com.ua/index.php?route=product/product&amp;product_id=70</url>
+        <param code="248" name="Размер:">XXXL</param>
+        <param code="article" name="Артикул">TS-PQS-002</param>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="71#249-50" productId="71" quantity="5">
+        <productActivity>Y</productActivity>
+        <categoryId>18</categoryId>
+        <categoryId>59</categoryId>
+        <productName>Серая футболка с красным лого КНУ</productName>
+        <name>Серая футболка с красным лого КНУ (Размер:: XXS)</name>
+        <price>299</price>
+        <vendor>PAQUIS</vendor>
+        <picture>https://knushop.com.ua/image/cache/catalog/photo/goods/paquis/TS-PQS-003 front-262x334.jpg</picture>
+        <url>https://knushop.com.ua/index.php?route=product/product&amp;product_id=71</url>
+        <param code="249" name="Размер:">XXS</param>
+        <param code="article" name="Артикул">TS-PQS-003</param>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="71#249-51" productId="71" quantity="4">
+        <productActivity>Y</productActivity>
+        <categoryId>18</categoryId>
+        <categoryId>59</categoryId>
+        <productName>Серая футболка с красным лого КНУ</productName>
+        <name>Серая футболка с красным лого КНУ (Размер:: XS)</name>
+        <price>299</price>
+        <vendor>PAQUIS</vendor>
+        <picture>https://knushop.com.ua/image/cache/catalog/photo/goods/paquis/TS-PQS-003 front-262x334.jpg</picture>
+        <url>https://knushop.com.ua/index.php?route=product/product&amp;product_id=71</url>
+        <param code="249" name="Размер:">XS</param>
+        <param code="article" name="Артикул">TS-PQS-003</param>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="71#249-52" productId="71" quantity="7">
+        <productActivity>Y</productActivity>
+        <categoryId>18</categoryId>
+        <categoryId>59</categoryId>
+        <productName>Серая футболка с красным лого КНУ</productName>
+        <name>Серая футболка с красным лого КНУ (Размер:: S)</name>
+        <price>299</price>
+        <vendor>PAQUIS</vendor>
+        <picture>https://knushop.com.ua/image/cache/catalog/photo/goods/paquis/TS-PQS-003 front-262x334.jpg</picture>
+        <url>https://knushop.com.ua/index.php?route=product/product&amp;product_id=71</url>
+        <param code="249" name="Размер:">S</param>
+        <param code="article" name="Артикул">TS-PQS-003</param>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="71#249-53" productId="71" quantity="2">
+        <productActivity>Y</productActivity>
+        <categoryId>18</categoryId>
+        <categoryId>59</categoryId>
+        <productName>Серая футболка с красным лого КНУ</productName>
+        <name>Серая футболка с красным лого КНУ (Размер:: M)</name>
+        <price>299</price>
+        <vendor>PAQUIS</vendor>
+        <picture>https://knushop.com.ua/image/cache/catalog/photo/goods/paquis/TS-PQS-003 front-262x334.jpg</picture>
+        <url>https://knushop.com.ua/index.php?route=product/product&amp;product_id=71</url>
+        <param code="249" name="Размер:">M</param>
+        <param code="article" name="Артикул">TS-PQS-003</param>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="71#249-54" productId="71" quantity="8">
+        <productActivity>Y</productActivity>
+        <categoryId>18</categoryId>
+        <categoryId>59</categoryId>
+        <productName>Серая футболка с красным лого КНУ</productName>
+        <name>Серая футболка с красным лого КНУ (Размер:: L)</name>
+        <price>299</price>
+        <vendor>PAQUIS</vendor>
+        <picture>https://knushop.com.ua/image/cache/catalog/photo/goods/paquis/TS-PQS-003 front-262x334.jpg</picture>
+        <url>https://knushop.com.ua/index.php?route=product/product&amp;product_id=71</url>
+        <param code="249" name="Размер:">L</param>
+        <param code="article" name="Артикул">TS-PQS-003</param>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="71#249-55" productId="71" quantity="5">
+        <productActivity>Y</productActivity>
+        <categoryId>18</categoryId>
+        <categoryId>59</categoryId>
+        <productName>Серая футболка с красным лого КНУ</productName>
+        <name>Серая футболка с красным лого КНУ (Размер:: XL)</name>
+        <price>299</price>
+        <vendor>PAQUIS</vendor>
+        <picture>https://knushop.com.ua/image/cache/catalog/photo/goods/paquis/TS-PQS-003 front-262x334.jpg</picture>
+        <url>https://knushop.com.ua/index.php?route=product/product&amp;product_id=71</url>
+        <param code="249" name="Размер:">XL</param>
+        <param code="article" name="Артикул">TS-PQS-003</param>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="71#249-56" productId="71" quantity="1">
+        <productActivity>Y</productActivity>
+        <categoryId>18</categoryId>
+        <categoryId>59</categoryId>
+        <productName>Серая футболка с красным лого КНУ</productName>
+        <name>Серая футболка с красным лого КНУ (Размер:: XXL)</name>
+        <price>299</price>
+        <vendor>PAQUIS</vendor>
+        <picture>https://knushop.com.ua/image/cache/catalog/photo/goods/paquis/TS-PQS-003 front-262x334.jpg</picture>
+        <url>https://knushop.com.ua/index.php?route=product/product&amp;product_id=71</url>
+        <param code="249" name="Размер:">XXL</param>
+        <param code="article" name="Артикул">TS-PQS-003</param>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="71#249-57" productId="71" quantity="2">
+        <productActivity>Y</productActivity>
+        <categoryId>18</categoryId>
+        <categoryId>59</categoryId>
+        <productName>Серая футболка с красным лого КНУ</productName>
+        <name>Серая футболка с красным лого КНУ (Размер:: XXXL)</name>
+        <price>299</price>
+        <vendor>PAQUIS</vendor>
+        <picture>https://knushop.com.ua/image/cache/catalog/photo/goods/paquis/TS-PQS-003 front-262x334.jpg</picture>
+        <url>https://knushop.com.ua/index.php?route=product/product&amp;product_id=71</url>
+        <param code="249" name="Размер:">XXXL</param>
+        <param code="article" name="Артикул">TS-PQS-003</param>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="72#250-50" productId="72" quantity="6">
+        <productActivity>Y</productActivity>
+        <categoryId>18</categoryId>
+        <categoryId>59</categoryId>
+        <productName>Серая футболка с синим лого КНУ</productName>
+        <name>Серая футболка с синим лого КНУ (Размер:: XXS)</name>
+        <price>299</price>
+        <vendor>PAQUIS</vendor>
+        <picture>https://knushop.com.ua/image/cache/catalog/photo/goods/paquis/TS-PQS-004 front-262x334.jpg</picture>
+        <url>https://knushop.com.ua/index.php?route=product/product&amp;product_id=72</url>
+        <param code="250" name="Размер:">XXS</param>
+        <param code="article" name="Артикул">TS-PQS-004</param>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="72#250-51" productId="72" quantity="4">
+        <productActivity>Y</productActivity>
+        <categoryId>18</categoryId>
+        <categoryId>59</categoryId>
+        <productName>Серая футболка с синим лого КНУ</productName>
+        <name>Серая футболка с синим лого КНУ (Размер:: XS)</name>
+        <price>299</price>
+        <vendor>PAQUIS</vendor>
+        <picture>https://knushop.com.ua/image/cache/catalog/photo/goods/paquis/TS-PQS-004 front-262x334.jpg</picture>
+        <url>https://knushop.com.ua/index.php?route=product/product&amp;product_id=72</url>
+        <param code="250" name="Размер:">XS</param>
+        <param code="article" name="Артикул">TS-PQS-004</param>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="72#250-52" productId="72" quantity="6">
+        <productActivity>Y</productActivity>
+        <categoryId>18</categoryId>
+        <categoryId>59</categoryId>
+        <productName>Серая футболка с синим лого КНУ</productName>
+        <name>Серая футболка с синим лого КНУ (Размер:: S)</name>
+        <price>299</price>
+        <vendor>PAQUIS</vendor>
+        <picture>https://knushop.com.ua/image/cache/catalog/photo/goods/paquis/TS-PQS-004 front-262x334.jpg</picture>
+        <url>https://knushop.com.ua/index.php?route=product/product&amp;product_id=72</url>
+        <param code="250" name="Размер:">S</param>
+        <param code="article" name="Артикул">TS-PQS-004</param>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="72#250-53" productId="72" quantity="1">
+        <productActivity>Y</productActivity>
+        <categoryId>18</categoryId>
+        <categoryId>59</categoryId>
+        <productName>Серая футболка с синим лого КНУ</productName>
+        <name>Серая футболка с синим лого КНУ (Размер:: M)</name>
+        <price>299</price>
+        <vendor>PAQUIS</vendor>
+        <picture>https://knushop.com.ua/image/cache/catalog/photo/goods/paquis/TS-PQS-004 front-262x334.jpg</picture>
+        <url>https://knushop.com.ua/index.php?route=product/product&amp;product_id=72</url>
+        <param code="250" name="Размер:">M</param>
+        <param code="article" name="Артикул">TS-PQS-004</param>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="72#250-54" productId="72" quantity="5">
+        <productActivity>Y</productActivity>
+        <categoryId>18</categoryId>
+        <categoryId>59</categoryId>
+        <productName>Серая футболка с синим лого КНУ</productName>
+        <name>Серая футболка с синим лого КНУ (Размер:: L)</name>
+        <price>299</price>
+        <vendor>PAQUIS</vendor>
+        <picture>https://knushop.com.ua/image/cache/catalog/photo/goods/paquis/TS-PQS-004 front-262x334.jpg</picture>
+        <url>https://knushop.com.ua/index.php?route=product/product&amp;product_id=72</url>
+        <param code="250" name="Размер:">L</param>
+        <param code="article" name="Артикул">TS-PQS-004</param>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="72#250-55" productId="72" quantity="6">
+        <productActivity>Y</productActivity>
+        <categoryId>18</categoryId>
+        <categoryId>59</categoryId>
+        <productName>Серая футболка с синим лого КНУ</productName>
+        <name>Серая футболка с синим лого КНУ (Размер:: XL)</name>
+        <price>299</price>
+        <vendor>PAQUIS</vendor>
+        <picture>https://knushop.com.ua/image/cache/catalog/photo/goods/paquis/TS-PQS-004 front-262x334.jpg</picture>
+        <url>https://knushop.com.ua/index.php?route=product/product&amp;product_id=72</url>
+        <param code="250" name="Размер:">XL</param>
+        <param code="article" name="Артикул">TS-PQS-004</param>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="72#250-56" productId="72" quantity="1">
+        <productActivity>Y</productActivity>
+        <categoryId>18</categoryId>
+        <categoryId>59</categoryId>
+        <productName>Серая футболка с синим лого КНУ</productName>
+        <name>Серая футболка с синим лого КНУ (Размер:: XXL)</name>
+        <price>299</price>
+        <vendor>PAQUIS</vendor>
+        <picture>https://knushop.com.ua/image/cache/catalog/photo/goods/paquis/TS-PQS-004 front-262x334.jpg</picture>
+        <url>https://knushop.com.ua/index.php?route=product/product&amp;product_id=72</url>
+        <param code="250" name="Размер:">XXL</param>
+        <param code="article" name="Артикул">TS-PQS-004</param>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="72#250-57" productId="72" quantity="3">
+        <productActivity>Y</productActivity>
+        <categoryId>18</categoryId>
+        <categoryId>59</categoryId>
+        <productName>Серая футболка с синим лого КНУ</productName>
+        <name>Серая футболка с синим лого КНУ (Размер:: XXXL)</name>
+        <price>299</price>
+        <vendor>PAQUIS</vendor>
+        <picture>https://knushop.com.ua/image/cache/catalog/photo/goods/paquis/TS-PQS-004 front-262x334.jpg</picture>
+        <url>https://knushop.com.ua/index.php?route=product/product&amp;product_id=72</url>
+        <param code="250" name="Размер:">XXXL</param>
+        <param code="article" name="Артикул">TS-PQS-004</param>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="68#246-50" productId="68" quantity="0">
+        <productActivity>Y</productActivity>
+        <categoryId>25</categoryId>
+        <categoryId>59</categoryId>
+        <productName>Серое худи с красным лого КНУ</productName>
+        <name>Серое худи с красным лого КНУ (Размер:: XXS)</name>
+        <price>599</price>
+        <vendor>PAQUIS</vendor>
+        <picture>https://knushop.com.ua/image/cache/catalog/photo/goods/paquis/HD-PQS-005 front-262x334.jpg</picture>
+        <url>https://knushop.com.ua/index.php?route=product/product&amp;product_id=68</url>
+        <param code="246" name="Размер:">XXS</param>
+        <param code="article" name="Артикул">HD-PQS-005</param>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="68#246-51" productId="68" quantity="0">
+        <productActivity>Y</productActivity>
+        <categoryId>25</categoryId>
+        <categoryId>59</categoryId>
+        <productName>Серое худи с красным лого КНУ</productName>
+        <name>Серое худи с красным лого КНУ (Размер:: XS)</name>
+        <price>599</price>
+        <vendor>PAQUIS</vendor>
+        <picture>https://knushop.com.ua/image/cache/catalog/photo/goods/paquis/HD-PQS-005 front-262x334.jpg</picture>
+        <url>https://knushop.com.ua/index.php?route=product/product&amp;product_id=68</url>
+        <param code="246" name="Размер:">XS</param>
+        <param code="article" name="Артикул">HD-PQS-005</param>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="68#246-52" productId="68" quantity="1">
+        <productActivity>Y</productActivity>
+        <categoryId>25</categoryId>
+        <categoryId>59</categoryId>
+        <productName>Серое худи с красным лого КНУ</productName>
+        <name>Серое худи с красным лого КНУ (Размер:: S)</name>
+        <price>599</price>
+        <vendor>PAQUIS</vendor>
+        <picture>https://knushop.com.ua/image/cache/catalog/photo/goods/paquis/HD-PQS-005 front-262x334.jpg</picture>
+        <url>https://knushop.com.ua/index.php?route=product/product&amp;product_id=68</url>
+        <param code="246" name="Размер:">S</param>
+        <param code="article" name="Артикул">HD-PQS-005</param>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="68#246-53" productId="68" quantity="0">
+        <productActivity>Y</productActivity>
+        <categoryId>25</categoryId>
+        <categoryId>59</categoryId>
+        <productName>Серое худи с красным лого КНУ</productName>
+        <name>Серое худи с красным лого КНУ (Размер:: M)</name>
+        <price>599</price>
+        <vendor>PAQUIS</vendor>
+        <picture>https://knushop.com.ua/image/cache/catalog/photo/goods/paquis/HD-PQS-005 front-262x334.jpg</picture>
+        <url>https://knushop.com.ua/index.php?route=product/product&amp;product_id=68</url>
+        <param code="246" name="Размер:">M</param>
+        <param code="article" name="Артикул">HD-PQS-005</param>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="68#246-54" productId="68" quantity="0">
+        <productActivity>Y</productActivity>
+        <categoryId>25</categoryId>
+        <categoryId>59</categoryId>
+        <productName>Серое худи с красным лого КНУ</productName>
+        <name>Серое худи с красным лого КНУ (Размер:: L)</name>
+        <price>599</price>
+        <vendor>PAQUIS</vendor>
+        <picture>https://knushop.com.ua/image/cache/catalog/photo/goods/paquis/HD-PQS-005 front-262x334.jpg</picture>
+        <url>https://knushop.com.ua/index.php?route=product/product&amp;product_id=68</url>
+        <param code="246" name="Размер:">L</param>
+        <param code="article" name="Артикул">HD-PQS-005</param>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="68#246-55" productId="68" quantity="0">
+        <productActivity>Y</productActivity>
+        <categoryId>25</categoryId>
+        <categoryId>59</categoryId>
+        <productName>Серое худи с красным лого КНУ</productName>
+        <name>Серое худи с красным лого КНУ (Размер:: XL)</name>
+        <price>599</price>
+        <vendor>PAQUIS</vendor>
+        <picture>https://knushop.com.ua/image/cache/catalog/photo/goods/paquis/HD-PQS-005 front-262x334.jpg</picture>
+        <url>https://knushop.com.ua/index.php?route=product/product&amp;product_id=68</url>
+        <param code="246" name="Размер:">XL</param>
+        <param code="article" name="Артикул">HD-PQS-005</param>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="68#246-56" productId="68" quantity="5">
+        <productActivity>Y</productActivity>
+        <categoryId>25</categoryId>
+        <categoryId>59</categoryId>
+        <productName>Серое худи с красным лого КНУ</productName>
+        <name>Серое худи с красным лого КНУ (Размер:: XXL)</name>
+        <price>599</price>
+        <vendor>PAQUIS</vendor>
+        <picture>https://knushop.com.ua/image/cache/catalog/photo/goods/paquis/HD-PQS-005 front-262x334.jpg</picture>
+        <url>https://knushop.com.ua/index.php?route=product/product&amp;product_id=68</url>
+        <param code="246" name="Размер:">XXL</param>
+        <param code="article" name="Артикул">HD-PQS-005</param>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="68#246-57" productId="68" quantity="0">
+        <productActivity>Y</productActivity>
+        <categoryId>25</categoryId>
+        <categoryId>59</categoryId>
+        <productName>Серое худи с красным лого КНУ</productName>
+        <name>Серое худи с красным лого КНУ (Размер:: XXXL)</name>
+        <price>599</price>
+        <vendor>PAQUIS</vendor>
+        <picture>https://knushop.com.ua/image/cache/catalog/photo/goods/paquis/HD-PQS-005 front-262x334.jpg</picture>
+        <url>https://knushop.com.ua/index.php?route=product/product&amp;product_id=68</url>
+        <param code="246" name="Размер:">XXXL</param>
+        <param code="article" name="Артикул">HD-PQS-005</param>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="73#251-50" productId="73" quantity="7">
+        <productActivity>Y</productActivity>
+        <categoryId>25</categoryId>
+        <categoryId>59</categoryId>
+        <productName>Серое худи с синим лого КНУ</productName>
+        <name>Серое худи с синим лого КНУ (Размер:: XXS)</name>
+        <price>599</price>
+        <vendor>PAQUIS</vendor>
+        <picture>https://knushop.com.ua/image/cache/catalog/photo/goods/paquis/HD-PQS-006 front-262x334.jpg</picture>
+        <url>https://knushop.com.ua/index.php?route=product/product&amp;product_id=73</url>
+        <param code="251" name="Размер:">XXS</param>
+        <param code="article" name="Артикул">HD-PQS-006</param>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="73#251-51" productId="73" quantity="3">
+        <productActivity>Y</productActivity>
+        <categoryId>25</categoryId>
+        <categoryId>59</categoryId>
+        <productName>Серое худи с синим лого КНУ</productName>
+        <name>Серое худи с синим лого КНУ (Размер:: XS)</name>
+        <price>599</price>
+        <vendor>PAQUIS</vendor>
+        <picture>https://knushop.com.ua/image/cache/catalog/photo/goods/paquis/HD-PQS-006 front-262x334.jpg</picture>
+        <url>https://knushop.com.ua/index.php?route=product/product&amp;product_id=73</url>
+        <param code="251" name="Размер:">XS</param>
+        <param code="article" name="Артикул">HD-PQS-006</param>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="73#251-52" productId="73" quantity="5">
+        <productActivity>Y</productActivity>
+        <categoryId>25</categoryId>
+        <categoryId>59</categoryId>
+        <productName>Серое худи с синим лого КНУ</productName>
+        <name>Серое худи с синим лого КНУ (Размер:: S)</name>
+        <price>599</price>
+        <vendor>PAQUIS</vendor>
+        <picture>https://knushop.com.ua/image/cache/catalog/photo/goods/paquis/HD-PQS-006 front-262x334.jpg</picture>
+        <url>https://knushop.com.ua/index.php?route=product/product&amp;product_id=73</url>
+        <param code="251" name="Размер:">S</param>
+        <param code="article" name="Артикул">HD-PQS-006</param>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="73#251-53" productId="73" quantity="0">
+        <productActivity>Y</productActivity>
+        <categoryId>25</categoryId>
+        <categoryId>59</categoryId>
+        <productName>Серое худи с синим лого КНУ</productName>
+        <name>Серое худи с синим лого КНУ (Размер:: M)</name>
+        <price>599</price>
+        <vendor>PAQUIS</vendor>
+        <picture>https://knushop.com.ua/image/cache/catalog/photo/goods/paquis/HD-PQS-006 front-262x334.jpg</picture>
+        <url>https://knushop.com.ua/index.php?route=product/product&amp;product_id=73</url>
+        <param code="251" name="Размер:">M</param>
+        <param code="article" name="Артикул">HD-PQS-006</param>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="73#251-54" productId="73" quantity="2">
+        <productActivity>Y</productActivity>
+        <categoryId>25</categoryId>
+        <categoryId>59</categoryId>
+        <productName>Серое худи с синим лого КНУ</productName>
+        <name>Серое худи с синим лого КНУ (Размер:: L)</name>
+        <price>599</price>
+        <vendor>PAQUIS</vendor>
+        <picture>https://knushop.com.ua/image/cache/catalog/photo/goods/paquis/HD-PQS-006 front-262x334.jpg</picture>
+        <url>https://knushop.com.ua/index.php?route=product/product&amp;product_id=73</url>
+        <param code="251" name="Размер:">L</param>
+        <param code="article" name="Артикул">HD-PQS-006</param>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="73#251-55" productId="73" quantity="4">
+        <productActivity>Y</productActivity>
+        <categoryId>25</categoryId>
+        <categoryId>59</categoryId>
+        <productName>Серое худи с синим лого КНУ</productName>
+        <name>Серое худи с синим лого КНУ (Размер:: XL)</name>
+        <price>599</price>
+        <vendor>PAQUIS</vendor>
+        <picture>https://knushop.com.ua/image/cache/catalog/photo/goods/paquis/HD-PQS-006 front-262x334.jpg</picture>
+        <url>https://knushop.com.ua/index.php?route=product/product&amp;product_id=73</url>
+        <param code="251" name="Размер:">XL</param>
+        <param code="article" name="Артикул">HD-PQS-006</param>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="73#251-56" productId="73" quantity="1">
+        <productActivity>Y</productActivity>
+        <categoryId>25</categoryId>
+        <categoryId>59</categoryId>
+        <productName>Серое худи с синим лого КНУ</productName>
+        <name>Серое худи с синим лого КНУ (Размер:: XXL)</name>
+        <price>599</price>
+        <vendor>PAQUIS</vendor>
+        <picture>https://knushop.com.ua/image/cache/catalog/photo/goods/paquis/HD-PQS-006 front-262x334.jpg</picture>
+        <url>https://knushop.com.ua/index.php?route=product/product&amp;product_id=73</url>
+        <param code="251" name="Размер:">XXL</param>
+        <param code="article" name="Артикул">HD-PQS-006</param>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="73#251-57" productId="73" quantity="8">
+        <productActivity>Y</productActivity>
+        <categoryId>25</categoryId>
+        <categoryId>59</categoryId>
+        <productName>Серое худи с синим лого КНУ</productName>
+        <name>Серое худи с синим лого КНУ (Размер:: XXXL)</name>
+        <price>599</price>
+        <vendor>PAQUIS</vendor>
+        <picture>https://knushop.com.ua/image/cache/catalog/photo/goods/paquis/HD-PQS-006 front-262x334.jpg</picture>
+        <url>https://knushop.com.ua/index.php?route=product/product&amp;product_id=73</url>
+        <param code="251" name="Размер:">XXXL</param>
+        <param code="article" name="Артикул">HD-PQS-006</param>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="83#255-50" productId="83" quantity="3">
+        <productActivity>Y</productActivity>
+        <categoryId>18</categoryId>
+        <categoryId>59</categoryId>
+        <productName>Синее поло с патчем КНУ</productName>
+        <name>Синее поло с патчем КНУ (Размер:: XXS)</name>
+        <price>439</price>
+        <vendor>PAQUIS</vendor>
+        <picture>https://knushop.com.ua/image/cache/catalog/photo/goods/paquis/PL-PQS-009-front-262x334.jpg</picture>
+        <url>https://knushop.com.ua/index.php?route=product/product&amp;product_id=83</url>
+        <param code="255" name="Размер:">XXS</param>
+        <param code="article" name="Артикул">PL-PQS-009</param>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="83#255-51" productId="83" quantity="5">
+        <productActivity>Y</productActivity>
+        <categoryId>18</categoryId>
+        <categoryId>59</categoryId>
+        <productName>Синее поло с патчем КНУ</productName>
+        <name>Синее поло с патчем КНУ (Размер:: XS)</name>
+        <price>439</price>
+        <vendor>PAQUIS</vendor>
+        <picture>https://knushop.com.ua/image/cache/catalog/photo/goods/paquis/PL-PQS-009-front-262x334.jpg</picture>
+        <url>https://knushop.com.ua/index.php?route=product/product&amp;product_id=83</url>
+        <param code="255" name="Размер:">XS</param>
+        <param code="article" name="Артикул">PL-PQS-009</param>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="83#255-52" productId="83" quantity="1">
+        <productActivity>Y</productActivity>
+        <categoryId>18</categoryId>
+        <categoryId>59</categoryId>
+        <productName>Синее поло с патчем КНУ</productName>
+        <name>Синее поло с патчем КНУ (Размер:: S)</name>
+        <price>439</price>
+        <vendor>PAQUIS</vendor>
+        <picture>https://knushop.com.ua/image/cache/catalog/photo/goods/paquis/PL-PQS-009-front-262x334.jpg</picture>
+        <url>https://knushop.com.ua/index.php?route=product/product&amp;product_id=83</url>
+        <param code="255" name="Размер:">S</param>
+        <param code="article" name="Артикул">PL-PQS-009</param>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="83#255-53" productId="83" quantity="0">
+        <productActivity>Y</productActivity>
+        <categoryId>18</categoryId>
+        <categoryId>59</categoryId>
+        <productName>Синее поло с патчем КНУ</productName>
+        <name>Синее поло с патчем КНУ (Размер:: M)</name>
+        <price>439</price>
+        <vendor>PAQUIS</vendor>
+        <picture>https://knushop.com.ua/image/cache/catalog/photo/goods/paquis/PL-PQS-009-front-262x334.jpg</picture>
+        <url>https://knushop.com.ua/index.php?route=product/product&amp;product_id=83</url>
+        <param code="255" name="Размер:">M</param>
+        <param code="article" name="Артикул">PL-PQS-009</param>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="83#255-54" productId="83" quantity="0">
+        <productActivity>Y</productActivity>
+        <categoryId>18</categoryId>
+        <categoryId>59</categoryId>
+        <productName>Синее поло с патчем КНУ</productName>
+        <name>Синее поло с патчем КНУ (Размер:: L)</name>
+        <price>439</price>
+        <vendor>PAQUIS</vendor>
+        <picture>https://knushop.com.ua/image/cache/catalog/photo/goods/paquis/PL-PQS-009-front-262x334.jpg</picture>
+        <url>https://knushop.com.ua/index.php?route=product/product&amp;product_id=83</url>
+        <param code="255" name="Размер:">L</param>
+        <param code="article" name="Артикул">PL-PQS-009</param>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="83#255-55" productId="83" quantity="0">
+        <productActivity>Y</productActivity>
+        <categoryId>18</categoryId>
+        <categoryId>59</categoryId>
+        <productName>Синее поло с патчем КНУ</productName>
+        <name>Синее поло с патчем КНУ (Размер:: XL)</name>
+        <price>439</price>
+        <vendor>PAQUIS</vendor>
+        <picture>https://knushop.com.ua/image/cache/catalog/photo/goods/paquis/PL-PQS-009-front-262x334.jpg</picture>
+        <url>https://knushop.com.ua/index.php?route=product/product&amp;product_id=83</url>
+        <param code="255" name="Размер:">XL</param>
+        <param code="article" name="Артикул">PL-PQS-009</param>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="83#255-56" productId="83" quantity="0">
+        <productActivity>Y</productActivity>
+        <categoryId>18</categoryId>
+        <categoryId>59</categoryId>
+        <productName>Синее поло с патчем КНУ</productName>
+        <name>Синее поло с патчем КНУ (Размер:: XXL)</name>
+        <price>439</price>
+        <vendor>PAQUIS</vendor>
+        <picture>https://knushop.com.ua/image/cache/catalog/photo/goods/paquis/PL-PQS-009-front-262x334.jpg</picture>
+        <url>https://knushop.com.ua/index.php?route=product/product&amp;product_id=83</url>
+        <param code="255" name="Размер:">XXL</param>
+        <param code="article" name="Артикул">PL-PQS-009</param>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="83#255-57" productId="83" quantity="4">
+        <productActivity>Y</productActivity>
+        <categoryId>18</categoryId>
+        <categoryId>59</categoryId>
+        <productName>Синее поло с патчем КНУ</productName>
+        <name>Синее поло с патчем КНУ (Размер:: XXXL)</name>
+        <price>439</price>
+        <vendor>PAQUIS</vendor>
+        <picture>https://knushop.com.ua/image/cache/catalog/photo/goods/paquis/PL-PQS-009-front-262x334.jpg</picture>
+        <url>https://knushop.com.ua/index.php?route=product/product&amp;product_id=83</url>
+        <param code="255" name="Размер:">XXXL</param>
+        <param code="article" name="Артикул">PL-PQS-009</param>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="151" productId="151" quantity="98">
+        <productActivity>Y</productActivity>
+        <categoryId>34</categoryId>
+        <categoryId>59</categoryId>
+        <categoryId>60</categoryId>
+        <categoryId>62</categoryId>
+        <categoryId>69</categoryId>
+        <productName>Стикер KNU </productName>
+        <name>Стикер KNU </name>
+        <price>15</price>
+        <vendor>PAQUIS</vendor>
+        <picture>https://knushop.com.ua/image/cache/catalog/photo/goods/paquis/stationery/SС-PQS-061-front-262x334.jpg</picture>
+        <url>https://knushop.com.ua/index.php?route=product/product&amp;product_id=151</url>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="106" productId="106" quantity="103">
+        <productActivity>Y</productActivity>
+        <categoryId>34</categoryId>
+        <categoryId>59</categoryId>
+        <categoryId>62</categoryId>
+        <categoryId>69</categoryId>
+        <productName>Стикер KNU student</productName>
+        <name>Стикер KNU student</name>
+        <price>15</price>
+        <vendor>PAQUIS</vendor>
+        <picture>https://knushop.com.ua/image/cache/catalog/photo/goods/paquis/11knustudent-262x334.jpg</picture>
+        <url>https://knushop.com.ua/index.php?route=product/product&amp;product_id=106</url>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="140" productId="140" quantity="32">
+        <productActivity>Y</productActivity>
+        <categoryId>59</categoryId>
+        <categoryId>64</categoryId>
+        <categoryId>69</categoryId>
+        <productName>Стикерпак КНУ</productName>
+        <name>Стикерпак КНУ</name>
+        <price>20</price>
+        <vendor>PAQUIS</vendor>
+        <picture>https://knushop.com.ua/image/cache/catalog/photo/goods/paquis/stationery/SP-PQS-055-min-262x334.jpg</picture>
+        <url>https://knushop.com.ua/index.php?route=product/product&amp;product_id=140</url>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="148" productId="148" quantity="93">
+        <productActivity>Y</productActivity>
+        <categoryId>59</categoryId>
+        <categoryId>60</categoryId>
+        <categoryId>64</categoryId>
+        <categoryId>69</categoryId>
+        <productName>Стикерпак Шевченко 1</productName>
+        <name>Стикерпак Шевченко 1</name>
+        <price>30</price>
+        <vendor>PAQUIS</vendor>
+        <picture>https://knushop.com.ua/image/cache/catalog/photo/goods/paquis/accessories/SP-PQS-060-262x334.jpg</picture>
+        <url>https://knushop.com.ua/index.php?route=product/product&amp;product_id=148</url>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="113" productId="113" quantity="5">
+        <productActivity>Y</productActivity>
+        <categoryId>67</categoryId>
+        <productName>Стратегічне управління розвитком дослідницьких університетів</productName>
+        <name>Стратегічне управління розвитком дослідницьких університетів</name>
+        <price>250</price>
+        <picture>https://knushop.com.ua/image/cache/catalog/photo/goods/books/Strategic-Management-of-the-Development-of-Research-Universities-front-1-262x334.jpg</picture>
+        <url>https://knushop.com.ua/index.php?route=product/product&amp;product_id=113</url>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="145#289-50" productId="145" quantity="0">
+        <productActivity>Y</productActivity>
+        <categoryId>25</categoryId>
+        <categoryId>29</categoryId>
+        <categoryId>59</categoryId>
+        <categoryId>70</categoryId>
+        <productName>Темно-красный худи выпускника </productName>
+        <name>Темно-красный худи выпускника  (Размер:: XXS)</name>
+        <price>669</price>
+        <vendor>PAQUIS</vendor>
+        <picture>https://knushop.com.ua/image/cache/catalog/photo/goods/paquis/HD-PQS-057-front-262x334.jpg</picture>
+        <url>https://knushop.com.ua/index.php?route=product/product&amp;product_id=145</url>
+        <param code="289" name="Размер:">XXS</param>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="145#289-51" productId="145" quantity="0">
+        <productActivity>Y</productActivity>
+        <categoryId>25</categoryId>
+        <categoryId>29</categoryId>
+        <categoryId>59</categoryId>
+        <categoryId>70</categoryId>
+        <productName>Темно-красный худи выпускника </productName>
+        <name>Темно-красный худи выпускника  (Размер:: XS)</name>
+        <price>669</price>
+        <vendor>PAQUIS</vendor>
+        <picture>https://knushop.com.ua/image/cache/catalog/photo/goods/paquis/HD-PQS-057-front-262x334.jpg</picture>
+        <url>https://knushop.com.ua/index.php?route=product/product&amp;product_id=145</url>
+        <param code="289" name="Размер:">XS</param>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="145#289-52" productId="145" quantity="0">
+        <productActivity>Y</productActivity>
+        <categoryId>25</categoryId>
+        <categoryId>29</categoryId>
+        <categoryId>59</categoryId>
+        <categoryId>70</categoryId>
+        <productName>Темно-красный худи выпускника </productName>
+        <name>Темно-красный худи выпускника  (Размер:: S)</name>
+        <price>669</price>
+        <vendor>PAQUIS</vendor>
+        <picture>https://knushop.com.ua/image/cache/catalog/photo/goods/paquis/HD-PQS-057-front-262x334.jpg</picture>
+        <url>https://knushop.com.ua/index.php?route=product/product&amp;product_id=145</url>
+        <param code="289" name="Размер:">S</param>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="145#289-53" productId="145" quantity="0">
+        <productActivity>Y</productActivity>
+        <categoryId>25</categoryId>
+        <categoryId>29</categoryId>
+        <categoryId>59</categoryId>
+        <categoryId>70</categoryId>
+        <productName>Темно-красный худи выпускника </productName>
+        <name>Темно-красный худи выпускника  (Размер:: M)</name>
+        <price>669</price>
+        <vendor>PAQUIS</vendor>
+        <picture>https://knushop.com.ua/image/cache/catalog/photo/goods/paquis/HD-PQS-057-front-262x334.jpg</picture>
+        <url>https://knushop.com.ua/index.php?route=product/product&amp;product_id=145</url>
+        <param code="289" name="Размер:">M</param>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="145#289-54" productId="145" quantity="0">
+        <productActivity>Y</productActivity>
+        <categoryId>25</categoryId>
+        <categoryId>29</categoryId>
+        <categoryId>59</categoryId>
+        <categoryId>70</categoryId>
+        <productName>Темно-красный худи выпускника </productName>
+        <name>Темно-красный худи выпускника  (Размер:: L)</name>
+        <price>669</price>
+        <vendor>PAQUIS</vendor>
+        <picture>https://knushop.com.ua/image/cache/catalog/photo/goods/paquis/HD-PQS-057-front-262x334.jpg</picture>
+        <url>https://knushop.com.ua/index.php?route=product/product&amp;product_id=145</url>
+        <param code="289" name="Размер:">L</param>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="145#289-55" productId="145" quantity="4">
+        <productActivity>Y</productActivity>
+        <categoryId>25</categoryId>
+        <categoryId>29</categoryId>
+        <categoryId>59</categoryId>
+        <categoryId>70</categoryId>
+        <productName>Темно-красный худи выпускника </productName>
+        <name>Темно-красный худи выпускника  (Размер:: XL)</name>
+        <price>669</price>
+        <vendor>PAQUIS</vendor>
+        <picture>https://knushop.com.ua/image/cache/catalog/photo/goods/paquis/HD-PQS-057-front-262x334.jpg</picture>
+        <url>https://knushop.com.ua/index.php?route=product/product&amp;product_id=145</url>
+        <param code="289" name="Размер:">XL</param>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="145#289-56" productId="145" quantity="0">
+        <productActivity>Y</productActivity>
+        <categoryId>25</categoryId>
+        <categoryId>29</categoryId>
+        <categoryId>59</categoryId>
+        <categoryId>70</categoryId>
+        <productName>Темно-красный худи выпускника </productName>
+        <name>Темно-красный худи выпускника  (Размер:: XXL)</name>
+        <price>669</price>
+        <vendor>PAQUIS</vendor>
+        <picture>https://knushop.com.ua/image/cache/catalog/photo/goods/paquis/HD-PQS-057-front-262x334.jpg</picture>
+        <url>https://knushop.com.ua/index.php?route=product/product&amp;product_id=145</url>
+        <param code="289" name="Размер:">XXL</param>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="145#289-57" productId="145" quantity="0">
+        <productActivity>Y</productActivity>
+        <categoryId>25</categoryId>
+        <categoryId>29</categoryId>
+        <categoryId>59</categoryId>
+        <categoryId>70</categoryId>
+        <productName>Темно-красный худи выпускника </productName>
+        <name>Темно-красный худи выпускника  (Размер:: XXXL)</name>
+        <price>669</price>
+        <vendor>PAQUIS</vendor>
+        <picture>https://knushop.com.ua/image/cache/catalog/photo/goods/paquis/HD-PQS-057-front-262x334.jpg</picture>
+        <url>https://knushop.com.ua/index.php?route=product/product&amp;product_id=145</url>
+        <param code="289" name="Размер:">XXXL</param>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="101#267-50" productId="101" quantity="4">
+        <productActivity>Y</productActivity>
+        <categoryId>18</categoryId>
+        <categoryId>59</categoryId>
+        <categoryId>70</categoryId>
+        <productName>Темно-серая футболка KNU </productName>
+        <name>Темно-серая футболка KNU  (Размер:: XXS)</name>
+        <price>319</price>
+        <vendor>PAQUIS</vendor>
+        <picture>https://knushop.com.ua/image/cache/catalog/photo/goods/paquis/TS-PQS-021-front-262x334.jpg</picture>
+        <url>https://knushop.com.ua/index.php?route=product/product&amp;product_id=101</url>
+        <param code="267" name="Размер:">XXS</param>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="101#267-51" productId="101" quantity="1">
+        <productActivity>Y</productActivity>
+        <categoryId>18</categoryId>
+        <categoryId>59</categoryId>
+        <categoryId>70</categoryId>
+        <productName>Темно-серая футболка KNU </productName>
+        <name>Темно-серая футболка KNU  (Размер:: XS)</name>
+        <price>319</price>
+        <vendor>PAQUIS</vendor>
+        <picture>https://knushop.com.ua/image/cache/catalog/photo/goods/paquis/TS-PQS-021-front-262x334.jpg</picture>
+        <url>https://knushop.com.ua/index.php?route=product/product&amp;product_id=101</url>
+        <param code="267" name="Размер:">XS</param>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="101#267-52" productId="101" quantity="6">
+        <productActivity>Y</productActivity>
+        <categoryId>18</categoryId>
+        <categoryId>59</categoryId>
+        <categoryId>70</categoryId>
+        <productName>Темно-серая футболка KNU </productName>
+        <name>Темно-серая футболка KNU  (Размер:: S)</name>
+        <price>319</price>
+        <vendor>PAQUIS</vendor>
+        <picture>https://knushop.com.ua/image/cache/catalog/photo/goods/paquis/TS-PQS-021-front-262x334.jpg</picture>
+        <url>https://knushop.com.ua/index.php?route=product/product&amp;product_id=101</url>
+        <param code="267" name="Размер:">S</param>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="101#267-53" productId="101" quantity="3">
+        <productActivity>Y</productActivity>
+        <categoryId>18</categoryId>
+        <categoryId>59</categoryId>
+        <categoryId>70</categoryId>
+        <productName>Темно-серая футболка KNU </productName>
+        <name>Темно-серая футболка KNU  (Размер:: M)</name>
+        <price>319</price>
+        <vendor>PAQUIS</vendor>
+        <picture>https://knushop.com.ua/image/cache/catalog/photo/goods/paquis/TS-PQS-021-front-262x334.jpg</picture>
+        <url>https://knushop.com.ua/index.php?route=product/product&amp;product_id=101</url>
+        <param code="267" name="Размер:">M</param>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="101#267-54" productId="101" quantity="6">
+        <productActivity>Y</productActivity>
+        <categoryId>18</categoryId>
+        <categoryId>59</categoryId>
+        <categoryId>70</categoryId>
+        <productName>Темно-серая футболка KNU </productName>
+        <name>Темно-серая футболка KNU  (Размер:: L)</name>
+        <price>319</price>
+        <vendor>PAQUIS</vendor>
+        <picture>https://knushop.com.ua/image/cache/catalog/photo/goods/paquis/TS-PQS-021-front-262x334.jpg</picture>
+        <url>https://knushop.com.ua/index.php?route=product/product&amp;product_id=101</url>
+        <param code="267" name="Размер:">L</param>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="101#267-55" productId="101" quantity="4">
+        <productActivity>Y</productActivity>
+        <categoryId>18</categoryId>
+        <categoryId>59</categoryId>
+        <categoryId>70</categoryId>
+        <productName>Темно-серая футболка KNU </productName>
+        <name>Темно-серая футболка KNU  (Размер:: XL)</name>
+        <price>319</price>
+        <vendor>PAQUIS</vendor>
+        <picture>https://knushop.com.ua/image/cache/catalog/photo/goods/paquis/TS-PQS-021-front-262x334.jpg</picture>
+        <url>https://knushop.com.ua/index.php?route=product/product&amp;product_id=101</url>
+        <param code="267" name="Размер:">XL</param>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="101#267-56" productId="101" quantity="0">
+        <productActivity>Y</productActivity>
+        <categoryId>18</categoryId>
+        <categoryId>59</categoryId>
+        <categoryId>70</categoryId>
+        <productName>Темно-серая футболка KNU </productName>
+        <name>Темно-серая футболка KNU  (Размер:: XXL)</name>
+        <price>319</price>
+        <vendor>PAQUIS</vendor>
+        <picture>https://knushop.com.ua/image/cache/catalog/photo/goods/paquis/TS-PQS-021-front-262x334.jpg</picture>
+        <url>https://knushop.com.ua/index.php?route=product/product&amp;product_id=101</url>
+        <param code="267" name="Размер:">XXL</param>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="101#267-57" productId="101" quantity="0">
+        <productActivity>Y</productActivity>
+        <categoryId>18</categoryId>
+        <categoryId>59</categoryId>
+        <categoryId>70</categoryId>
+        <productName>Темно-серая футболка KNU </productName>
+        <name>Темно-серая футболка KNU  (Размер:: XXXL)</name>
+        <price>319</price>
+        <vendor>PAQUIS</vendor>
+        <picture>https://knushop.com.ua/image/cache/catalog/photo/goods/paquis/TS-PQS-021-front-262x334.jpg</picture>
+        <url>https://knushop.com.ua/index.php?route=product/product&amp;product_id=101</url>
+        <param code="267" name="Размер:">XXXL</param>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="124#275-50" productId="124" quantity="0">
+        <productActivity>Y</productActivity>
+        <categoryId>25</categoryId>
+        <categoryId>59</categoryId>
+        <productName>Темно-серый свитшот </productName>
+        <name>Темно-серый свитшот  (Размер:: XXS)</name>
+        <price>569</price>
+        <vendor>PAQUIS</vendor>
+        <picture>https://knushop.com.ua/image/cache/catalog/photo/goods/paquis/HD-PQS-048-front-min-262x334.jpg</picture>
+        <url>https://knushop.com.ua/index.php?route=product/product&amp;product_id=124</url>
+        <param code="275" name="Размер:">XXS</param>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="124#275-51" productId="124" quantity="0">
+        <productActivity>Y</productActivity>
+        <categoryId>25</categoryId>
+        <categoryId>59</categoryId>
+        <productName>Темно-серый свитшот </productName>
+        <name>Темно-серый свитшот  (Размер:: XS)</name>
+        <price>569</price>
+        <vendor>PAQUIS</vendor>
+        <picture>https://knushop.com.ua/image/cache/catalog/photo/goods/paquis/HD-PQS-048-front-min-262x334.jpg</picture>
+        <url>https://knushop.com.ua/index.php?route=product/product&amp;product_id=124</url>
+        <param code="275" name="Размер:">XS</param>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="124#275-52" productId="124" quantity="5">
+        <productActivity>Y</productActivity>
+        <categoryId>25</categoryId>
+        <categoryId>59</categoryId>
+        <productName>Темно-серый свитшот </productName>
+        <name>Темно-серый свитшот  (Размер:: S)</name>
+        <price>569</price>
+        <vendor>PAQUIS</vendor>
+        <picture>https://knushop.com.ua/image/cache/catalog/photo/goods/paquis/HD-PQS-048-front-min-262x334.jpg</picture>
+        <url>https://knushop.com.ua/index.php?route=product/product&amp;product_id=124</url>
+        <param code="275" name="Размер:">S</param>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="124#275-53" productId="124" quantity="2">
+        <productActivity>Y</productActivity>
+        <categoryId>25</categoryId>
+        <categoryId>59</categoryId>
+        <productName>Темно-серый свитшот </productName>
+        <name>Темно-серый свитшот  (Размер:: M)</name>
+        <price>569</price>
+        <vendor>PAQUIS</vendor>
+        <picture>https://knushop.com.ua/image/cache/catalog/photo/goods/paquis/HD-PQS-048-front-min-262x334.jpg</picture>
+        <url>https://knushop.com.ua/index.php?route=product/product&amp;product_id=124</url>
+        <param code="275" name="Размер:">M</param>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="124#275-54" productId="124" quantity="4">
+        <productActivity>Y</productActivity>
+        <categoryId>25</categoryId>
+        <categoryId>59</categoryId>
+        <productName>Темно-серый свитшот </productName>
+        <name>Темно-серый свитшот  (Размер:: L)</name>
+        <price>569</price>
+        <vendor>PAQUIS</vendor>
+        <picture>https://knushop.com.ua/image/cache/catalog/photo/goods/paquis/HD-PQS-048-front-min-262x334.jpg</picture>
+        <url>https://knushop.com.ua/index.php?route=product/product&amp;product_id=124</url>
+        <param code="275" name="Размер:">L</param>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="124#275-55" productId="124" quantity="5">
+        <productActivity>Y</productActivity>
+        <categoryId>25</categoryId>
+        <categoryId>59</categoryId>
+        <productName>Темно-серый свитшот </productName>
+        <name>Темно-серый свитшот  (Размер:: XL)</name>
+        <price>569</price>
+        <vendor>PAQUIS</vendor>
+        <picture>https://knushop.com.ua/image/cache/catalog/photo/goods/paquis/HD-PQS-048-front-min-262x334.jpg</picture>
+        <url>https://knushop.com.ua/index.php?route=product/product&amp;product_id=124</url>
+        <param code="275" name="Размер:">XL</param>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="124#275-56" productId="124" quantity="0">
+        <productActivity>Y</productActivity>
+        <categoryId>25</categoryId>
+        <categoryId>59</categoryId>
+        <productName>Темно-серый свитшот </productName>
+        <name>Темно-серый свитшот  (Размер:: XXL)</name>
+        <price>569</price>
+        <vendor>PAQUIS</vendor>
+        <picture>https://knushop.com.ua/image/cache/catalog/photo/goods/paquis/HD-PQS-048-front-min-262x334.jpg</picture>
+        <url>https://knushop.com.ua/index.php?route=product/product&amp;product_id=124</url>
+        <param code="275" name="Размер:">XXL</param>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="124#275-57" productId="124" quantity="0">
+        <productActivity>Y</productActivity>
+        <categoryId>25</categoryId>
+        <categoryId>59</categoryId>
+        <productName>Темно-серый свитшот </productName>
+        <name>Темно-серый свитшот  (Размер:: XXXL)</name>
+        <price>569</price>
+        <vendor>PAQUIS</vendor>
+        <picture>https://knushop.com.ua/image/cache/catalog/photo/goods/paquis/HD-PQS-048-front-min-262x334.jpg</picture>
+        <url>https://knushop.com.ua/index.php?route=product/product&amp;product_id=124</url>
+        <param code="275" name="Размер:">XXXL</param>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="97#263-50" productId="97" quantity="5">
+        <productActivity>Y</productActivity>
+        <categoryId>25</categoryId>
+        <categoryId>59</categoryId>
+        <categoryId>60</categoryId>
+        <categoryId>70</categoryId>
+        <productName>Темно-синее худи с вишивкой КНУ</productName>
+        <name>Темно-синее худи с вишивкой КНУ (Размер:: XXS)</name>
+        <price>669</price>
+        <vendor>PAQUIS</vendor>
+        <picture>https://knushop.com.ua/image/cache/catalog/photo/goods/paquis/HD-PQS-024-front-262x334.jpg</picture>
+        <url>https://knushop.com.ua/index.php?route=product/product&amp;product_id=97</url>
+        <param code="263" name="Размер:">XXS</param>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="97#263-51" productId="97" quantity="7">
+        <productActivity>Y</productActivity>
+        <categoryId>25</categoryId>
+        <categoryId>59</categoryId>
+        <categoryId>60</categoryId>
+        <categoryId>70</categoryId>
+        <productName>Темно-синее худи с вишивкой КНУ</productName>
+        <name>Темно-синее худи с вишивкой КНУ (Размер:: XS)</name>
+        <price>669</price>
+        <vendor>PAQUIS</vendor>
+        <picture>https://knushop.com.ua/image/cache/catalog/photo/goods/paquis/HD-PQS-024-front-262x334.jpg</picture>
+        <url>https://knushop.com.ua/index.php?route=product/product&amp;product_id=97</url>
+        <param code="263" name="Размер:">XS</param>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="97#263-52" productId="97" quantity="14">
+        <productActivity>Y</productActivity>
+        <categoryId>25</categoryId>
+        <categoryId>59</categoryId>
+        <categoryId>60</categoryId>
+        <categoryId>70</categoryId>
+        <productName>Темно-синее худи с вишивкой КНУ</productName>
+        <name>Темно-синее худи с вишивкой КНУ (Размер:: S)</name>
+        <price>669</price>
+        <vendor>PAQUIS</vendor>
+        <picture>https://knushop.com.ua/image/cache/catalog/photo/goods/paquis/HD-PQS-024-front-262x334.jpg</picture>
+        <url>https://knushop.com.ua/index.php?route=product/product&amp;product_id=97</url>
+        <param code="263" name="Размер:">S</param>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="97#263-53" productId="97" quantity="8">
+        <productActivity>Y</productActivity>
+        <categoryId>25</categoryId>
+        <categoryId>59</categoryId>
+        <categoryId>60</categoryId>
+        <categoryId>70</categoryId>
+        <productName>Темно-синее худи с вишивкой КНУ</productName>
+        <name>Темно-синее худи с вишивкой КНУ (Размер:: M)</name>
+        <price>669</price>
+        <vendor>PAQUIS</vendor>
+        <picture>https://knushop.com.ua/image/cache/catalog/photo/goods/paquis/HD-PQS-024-front-262x334.jpg</picture>
+        <url>https://knushop.com.ua/index.php?route=product/product&amp;product_id=97</url>
+        <param code="263" name="Размер:">M</param>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="97#263-54" productId="97" quantity="6">
+        <productActivity>Y</productActivity>
+        <categoryId>25</categoryId>
+        <categoryId>59</categoryId>
+        <categoryId>60</categoryId>
+        <categoryId>70</categoryId>
+        <productName>Темно-синее худи с вишивкой КНУ</productName>
+        <name>Темно-синее худи с вишивкой КНУ (Размер:: L)</name>
+        <price>669</price>
+        <vendor>PAQUIS</vendor>
+        <picture>https://knushop.com.ua/image/cache/catalog/photo/goods/paquis/HD-PQS-024-front-262x334.jpg</picture>
+        <url>https://knushop.com.ua/index.php?route=product/product&amp;product_id=97</url>
+        <param code="263" name="Размер:">L</param>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="97#263-55" productId="97" quantity="2">
+        <productActivity>Y</productActivity>
+        <categoryId>25</categoryId>
+        <categoryId>59</categoryId>
+        <categoryId>60</categoryId>
+        <categoryId>70</categoryId>
+        <productName>Темно-синее худи с вишивкой КНУ</productName>
+        <name>Темно-синее худи с вишивкой КНУ (Размер:: XL)</name>
+        <price>669</price>
+        <vendor>PAQUIS</vendor>
+        <picture>https://knushop.com.ua/image/cache/catalog/photo/goods/paquis/HD-PQS-024-front-262x334.jpg</picture>
+        <url>https://knushop.com.ua/index.php?route=product/product&amp;product_id=97</url>
+        <param code="263" name="Размер:">XL</param>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="97#263-56" productId="97" quantity="6">
+        <productActivity>Y</productActivity>
+        <categoryId>25</categoryId>
+        <categoryId>59</categoryId>
+        <categoryId>60</categoryId>
+        <categoryId>70</categoryId>
+        <productName>Темно-синее худи с вишивкой КНУ</productName>
+        <name>Темно-синее худи с вишивкой КНУ (Размер:: XXL)</name>
+        <price>669</price>
+        <vendor>PAQUIS</vendor>
+        <picture>https://knushop.com.ua/image/cache/catalog/photo/goods/paquis/HD-PQS-024-front-262x334.jpg</picture>
+        <url>https://knushop.com.ua/index.php?route=product/product&amp;product_id=97</url>
+        <param code="263" name="Размер:">XXL</param>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="97#263-57" productId="97" quantity="2">
+        <productActivity>Y</productActivity>
+        <categoryId>25</categoryId>
+        <categoryId>59</categoryId>
+        <categoryId>60</categoryId>
+        <categoryId>70</categoryId>
+        <productName>Темно-синее худи с вишивкой КНУ</productName>
+        <name>Темно-синее худи с вишивкой КНУ (Размер:: XXXL)</name>
+        <price>669</price>
+        <vendor>PAQUIS</vendor>
+        <picture>https://knushop.com.ua/image/cache/catalog/photo/goods/paquis/HD-PQS-024-front-262x334.jpg</picture>
+        <url>https://knushop.com.ua/index.php?route=product/product&amp;product_id=97</url>
+        <param code="263" name="Размер:">XXXL</param>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="89" productId="89" quantity="15">
+        <productActivity>Y</productActivity>
+        <categoryId>59</categoryId>
+        <categoryId>68</categoryId>
+        <productName>Тёмно-синяя кепка с КНУ</productName>
+        <name>Тёмно-синяя кепка с КНУ</name>
+        <price>160</price>
+        <vendor>PAQUIS</vendor>
+        <picture>https://knushop.com.ua/image/cache/catalog/photo/goods/paquis/CP-PQS-027-anfas-262x334.jpg</picture>
+        <url>https://knushop.com.ua/index.php?route=product/product&amp;product_id=89</url>
+        <param code="article" name="Артикул">CP-PQS-027</param>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="125#276-50" productId="125" quantity="0">
+        <productActivity>Y</productActivity>
+        <categoryId>18</categoryId>
+        <categoryId>59</categoryId>
+        <productName>Темно-синяя футболка с красным корпусом</productName>
+        <name>Темно-синяя футболка с красным корпусом (Размер:: XXS)</name>
+        <price>319</price>
+        <vendor>PAQUIS</vendor>
+        <picture>https://knushop.com.ua/image/cache/catalog/photo/goods/paquis/TS-PQS-047-main-262x334.jpg</picture>
+        <url>https://knushop.com.ua/index.php?route=product/product&amp;product_id=125</url>
+        <param code="276" name="Размер:">XXS</param>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="125#276-51" productId="125" quantity="0">
+        <productActivity>Y</productActivity>
+        <categoryId>18</categoryId>
+        <categoryId>59</categoryId>
+        <productName>Темно-синяя футболка с красным корпусом</productName>
+        <name>Темно-синяя футболка с красным корпусом (Размер:: XS)</name>
+        <price>319</price>
+        <vendor>PAQUIS</vendor>
+        <picture>https://knushop.com.ua/image/cache/catalog/photo/goods/paquis/TS-PQS-047-main-262x334.jpg</picture>
+        <url>https://knushop.com.ua/index.php?route=product/product&amp;product_id=125</url>
+        <param code="276" name="Размер:">XS</param>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="125#276-52" productId="125" quantity="4">
+        <productActivity>Y</productActivity>
+        <categoryId>18</categoryId>
+        <categoryId>59</categoryId>
+        <productName>Темно-синяя футболка с красным корпусом</productName>
+        <name>Темно-синяя футболка с красным корпусом (Размер:: S)</name>
+        <price>319</price>
+        <vendor>PAQUIS</vendor>
+        <picture>https://knushop.com.ua/image/cache/catalog/photo/goods/paquis/TS-PQS-047-main-262x334.jpg</picture>
+        <url>https://knushop.com.ua/index.php?route=product/product&amp;product_id=125</url>
+        <param code="276" name="Размер:">S</param>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="125#276-53" productId="125" quantity="0">
+        <productActivity>Y</productActivity>
+        <categoryId>18</categoryId>
+        <categoryId>59</categoryId>
+        <productName>Темно-синяя футболка с красным корпусом</productName>
+        <name>Темно-синяя футболка с красным корпусом (Размер:: M)</name>
+        <price>319</price>
+        <vendor>PAQUIS</vendor>
+        <picture>https://knushop.com.ua/image/cache/catalog/photo/goods/paquis/TS-PQS-047-main-262x334.jpg</picture>
+        <url>https://knushop.com.ua/index.php?route=product/product&amp;product_id=125</url>
+        <param code="276" name="Размер:">M</param>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="125#276-54" productId="125" quantity="1">
+        <productActivity>Y</productActivity>
+        <categoryId>18</categoryId>
+        <categoryId>59</categoryId>
+        <productName>Темно-синяя футболка с красным корпусом</productName>
+        <name>Темно-синяя футболка с красным корпусом (Размер:: L)</name>
+        <price>319</price>
+        <vendor>PAQUIS</vendor>
+        <picture>https://knushop.com.ua/image/cache/catalog/photo/goods/paquis/TS-PQS-047-main-262x334.jpg</picture>
+        <url>https://knushop.com.ua/index.php?route=product/product&amp;product_id=125</url>
+        <param code="276" name="Размер:">L</param>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="125#276-55" productId="125" quantity="5">
+        <productActivity>Y</productActivity>
+        <categoryId>18</categoryId>
+        <categoryId>59</categoryId>
+        <productName>Темно-синяя футболка с красным корпусом</productName>
+        <name>Темно-синяя футболка с красным корпусом (Размер:: XL)</name>
+        <price>319</price>
+        <vendor>PAQUIS</vendor>
+        <picture>https://knushop.com.ua/image/cache/catalog/photo/goods/paquis/TS-PQS-047-main-262x334.jpg</picture>
+        <url>https://knushop.com.ua/index.php?route=product/product&amp;product_id=125</url>
+        <param code="276" name="Размер:">XL</param>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="125#276-56" productId="125" quantity="0">
+        <productActivity>Y</productActivity>
+        <categoryId>18</categoryId>
+        <categoryId>59</categoryId>
+        <productName>Темно-синяя футболка с красным корпусом</productName>
+        <name>Темно-синяя футболка с красным корпусом (Размер:: XXL)</name>
+        <price>319</price>
+        <vendor>PAQUIS</vendor>
+        <picture>https://knushop.com.ua/image/cache/catalog/photo/goods/paquis/TS-PQS-047-main-262x334.jpg</picture>
+        <url>https://knushop.com.ua/index.php?route=product/product&amp;product_id=125</url>
+        <param code="276" name="Размер:">XXL</param>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="125#276-57" productId="125" quantity="0">
+        <productActivity>Y</productActivity>
+        <categoryId>18</categoryId>
+        <categoryId>59</categoryId>
+        <productName>Темно-синяя футболка с красным корпусом</productName>
+        <name>Темно-синяя футболка с красным корпусом (Размер:: XXXL)</name>
+        <price>319</price>
+        <vendor>PAQUIS</vendor>
+        <picture>https://knushop.com.ua/image/cache/catalog/photo/goods/paquis/TS-PQS-047-main-262x334.jpg</picture>
+        <url>https://knushop.com.ua/index.php?route=product/product&amp;product_id=125</url>
+        <param code="276" name="Размер:">XXXL</param>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="149#293-59" productId="149" quantity="8">
+        <productActivity>Y</productActivity>
+        <categoryId>59</categoryId>
+        <categoryId>65</categoryId>
+        <productName>Термос с KNU</productName>
+        <name>Термос с KNU (Цвет:: Чёрный)</name>
+        <price>250</price>
+        <vendor>PAQUIS</vendor>
+        <picture>https://knushop.com.ua/image/cache/catalog/photo/goods/paquis/home/BL-PQS-047-all-262x334.jpg</picture>
+        <url>https://knushop.com.ua/index.php?route=product/product&amp;product_id=149</url>
+        <param code="293" name="Цвет:">Чёрный</param>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="149#293-60" productId="149" quantity="7">
+        <productActivity>Y</productActivity>
+        <categoryId>59</categoryId>
+        <categoryId>65</categoryId>
+        <productName>Термос с KNU</productName>
+        <name>Термос с KNU (Цвет:: Красный)</name>
+        <price>250</price>
+        <vendor>PAQUIS</vendor>
+        <picture>https://knushop.com.ua/image/cache/catalog/photo/goods/paquis/home/BL-PQS-047-all-262x334.jpg</picture>
+        <url>https://knushop.com.ua/index.php?route=product/product&amp;product_id=149</url>
+        <param code="293" name="Цвет:">Красный</param>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="149#293-62" productId="149" quantity="7">
+        <productActivity>Y</productActivity>
+        <categoryId>59</categoryId>
+        <categoryId>65</categoryId>
+        <productName>Термос с KNU</productName>
+        <name>Термос с KNU (Цвет:: Синий)</name>
+        <price>250</price>
+        <vendor>PAQUIS</vendor>
+        <picture>https://knushop.com.ua/image/cache/catalog/photo/goods/paquis/home/BL-PQS-047-all-262x334.jpg</picture>
+        <url>https://knushop.com.ua/index.php?route=product/product&amp;product_id=149</url>
+        <param code="293" name="Цвет:">Синий</param>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="122" productId="122" quantity="4">
+        <productActivity>Y</productActivity>
+        <categoryId>67</categoryId>
+        <productName>Туренко В.Е. Идея любви в античной прозе: история, философия, роман (тексты, переводы, исследования)</productName>
+        <name>Туренко В.Е. Идея любви в античной прозе: история, философия, роман (тексты, переводы, исследования)</name>
+        <price>250</price>
+        <picture>https://knushop.com.ua/image/cache/catalog/photo/goods/books/idea-turenko-philosophy-262x334.JPG</picture>
+        <url>https://knushop.com.ua/index.php?route=product/product&amp;product_id=122</url>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="143" productId="143" quantity="20">
+        <productActivity>Y</productActivity>
+        <categoryId>67</categoryId>
+        <productName>Христианские концепты в литературе Киевской Руси</productName>
+        <name>Христианские концепты в литературе Киевской Руси</name>
+        <price>200</price>
+        <picture>https://knushop.com.ua/image/cache/catalog/photo/goods/books/christian-concepts-262x334.jpg</picture>
+        <url>https://knushop.com.ua/index.php?route=product/product&amp;product_id=143</url>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="155" productId="155" quantity="7">
+        <productActivity>Y</productActivity>
+        <categoryId>59</categoryId>
+        <categoryId>60</categoryId>
+        <categoryId>65</categoryId>
+        <productName>Цукаты &amp;quot;Киевское сухое варенье&amp;quot;</productName>
+        <name>Цукаты &amp;quot;Киевское сухое варенье&amp;quot;</name>
+        <price>225</price>
+        <picture>https://knushop.com.ua/image/cache/catalog/photo/goods/paquis/home/KSC-JAR-063-front-262x334.jpg</picture>
+        <url>https://knushop.com.ua/index.php?route=product/product&amp;product_id=155</url>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="102#268-50" productId="102" quantity="1">
+        <productActivity>Y</productActivity>
+        <categoryId>18</categoryId>
+        <categoryId>59</categoryId>
+        <productName>Черная футболка с белым принтом</productName>
+        <name>Черная футболка с белым принтом (Размер:: XXS)</name>
+        <price>319</price>
+        <vendor>PAQUIS</vendor>
+        <picture>https://knushop.com.ua/image/cache/catalog/photo/goods/paquis/TS-PQS-025-front-262x334.jpg</picture>
+        <url>https://knushop.com.ua/index.php?route=product/product&amp;product_id=102</url>
+        <param code="268" name="Размер:">XXS</param>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="102#268-51" productId="102" quantity="4">
+        <productActivity>Y</productActivity>
+        <categoryId>18</categoryId>
+        <categoryId>59</categoryId>
+        <productName>Черная футболка с белым принтом</productName>
+        <name>Черная футболка с белым принтом (Размер:: XS)</name>
+        <price>319</price>
+        <vendor>PAQUIS</vendor>
+        <picture>https://knushop.com.ua/image/cache/catalog/photo/goods/paquis/TS-PQS-025-front-262x334.jpg</picture>
+        <url>https://knushop.com.ua/index.php?route=product/product&amp;product_id=102</url>
+        <param code="268" name="Размер:">XS</param>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="102#268-52" productId="102" quantity="2">
+        <productActivity>Y</productActivity>
+        <categoryId>18</categoryId>
+        <categoryId>59</categoryId>
+        <productName>Черная футболка с белым принтом</productName>
+        <name>Черная футболка с белым принтом (Размер:: S)</name>
+        <price>319</price>
+        <vendor>PAQUIS</vendor>
+        <picture>https://knushop.com.ua/image/cache/catalog/photo/goods/paquis/TS-PQS-025-front-262x334.jpg</picture>
+        <url>https://knushop.com.ua/index.php?route=product/product&amp;product_id=102</url>
+        <param code="268" name="Размер:">S</param>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="102#268-53" productId="102" quantity="0">
+        <productActivity>Y</productActivity>
+        <categoryId>18</categoryId>
+        <categoryId>59</categoryId>
+        <productName>Черная футболка с белым принтом</productName>
+        <name>Черная футболка с белым принтом (Размер:: M)</name>
+        <price>319</price>
+        <vendor>PAQUIS</vendor>
+        <picture>https://knushop.com.ua/image/cache/catalog/photo/goods/paquis/TS-PQS-025-front-262x334.jpg</picture>
+        <url>https://knushop.com.ua/index.php?route=product/product&amp;product_id=102</url>
+        <param code="268" name="Размер:">M</param>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="102#268-54" productId="102" quantity="1">
+        <productActivity>Y</productActivity>
+        <categoryId>18</categoryId>
+        <categoryId>59</categoryId>
+        <productName>Черная футболка с белым принтом</productName>
+        <name>Черная футболка с белым принтом (Размер:: L)</name>
+        <price>319</price>
+        <vendor>PAQUIS</vendor>
+        <picture>https://knushop.com.ua/image/cache/catalog/photo/goods/paquis/TS-PQS-025-front-262x334.jpg</picture>
+        <url>https://knushop.com.ua/index.php?route=product/product&amp;product_id=102</url>
+        <param code="268" name="Размер:">L</param>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="102#268-55" productId="102" quantity="6">
+        <productActivity>Y</productActivity>
+        <categoryId>18</categoryId>
+        <categoryId>59</categoryId>
+        <productName>Черная футболка с белым принтом</productName>
+        <name>Черная футболка с белым принтом (Размер:: XL)</name>
+        <price>319</price>
+        <vendor>PAQUIS</vendor>
+        <picture>https://knushop.com.ua/image/cache/catalog/photo/goods/paquis/TS-PQS-025-front-262x334.jpg</picture>
+        <url>https://knushop.com.ua/index.php?route=product/product&amp;product_id=102</url>
+        <param code="268" name="Размер:">XL</param>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="102#268-56" productId="102" quantity="0">
+        <productActivity>Y</productActivity>
+        <categoryId>18</categoryId>
+        <categoryId>59</categoryId>
+        <productName>Черная футболка с белым принтом</productName>
+        <name>Черная футболка с белым принтом (Размер:: XXL)</name>
+        <price>319</price>
+        <vendor>PAQUIS</vendor>
+        <picture>https://knushop.com.ua/image/cache/catalog/photo/goods/paquis/TS-PQS-025-front-262x334.jpg</picture>
+        <url>https://knushop.com.ua/index.php?route=product/product&amp;product_id=102</url>
+        <param code="268" name="Размер:">XXL</param>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="102#268-57" productId="102" quantity="0">
+        <productActivity>Y</productActivity>
+        <categoryId>18</categoryId>
+        <categoryId>59</categoryId>
+        <productName>Черная футболка с белым принтом</productName>
+        <name>Черная футболка с белым принтом (Размер:: XXXL)</name>
+        <price>319</price>
+        <vendor>PAQUIS</vendor>
+        <picture>https://knushop.com.ua/image/cache/catalog/photo/goods/paquis/TS-PQS-025-front-262x334.jpg</picture>
+        <url>https://knushop.com.ua/index.php?route=product/product&amp;product_id=102</url>
+        <param code="268" name="Размер:">XXXL</param>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="69#247-50" productId="69" quantity="5">
+        <productActivity>Y</productActivity>
+        <categoryId>18</categoryId>
+        <categoryId>59</categoryId>
+        <productName>Черная футболка с красным корпусом</productName>
+        <name>Черная футболка с красным корпусом (Размер:: XXS)</name>
+        <price>299</price>
+        <vendor>PAQUIS</vendor>
+        <picture>https://knushop.com.ua/image/cache/catalog/photo/goods/paquis/TS-PQS-001 front1-262x334.jpg</picture>
+        <url>https://knushop.com.ua/index.php?route=product/product&amp;product_id=69</url>
+        <param code="247" name="Размер:">XXS</param>
+        <param code="article" name="Артикул">TS-PQS-001</param>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="69#247-51" productId="69" quantity="3">
+        <productActivity>Y</productActivity>
+        <categoryId>18</categoryId>
+        <categoryId>59</categoryId>
+        <productName>Черная футболка с красным корпусом</productName>
+        <name>Черная футболка с красным корпусом (Размер:: XS)</name>
+        <price>299</price>
+        <vendor>PAQUIS</vendor>
+        <picture>https://knushop.com.ua/image/cache/catalog/photo/goods/paquis/TS-PQS-001 front1-262x334.jpg</picture>
+        <url>https://knushop.com.ua/index.php?route=product/product&amp;product_id=69</url>
+        <param code="247" name="Размер:">XS</param>
+        <param code="article" name="Артикул">TS-PQS-001</param>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="69#247-52" productId="69" quantity="5">
+        <productActivity>Y</productActivity>
+        <categoryId>18</categoryId>
+        <categoryId>59</categoryId>
+        <productName>Черная футболка с красным корпусом</productName>
+        <name>Черная футболка с красным корпусом (Размер:: S)</name>
+        <price>299</price>
+        <vendor>PAQUIS</vendor>
+        <picture>https://knushop.com.ua/image/cache/catalog/photo/goods/paquis/TS-PQS-001 front1-262x334.jpg</picture>
+        <url>https://knushop.com.ua/index.php?route=product/product&amp;product_id=69</url>
+        <param code="247" name="Размер:">S</param>
+        <param code="article" name="Артикул">TS-PQS-001</param>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="69#247-53" productId="69" quantity="0">
+        <productActivity>Y</productActivity>
+        <categoryId>18</categoryId>
+        <categoryId>59</categoryId>
+        <productName>Черная футболка с красным корпусом</productName>
+        <name>Черная футболка с красным корпусом (Размер:: M)</name>
+        <price>299</price>
+        <vendor>PAQUIS</vendor>
+        <picture>https://knushop.com.ua/image/cache/catalog/photo/goods/paquis/TS-PQS-001 front1-262x334.jpg</picture>
+        <url>https://knushop.com.ua/index.php?route=product/product&amp;product_id=69</url>
+        <param code="247" name="Размер:">M</param>
+        <param code="article" name="Артикул">TS-PQS-001</param>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="69#247-54" productId="69" quantity="1">
+        <productActivity>Y</productActivity>
+        <categoryId>18</categoryId>
+        <categoryId>59</categoryId>
+        <productName>Черная футболка с красным корпусом</productName>
+        <name>Черная футболка с красным корпусом (Размер:: L)</name>
+        <price>299</price>
+        <vendor>PAQUIS</vendor>
+        <picture>https://knushop.com.ua/image/cache/catalog/photo/goods/paquis/TS-PQS-001 front1-262x334.jpg</picture>
+        <url>https://knushop.com.ua/index.php?route=product/product&amp;product_id=69</url>
+        <param code="247" name="Размер:">L</param>
+        <param code="article" name="Артикул">TS-PQS-001</param>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="69#247-55" productId="69" quantity="9">
+        <productActivity>Y</productActivity>
+        <categoryId>18</categoryId>
+        <categoryId>59</categoryId>
+        <productName>Черная футболка с красным корпусом</productName>
+        <name>Черная футболка с красным корпусом (Размер:: XL)</name>
+        <price>299</price>
+        <vendor>PAQUIS</vendor>
+        <picture>https://knushop.com.ua/image/cache/catalog/photo/goods/paquis/TS-PQS-001 front1-262x334.jpg</picture>
+        <url>https://knushop.com.ua/index.php?route=product/product&amp;product_id=69</url>
+        <param code="247" name="Размер:">XL</param>
+        <param code="article" name="Артикул">TS-PQS-001</param>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="69#247-56" productId="69" quantity="8">
+        <productActivity>Y</productActivity>
+        <categoryId>18</categoryId>
+        <categoryId>59</categoryId>
+        <productName>Черная футболка с красным корпусом</productName>
+        <name>Черная футболка с красным корпусом (Размер:: XXL)</name>
+        <price>299</price>
+        <vendor>PAQUIS</vendor>
+        <picture>https://knushop.com.ua/image/cache/catalog/photo/goods/paquis/TS-PQS-001 front1-262x334.jpg</picture>
+        <url>https://knushop.com.ua/index.php?route=product/product&amp;product_id=69</url>
+        <param code="247" name="Размер:">XXL</param>
+        <param code="article" name="Артикул">TS-PQS-001</param>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="69#247-57" productId="69" quantity="0">
+        <productActivity>Y</productActivity>
+        <categoryId>18</categoryId>
+        <categoryId>59</categoryId>
+        <productName>Черная футболка с красным корпусом</productName>
+        <name>Черная футболка с красным корпусом (Размер:: XXXL)</name>
+        <price>299</price>
+        <vendor>PAQUIS</vendor>
+        <picture>https://knushop.com.ua/image/cache/catalog/photo/goods/paquis/TS-PQS-001 front1-262x334.jpg</picture>
+        <url>https://knushop.com.ua/index.php?route=product/product&amp;product_id=69</url>
+        <param code="247" name="Размер:">XXXL</param>
+        <param code="article" name="Артикул">TS-PQS-001</param>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="142" productId="142" quantity="88">
+        <productActivity>Y</productActivity>
+        <categoryId>34</categoryId>
+        <categoryId>59</categoryId>
+        <categoryId>60</categoryId>
+        <categoryId>62</categoryId>
+        <categoryId>68</categoryId>
+        <productName>Черная экосумка с KNU</productName>
+        <name>Черная экосумка с KNU</name>
+        <price>150</price>
+        <vendor>PAQUIS</vendor>
+        <picture>https://knushop.com.ua/image/cache/catalog/photo/goods/paquis/accessories/BG-PQS-060-front-min-262x334.jpg</picture>
+        <url>https://knushop.com.ua/index.php?route=product/product&amp;product_id=142</url>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="85" productId="85" quantity="88">
+        <productActivity>N</productActivity>
+        <categoryId>34</categoryId>
+        <categoryId>59</categoryId>
+        <categoryId>62</categoryId>
+        <categoryId>68</categoryId>
+        <productName>Черная экосумка с красным корпусом</productName>
+        <name>Черная экосумка с красным корпусом</name>
+        <price>120</price>
+        <vendor>PAQUIS</vendor>
+        <picture>https://knushop.com.ua/image/cache/catalog/photo/goods/paquis/BG-PQS-011-262x334.jpg</picture>
+        <url>https://knushop.com.ua/index.php?route=product/product&amp;product_id=85</url>
+        <param code="article" name="Артикул">BG-PQS-011</param>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="147#291-50" productId="147" quantity="0">
+        <productActivity>Y</productActivity>
+        <categoryId>18</categoryId>
+        <categoryId>59</categoryId>
+        <categoryId>70</categoryId>
+        <productName>Черное поло с патчем КНУ</productName>
+        <name>Черное поло с патчем КНУ (Размер:: XXS)</name>
+        <price>439</price>
+        <vendor>PAQUIS</vendor>
+        <picture>https://knushop.com.ua/image/cache/catalog/photo/goods/paquis/PL-PQS-059-front-262x334.jpg</picture>
+        <url>https://knushop.com.ua/index.php?route=product/product&amp;product_id=147</url>
+        <param code="291" name="Размер:">XXS</param>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="147#291-51" productId="147" quantity="0">
+        <productActivity>Y</productActivity>
+        <categoryId>18</categoryId>
+        <categoryId>59</categoryId>
+        <categoryId>70</categoryId>
+        <productName>Черное поло с патчем КНУ</productName>
+        <name>Черное поло с патчем КНУ (Размер:: XS)</name>
+        <price>439</price>
+        <vendor>PAQUIS</vendor>
+        <picture>https://knushop.com.ua/image/cache/catalog/photo/goods/paquis/PL-PQS-059-front-262x334.jpg</picture>
+        <url>https://knushop.com.ua/index.php?route=product/product&amp;product_id=147</url>
+        <param code="291" name="Размер:">XS</param>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="147#291-52" productId="147" quantity="3">
+        <productActivity>Y</productActivity>
+        <categoryId>18</categoryId>
+        <categoryId>59</categoryId>
+        <categoryId>70</categoryId>
+        <productName>Черное поло с патчем КНУ</productName>
+        <name>Черное поло с патчем КНУ (Размер:: S)</name>
+        <price>439</price>
+        <vendor>PAQUIS</vendor>
+        <picture>https://knushop.com.ua/image/cache/catalog/photo/goods/paquis/PL-PQS-059-front-262x334.jpg</picture>
+        <url>https://knushop.com.ua/index.php?route=product/product&amp;product_id=147</url>
+        <param code="291" name="Размер:">S</param>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="147#291-53" productId="147" quantity="2">
+        <productActivity>Y</productActivity>
+        <categoryId>18</categoryId>
+        <categoryId>59</categoryId>
+        <categoryId>70</categoryId>
+        <productName>Черное поло с патчем КНУ</productName>
+        <name>Черное поло с патчем КНУ (Размер:: M)</name>
+        <price>439</price>
+        <vendor>PAQUIS</vendor>
+        <picture>https://knushop.com.ua/image/cache/catalog/photo/goods/paquis/PL-PQS-059-front-262x334.jpg</picture>
+        <url>https://knushop.com.ua/index.php?route=product/product&amp;product_id=147</url>
+        <param code="291" name="Размер:">M</param>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="147#291-54" productId="147" quantity="1">
+        <productActivity>Y</productActivity>
+        <categoryId>18</categoryId>
+        <categoryId>59</categoryId>
+        <categoryId>70</categoryId>
+        <productName>Черное поло с патчем КНУ</productName>
+        <name>Черное поло с патчем КНУ (Размер:: L)</name>
+        <price>439</price>
+        <vendor>PAQUIS</vendor>
+        <picture>https://knushop.com.ua/image/cache/catalog/photo/goods/paquis/PL-PQS-059-front-262x334.jpg</picture>
+        <url>https://knushop.com.ua/index.php?route=product/product&amp;product_id=147</url>
+        <param code="291" name="Размер:">L</param>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="147#291-55" productId="147" quantity="2">
+        <productActivity>Y</productActivity>
+        <categoryId>18</categoryId>
+        <categoryId>59</categoryId>
+        <categoryId>70</categoryId>
+        <productName>Черное поло с патчем КНУ</productName>
+        <name>Черное поло с патчем КНУ (Размер:: XL)</name>
+        <price>439</price>
+        <vendor>PAQUIS</vendor>
+        <picture>https://knushop.com.ua/image/cache/catalog/photo/goods/paquis/PL-PQS-059-front-262x334.jpg</picture>
+        <url>https://knushop.com.ua/index.php?route=product/product&amp;product_id=147</url>
+        <param code="291" name="Размер:">XL</param>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="147#291-56" productId="147" quantity="0">
+        <productActivity>Y</productActivity>
+        <categoryId>18</categoryId>
+        <categoryId>59</categoryId>
+        <categoryId>70</categoryId>
+        <productName>Черное поло с патчем КНУ</productName>
+        <name>Черное поло с патчем КНУ (Размер:: XXL)</name>
+        <price>439</price>
+        <vendor>PAQUIS</vendor>
+        <picture>https://knushop.com.ua/image/cache/catalog/photo/goods/paquis/PL-PQS-059-front-262x334.jpg</picture>
+        <url>https://knushop.com.ua/index.php?route=product/product&amp;product_id=147</url>
+        <param code="291" name="Размер:">XXL</param>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="147#291-57" productId="147" quantity="0">
+        <productActivity>Y</productActivity>
+        <categoryId>18</categoryId>
+        <categoryId>59</categoryId>
+        <categoryId>70</categoryId>
+        <productName>Черное поло с патчем КНУ</productName>
+        <name>Черное поло с патчем КНУ (Размер:: XXXL)</name>
+        <price>439</price>
+        <vendor>PAQUIS</vendor>
+        <picture>https://knushop.com.ua/image/cache/catalog/photo/goods/paquis/PL-PQS-059-front-262x334.jpg</picture>
+        <url>https://knushop.com.ua/index.php?route=product/product&amp;product_id=147</url>
+        <param code="291" name="Размер:">XXXL</param>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="115" productId="115" quantity="3">
+        <productActivity>Y</productActivity>
+        <categoryId>59</categoryId>
+        <categoryId>64</categoryId>
+        <categoryId>69</categoryId>
+        <productName>Черный блокнот КНУ</productName>
+        <name>Черный блокнот КНУ</name>
+        <price>250</price>
+        <vendor>PAQUIS</vendor>
+        <picture>https://knushop.com.ua/image/cache/catalog/photo/goods/paquis/NB-PQS-040-anfas-262x334.jpg</picture>
+        <url>https://knushop.com.ua/index.php?route=product/product&amp;product_id=115</url>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="121" productId="121" quantity="8">
+        <productActivity>Y</productActivity>
+        <categoryId>59</categoryId>
+        <categoryId>65</categoryId>
+        <productName>Чорна чашка 250 мл з червоним корпусом КНУ</productName>
+        <name>Чорна чашка 250 мл з червоним корпусом КНУ</name>
+        <price>200</price>
+        <vendor>PAQUIS</vendor>
+        <picture>https://knushop.com.ua/image/cache/catalog/photo/goods/paquis/CP-PQS-035-main-262x334.jpg</picture>
+        <url>https://knushop.com.ua/index.php?route=product/product&amp;product_id=121</url>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="107#296-60" productId="107" quantity="8">
+        <productActivity>Y</productActivity>
+        <categoryId>34</categoryId>
+        <categoryId>59</categoryId>
+        <categoryId>62</categoryId>
+        <categoryId>69</categoryId>
+        <productName>Эко ручка</productName>
+        <name>Эко ручка (Цвет:: Красный)</name>
+        <price>40</price>
+        <vendor>PAQUIS</vendor>
+        <picture>https://knushop.com.ua/image/cache/catalog/photo/goods/paquis/ecopen-262x334.png</picture>
+        <url>https://knushop.com.ua/index.php?route=product/product&amp;product_id=107</url>
+        <param code="296" name="Цвет:">Красный</param>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+      <offer id="114" productId="114" quantity="6">
+        <productActivity>Y</productActivity>
+        <categoryId>67</categoryId>
+        <productName>Этнокультурная психология: история и современность.</productName>
+        <name>Этнокультурная психология: история и современность.</name>
+        <price>250</price>
+        <picture>https://knushop.com.ua/image/cache/catalog/photo/goods/books/etnocult-psy-262x334.jpg</picture>
+        <url>https://knushop.com.ua/index.php?route=product/product&amp;product_id=114</url>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+    </offers>
+  </shop>
+</yml_catalog>
